@@ -1,0 +1,24 @@
+language: minimal
+dist: xenial
+sudo: false
+addons:
+  apt:
+    packages:
+    - tree
+env:
+  global:
+  - REPO=Country-IP-Blocks
+script:
+- git clone https://${GIT_USER}:${TOKEN}@github.com/${GIT_USER}/${REPO}.git --branch gh-pages --single-branch gh-pages
+- cd gh-pages
+- $OLDPWD/generate.sh
+- git config user.name "HackingGate"
+- git config user.email "i@hackinggate.com"
+- git add delegated-*-latest.txt country_code.txt *_IPv*
+- tree -H '.' -L 1 --noreport --charset utf-8 > index.html
+- git add index.html
+- git status
+- DATE=$(date)
+- git commit -m "Generated on [$DATE]"
+- git push -q origin gh-pages
+- echo "Updated files on gh-pages"
