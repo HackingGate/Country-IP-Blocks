@@ -15,7 +15,7 @@ script:
 - git config user.name "HackingGate"
 - git config user.email "i@hackinggate.com"
 - git add delegated-*-latest.txt country_code.txt *_IPv*
-- tree -H '.' -L 1 --noreport --charset utf-8 > index.html
+- LC_COLLATE=C tree -H '.' -L 1 --noreport --charset utf-8 > index.html
 - git add index.html
 - git status
 - DATE=$(date)
