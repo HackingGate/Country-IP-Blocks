@@ -19,6 +19,5 @@ script:
 - git add index.html
 - git status
 - DATE=$(date)
-- git commit -m "Generated on [$DATE]"
+- git diff --quiet && git diff --staged --quiet || git commit -m "Generated on [$DATE]"
 - git push -q origin gh-pages
-- echo "Updated files on gh-pages"
