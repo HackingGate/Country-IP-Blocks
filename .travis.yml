@@ -8,6 +8,7 @@ addons:
 env:
   global:
   - REPO=Country-IP-Blocks
+  - LC_ALL=C.UTF-8
 script:
 - git clone https://${GIT_USER}:${TOKEN}@github.com/${GIT_USER}/${REPO}.git --branch gh-pages --single-branch gh-pages
 - cd gh-pages
@@ -15,9 +16,9 @@ script:
 - git config user.name "HackingGate"
 - git config user.email "i@hackinggate.com"
 - git add delegated-*-latest.txt country_code.txt *_IPv*
-- LC_COLLATE=C tree -H '.' -L 1 --noreport --charset utf-8 > index.html
+- tree -H '.' -L 1 --noreport --charset utf-8 > index.html
 - git add index.html
 - git status
 - DATE=$(date)
-- git diff --quiet && git diff --staged --quiet || git commit -m "Generated on [$DATE]"
+- git diff --quiet && git diff --staged --quiet && echo 'Nothing to commit' || git commit -m "Generated on [$DATE]"
 - git push -q origin gh-pages
