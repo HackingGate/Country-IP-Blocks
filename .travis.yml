@@ -16,7 +16,8 @@ script:
 - git config user.name "HackingGate"
 - git config user.email "i@hackinggate.com"
 - git add delegated-*-latest.txt country_code.txt *_IPv*
-- tree -H '.' -L 1 --noreport --charset utf-8 > index.html
+- curl -sL https://gist.github.com/HackingGate/9e8169c7645b074b2f40c959ca20d738/raw/89a9a48db1f494ffee0b7aa552ce35f18ae29091/restore_last_git_modified_time.sh | sh
+- tree -H '.' -L 1 -D --noreport --charset utf-8 > index.html
 - git add index.html
 - git status
 - DATE=$(date)
