@@ -20,7 +20,7 @@ script:
 - curl -sL https://gist.github.com/HackingGate/9e8169c7645b074b2f40c959ca20d738/raw/89a9a48db1f494ffee0b7aa552ce35f18ae29091/restore_last_git_modified_time.sh | sh
 - tree -H '.' -L 1 -D --noreport --charset utf-8 > index.html
 - sed -i "s/Directory Tree/${REPO}/g" index.html
-- cat github-corner.html >> index.html
+- cat $OLDPWD/github-corner.html >> index.html
 - sed -i "s/your-url/github.com\/${GH_USER}\/${REPO}/g" index.html
 - git add index.html
 - git status
