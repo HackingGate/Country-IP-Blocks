@@ -1,4 +1,7 @@
 language: minimal
+branches:
+  only:
+  - master
 addons:
   apt:
     packages:
