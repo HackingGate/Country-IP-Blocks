@@ -1,6 +1,4 @@
 language: minimal
-dist: xenial
-sudo: false
 addons:
   apt:
     packages:
