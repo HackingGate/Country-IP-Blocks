@@ -18,12 +18,11 @@ script:
 - git config user.name "${GIT_NAME}"
 - git config user.email "${GIT_EMAIL}"
 - git add delegated-*-latest.txt country_code.txt *_IPv* sha256sums
+- git diff --quiet && git diff --staged --quiet && echo 'Nothing to commit' || git commit -m "Generated on [$(date)]"
 - curl -sL https://gist.github.com/HackingGate/9e8169c7645b074b2f40c959ca20d738/raw/89a9a48db1f494ffee0b7aa552ce35f18ae29091/restore_last_git_modified_time.sh | sh
 - tree -H '.' -L 1 -h -D --timefmt '%Y-%m-%d %H:%M:%S %Z' --noreport --charset utf-8 -T 'Country IP Blocks' -o index.html
 - cat $OLDPWD/github-corner.html >> index.html
 - sed -i "s/your-url/github.com\/${GH_USER}\/${REPO}/g" index.html
 - git add index.html
-- git status
-- DATE=$(date)
-- git diff --quiet && git diff --staged --quiet && echo 'Nothing to commit' || git commit -m "Generated on [$DATE]"
+- git commit --amend --no-edit
 - git push -q origin gh-pages
