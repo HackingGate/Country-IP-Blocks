@@ -1,7 +1,7 @@
-2|afrinic|20190415|6137|00000000|20190415|00000
-afrinic|*|asn|*|1712|summary
-afrinic|*|ipv4|*|3578|summary
-afrinic|*|ipv6|*|847|summary
+2|afrinic|20190416|6141|00000000|20190416|00000
+afrinic|*|asn|*|1713|summary
+afrinic|*|ipv4|*|3580|summary
+afrinic|*|ipv6|*|848|summary
 afrinic|ZA|asn|1228|1|19910301|allocated
 afrinic|ZA|asn|1229|1|19910301|allocated
 afrinic|ZA|asn|1230|1|19910301|allocated
@@ -964,6 +964,7 @@ afrinic|CG|asn|37782|1|20181002|allocated
 afrinic|NG|asn|37783|1|20181030|allocated
 afrinic|GN|asn|37784|1|20181106|allocated
 afrinic|CD|asn|37785|1|20190325|allocated
+afrinic|KE|asn|37786|1|20190415|allocated
 afrinic|MG|asn|37887|1|20160315|allocated
 afrinic|ZA|asn|327683|1|20070515|allocated
 afrinic|NG|asn|327684|1|20070806|allocated
@@ -2543,6 +2544,7 @@ afrinic|EG|ipv4|102.69.149.0|256|20190208|assigned
 afrinic|CV|ipv4|102.69.151.0|256|20190221|assigned
 afrinic|BF|ipv4|102.69.152.0|1024|20190125|allocated
 afrinic|ZA|ipv4|102.69.156.0|1024|20190116|allocated
+afrinic|GM|ipv4|102.69.160.0|1024|20190415|allocated
 afrinic|TZ|ipv4|102.69.164.0|1024|20190214|allocated
 afrinic|ZA|ipv4|102.69.168.0|2048|20181220|allocated
 afrinic|ZA|ipv4|102.69.176.0|1024|20181220|allocated
@@ -4584,6 +4586,7 @@ afrinic|NG|ipv4|196.60.58.0|256|20181030|assigned
 afrinic|GN|ipv4|196.60.61.0|256|20181106|assigned
 afrinic|CD|ipv4|196.60.64.0|256|20190325|assigned
 afrinic|KE|ipv4|196.60.66.0|256|20181116|assigned
+afrinic|KE|ipv4|196.60.68.0|256|20190415|assigned
 afrinic|MU|ipv4|196.61.0.0|2048|20181101|assigned
 afrinic|TZ|ipv4|196.61.8.0|2048|20160928|allocated
 afrinic|ZA|ipv4|196.61.16.0|4096|20161010|allocated
@@ -5578,6 +5581,7 @@ afrinic|NG|ipv6|2001:43f8:1340::|48|20190116|assigned
 afrinic|SO|ipv6|2001:43f8:1350::|48|20190214|assigned
 afrinic|GH|ipv6|2001:43f8:1360::|48|20190327|assigned
 afrinic|UG|ipv6|2001:43f8:1370::|48|20190403|assigned
+afrinic|SO|ipv6|2001:43f8:1380::|48|20190415|assigned
 afrinic|EG|ipv6|2c0e::|20|20121125|allocated
 afrinic|ZA|ipv6|2c0e:2000::|20|20150119|allocated
 afrinic|ZA|ipv6|2c0e:4000::|24|20150903|allocated
