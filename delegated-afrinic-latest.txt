@@ -1,7 +1,7 @@
-2|afrinic|20190417|6146|00000000|20190417|00000
-afrinic|*|asn|*|1714|summary
-afrinic|*|ipv4|*|3583|summary
-afrinic|*|ipv6|*|849|summary
+2|afrinic|20190418|6154|00000000|20190418|00000
+afrinic|*|asn|*|1716|summary
+afrinic|*|ipv4|*|3587|summary
+afrinic|*|ipv6|*|851|summary
 afrinic|ZA|asn|1228|1|19910301|allocated
 afrinic|ZA|asn|1229|1|19910301|allocated
 afrinic|ZA|asn|1230|1|19910301|allocated
@@ -871,7 +871,6 @@ afrinic|ZA|asn|37639|1|20131015|allocated
 afrinic|ZA|asn|37640|1|20131016|allocated
 afrinic|CM|asn|37641|1|20131021|allocated
 afrinic|LS|asn|37642|1|20131023|allocated
-afrinic|NG|asn|37643|1|20131023|allocated
 afrinic|SO|asn|37644|1|20131025|allocated
 afrinic|AO|asn|37645|1|20131028|allocated
 afrinic|SS|asn|37646|1|20131031|allocated
@@ -1015,7 +1014,6 @@ afrinic|TZ|asn|327730|1|20140217|allocated
 afrinic|SO|asn|327732|1|20140220|allocated
 afrinic|ZA|asn|327733|1|20140221|allocated
 afrinic|BI|asn|327734|1|20140225|allocated
-afrinic|NA|asn|327735|1|20140310|allocated
 afrinic|LY|asn|327736|1|20140311|allocated
 afrinic|ZA|asn|327737|1|20140313|allocated
 afrinic|CD|asn|327738|1|20140313|allocated
@@ -1716,6 +1714,10 @@ afrinic|TG|asn|328463|1|20190404|allocated
 afrinic|ZA|asn|328464|1|20190410|allocated
 afrinic|KE|asn|328465|1|20190412|allocated
 afrinic|KE|asn|328466|1|20190412|allocated
+afrinic|ZA|asn|328467|1|20190417|allocated
+afrinic|ZA|asn|328468|1|20190417|allocated
+afrinic|SO|asn|328469|1|20190417|allocated
+afrinic|CD|asn|328470|1|20190417|allocated
 afrinic|ZA|ipv4|41.0.0.0|2097152|20071126|allocated
 afrinic|EG|ipv4|41.32.0.0|1048576|20091105|allocated
 afrinic|ZA|ipv4|41.48.0.0|524288|20091211|allocated
@@ -2359,7 +2361,6 @@ afrinic|NG|ipv4|41.242.64.0|4096|20130729|allocated
 afrinic|ZA|ipv4|41.242.80.0|1024|20130808|allocated
 afrinic|CD|ipv4|41.242.84.0|1024|20130813|allocated
 afrinic|GN|ipv4|41.242.88.0|1024|20130820|allocated
-afrinic|NG|ipv4|41.242.92.0|1024|20130822|allocated
 afrinic|MG|ipv4|41.242.96.0|4096|20130813|allocated
 afrinic|GH|ipv4|41.242.112.0|1024|20130823|allocated
 afrinic|YT|ipv4|41.242.116.0|1024|20130827|allocated
@@ -2497,7 +2498,10 @@ afrinic|KE|ipv4|87.255.96.0|8192|20051108|allocated
 afrinic|MA|ipv4|102.48.0.0|524288|20190322|allocated
 afrinic|EG|ipv4|102.56.0.0|524288|20190125|allocated
 afrinic|ZA|ipv4|102.65.0.0|65536|20190328|allocated
+afrinic|CD|ipv4|102.67.60.0|1024|20190417|allocated
+afrinic|ZA|ipv4|102.67.64.0|8192|20190417|allocated
 afrinic|BF|ipv4|102.67.96.0|8192|20190328|allocated
+afrinic|ZA|ipv4|102.67.128.0|2048|20190417|allocated
 afrinic|ZA|ipv4|102.67.136.0|2048|20190402|allocated
 afrinic|ZA|ipv4|102.67.156.0|1024|20190320|allocated
 afrinic|NG|ipv4|102.67.168.0|1024|20190320|allocated
@@ -2507,6 +2511,7 @@ afrinic|CI|ipv4|102.67.192.0|16384|20190222|allocated
 afrinic|ZA|ipv4|102.68.0.0|1024|20190403|allocated
 afrinic|ZA|ipv4|102.68.4.0|1024|20190318|allocated
 afrinic|ZA|ipv4|102.68.12.0|1024|20190313|allocated
+afrinic|SO|ipv4|102.68.16.0|1024|20190417|allocated
 afrinic|KE|ipv4|102.68.20.0|256|20190416|assigned
 afrinic|EG|ipv4|102.68.22.0|256|20190301|assigned
 afrinic|ZA|ipv4|102.68.24.0|2048|20190222|allocated
@@ -2554,6 +2559,7 @@ afrinic|ZA|ipv4|102.69.176.0|1024|20181220|allocated
 afrinic|CD|ipv4|102.69.180.0|1024|20190301|allocated
 afrinic|ZA|ipv4|102.69.184.0|2048|20190116|allocated
 afrinic|ZA|ipv4|102.69.192.0|4096|20190318|allocated
+afrinic|ZA|ipv4|102.69.236.0|512|20190417|assigned
 afrinic|KE|ipv4|102.69.239.0|256|20190412|assigned
 afrinic|NG|ipv4|102.69.240.0|1024|20190329|allocated
 afrinic|ZA|ipv4|102.69.244.0|512|20190329|assigned
@@ -5632,6 +5638,8 @@ afrinic|ZA|ipv6|2c0f:ed28::|32|20190328|allocated
 afrinic|ZA|ipv6|2c0f:ed30::|32|20190328|allocated
 afrinic|ZA|ipv6|2c0f:ed38::|32|20190412|allocated
 afrinic|ZA|ipv6|2c0f:ed40::|32|20190412|allocated
+afrinic|ZA|ipv6|2c0f:ed48::|32|20190417|allocated
+afrinic|ZA|ipv6|2c0f:ed50::|32|20190417|allocated
 afrinic|BF|ipv6|2c0f:ee00::|32|20171113|allocated
 afrinic|CD|ipv6|2c0f:ee08::|32|20171124|allocated
 afrinic|GN|ipv6|2c0f:ee10::|32|20171124|allocated
