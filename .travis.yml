@@ -11,18 +11,18 @@ env:
   - REPO=Country-IP-Blocks
   - LC_ALL=C.UTF-8
 script:
-- git clone https://${GH_USER}:${GH_TOKEN}@github.com/${GH_USER}/${REPO}.git --branch gh-pages --single-branch gh-pages
-- cd gh-pages
-- $OLDPWD/generate.sh
-- sha256sum -b *.txt > sha256sums
-- git config user.name "${GIT_NAME}"
-- git config user.email "${GIT_EMAIL}"
-- git add delegated-*-latest.txt country_code.txt *_IPv* sha256sums
-- git diff --quiet && git diff --staged --quiet && echo 'Nothing to commit' || git commit -m "Generated on [$(date)]"
-- curl -sL https://gist.github.com/HackingGate/9e8169c7645b074b2f40c959ca20d738/raw/89a9a48db1f494ffee0b7aa552ce35f18ae29091/restore_last_git_modified_time.sh | sh
+- git config --add remote.origin.fetch '+refs/heads/*:refs/remotes/origin/*'
+- git fetch origin gh-pages
+- git checkout gh-pages
+- git checkout master -- generate.sh
+- ./generate.sh && rm generate.sh
+- sha256sum -b *.txt > sha256sums.txt
+- curl -sL https://gist.github.com/HackingGate/9e8169c7645b074b2f40c959ca20d738/raw/0a5dd53c5e05657812ce81e7e7a14e87ad761459/restore_last_git_modified_time.sh | sh
 - tree -H '.' -L 1 -h -D --timefmt '%Y-%m-%d %H:%M:%S %Z' --noreport --charset utf-8 -T 'Country IP Blocks' -o index.html
-- cat $OLDPWD/github-corner.html >> index.html
+- cat github-corner.html >> index.html
 - sed -i "s/your-url/github.com\/${GH_USER}\/${REPO}/g" index.html
-- git add index.html
-- git commit --amend --no-edit
-- git push -q origin gh-pages
+deploy:
+  provider: pages
+  skip_cleanup: true
+  github_token: ${GH_TOKEN}
+  keep_history: true
