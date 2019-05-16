@@ -1,5 +1,5 @@
-2|afrinic|20190514|6190|00000000|20190514|00000
-afrinic|*|asn|*|1728|summary
+2|afrinic|20190516|6193|00000000|20190516|00000
+afrinic|*|asn|*|1731|summary
 afrinic|*|ipv4|*|3601|summary
 afrinic|*|ipv6|*|861|summary
 afrinic|ZA|asn|1228|1|19910301|allocated
@@ -1222,7 +1222,6 @@ afrinic|ZA|asn|327960|1|20151208|allocated
 afrinic|ZA|asn|327961|1|20151209|allocated
 afrinic|ZA|asn|327962|1|20151209|allocated
 afrinic|KE|asn|327963|1|20151211|allocated
-afrinic|KE|asn|327964|1|20151214|allocated
 afrinic|GH|asn|327965|1|20151214|allocated
 afrinic|ZA|asn|327966|1|20151215|allocated
 afrinic|ZA|asn|327967|1|20160113|allocated
@@ -1730,6 +1729,10 @@ afrinic|ZA|asn|328480|1|20190508|allocated
 afrinic|CM|asn|328481|1|20190508|allocated
 afrinic|KE|asn|328482|1|20190513|allocated
 afrinic|ZA|asn|328483|1|20190513|allocated
+afrinic|EG|asn|328484|1|20190515|allocated
+afrinic|GA|asn|328485|1|20190515|allocated
+afrinic|ZA|asn|328486|1|20190515|allocated
+afrinic|ZA|asn|328487|1|20190515|allocated
 afrinic|ZA|ipv4|41.0.0.0|2097152|20071126|allocated
 afrinic|EG|ipv4|41.32.0.0|1048576|20091105|allocated
 afrinic|ZA|ipv4|41.48.0.0|524288|20091211|allocated
@@ -2574,6 +2577,7 @@ afrinic|ZA|ipv4|102.69.128.0|4096|20190206|allocated
 afrinic|NG|ipv4|102.69.144.0|1024|20190318|allocated
 afrinic|MU|ipv4|102.69.148.0|256|20190424|assigned
 afrinic|EG|ipv4|102.69.149.0|256|20190208|assigned
+afrinic|EG|ipv4|102.69.150.0|256|20190515|assigned
 afrinic|CV|ipv4|102.69.151.0|256|20190221|assigned
 afrinic|BF|ipv4|102.69.152.0|1024|20190125|allocated
 afrinic|ZA|ipv4|102.69.156.0|1024|20190116|allocated
@@ -3491,7 +3495,6 @@ afrinic|CD|ipv4|169.239.156.0|1024|20151119|allocated
 afrinic|KE|ipv4|169.239.160.0|1024|20151123|allocated
 afrinic|ZA|ipv4|169.239.164.0|1024|20151127|allocated
 afrinic|KE|ipv4|169.239.168.0|1024|20151130|allocated
-afrinic|KE|ipv4|169.239.172.0|1024|20151207|allocated
 afrinic|ZA|ipv4|169.239.176.0|1024|20151209|allocated
 afrinic|ZA|ipv4|169.239.180.0|1024|20151230|allocated
 afrinic|ZA|ipv4|169.239.184.0|1024|20160105|allocated
