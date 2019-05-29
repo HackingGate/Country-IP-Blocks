@@ -1,4 +1,4 @@
-2|afrinic|20190528|6203|00000000|20190528|00000
+2|afrinic|20190529|6203|00000000|20190529|00000
 afrinic|*|asn|*|1736|summary
 afrinic|*|ipv4|*|3604|summary
 afrinic|*|ipv6|*|863|summary
