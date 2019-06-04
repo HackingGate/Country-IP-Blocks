@@ -1,7 +1,7 @@
-2|afrinic|20190603|6209|00000000|20190603|00000
-afrinic|*|asn|*|1737|summary
-afrinic|*|ipv4|*|3608|summary
-afrinic|*|ipv6|*|864|summary
+2|afrinic|20190604|6213|00000000|20190604|00000
+afrinic|*|asn|*|1738|summary
+afrinic|*|ipv4|*|3610|summary
+afrinic|*|ipv6|*|865|summary
 afrinic|ZA|asn|1228|1|19910301|allocated
 afrinic|ZA|asn|1229|1|19910301|allocated
 afrinic|ZA|asn|1230|1|19910301|allocated
@@ -1739,6 +1739,7 @@ afrinic|KE|asn|328490|1|20190522|allocated
 afrinic|SS|asn|328491|1|20190527|allocated
 afrinic|ZA|asn|328492|1|20190527|allocated
 afrinic|MA|asn|328493|1|20190529|allocated
+afrinic|GH|asn|328494|1|20190603|allocated
 afrinic|ZA|ipv4|41.0.0.0|2097152|20071126|allocated
 afrinic|EG|ipv4|41.32.0.0|1048576|20091105|allocated
 afrinic|ZA|ipv4|41.48.0.0|524288|20091211|allocated
@@ -2535,6 +2536,7 @@ afrinic|SZ|ipv4|102.67.144.0|1024|20190506|allocated
 afrinic|MA|ipv4|102.67.148.0|1024|20190529|allocated
 afrinic|KE|ipv4|102.67.152.0|1024|20190513|allocated
 afrinic|ZA|ipv4|102.67.156.0|1024|20190320|allocated
+afrinic|ZA|ipv4|102.67.164.0|1024|20190603|allocated
 afrinic|NG|ipv4|102.67.168.0|1024|20190320|allocated
 afrinic|BF|ipv4|102.67.172.0|1024|20190419|allocated
 afrinic|ZA|ipv4|102.67.176.0|2048|20190328|allocated
@@ -2601,6 +2603,7 @@ afrinic|ZA|ipv4|102.69.176.0|1024|20181220|allocated
 afrinic|CD|ipv4|102.69.180.0|1024|20190301|allocated
 afrinic|ZA|ipv4|102.69.184.0|2048|20190116|allocated
 afrinic|ZA|ipv4|102.69.192.0|4096|20190318|allocated
+afrinic|GH|ipv4|102.69.220.0|1024|20190603|allocated
 afrinic|KE|ipv4|102.69.224.0|2048|20190422|allocated
 afrinic|KE|ipv4|102.69.232.0|1024|20190506|allocated
 afrinic|ZA|ipv4|102.69.236.0|512|20190417|assigned
@@ -5695,6 +5698,7 @@ afrinic|KE|ipv6|2c0f:ed90::|32|20190513|allocated
 afrinic|ZA|ipv6|2c0f:ed98::|32|20190513|allocated
 afrinic|KE|ipv6|2c0f:eda0::|32|20190522|allocated
 afrinic|MA|ipv6|2c0f:eda8::|32|20190529|allocated
+afrinic|ZA|ipv6|2c0f:edb0::|32|20190603|allocated
 afrinic|BF|ipv6|2c0f:ee00::|32|20171113|allocated
 afrinic|CD|ipv6|2c0f:ee08::|32|20171124|allocated
 afrinic|GN|ipv6|2c0f:ee10::|32|20171124|allocated
