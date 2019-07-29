@@ -1,4 +1,4 @@
-2|lacnic|20190727|35355|19870101|20190726|-0300
+2|lacnic|20190728|35355|19870101|20190726|-0300
 lacnic|*|ipv4|*|16321|summary
 lacnic|*|ipv6|*|9021|summary
 lacnic|*|asn|*|10013|summary
