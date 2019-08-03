@@ -1,7 +1,7 @@
-2|lacnic|20190801|35413|19870101|20190801|-0300
-lacnic|*|ipv4|*|16342|summary
-lacnic|*|ipv6|*|9042|summary
-lacnic|*|asn|*|10029|summary
+2|lacnic|20190802|35422|19870101|20190802|-0300
+lacnic|*|ipv4|*|16345|summary
+lacnic|*|ipv6|*|9045|summary
+lacnic|*|asn|*|10032|summary
 lacnic|AR|ipv4|24.232.0.0|65536|19970602|allocated
 lacnic|CL|ipv4|45.4.0.0|1024|20170224|allocated
 lacnic|BR|ipv4|45.4.4.0|1024|20170221|allocated
@@ -1790,6 +1790,7 @@ lacnic|BR|ipv4|45.179.172.0|1024|20190627|allocated
 lacnic|BR|ipv4|45.179.176.0|1024|20190627|allocated
 lacnic|BR|ipv4|45.179.180.0|1024|20190627|allocated
 lacnic|BR|ipv4|45.179.184.0|1024|20190628|allocated
+lacnic|BR|ipv4|45.179.188.0|1024|20190802|allocated
 lacnic|PY|ipv4|45.179.192.0|1024|20190626|allocated
 lacnic|SV|ipv4|45.179.196.0|512|20190626|allocated
 lacnic|GT|ipv4|45.179.198.0|256|20190705|assigned
@@ -1905,9 +1906,11 @@ lacnic|BR|ipv4|45.181.132.0|1024|20190730|allocated
 lacnic|BR|ipv4|45.181.140.0|1024|20190731|allocated
 lacnic|BR|ipv4|45.181.144.0|1024|20190730|allocated
 lacnic|BR|ipv4|45.181.148.0|1024|20190801|allocated
+lacnic|BR|ipv4|45.181.168.0|1024|20190802|allocated
 lacnic|BR|ipv4|45.181.176.0|1024|20190731|allocated
 lacnic|BR|ipv4|45.181.180.0|1024|20190731|allocated
 lacnic|CO|ipv4|45.181.188.0|1024|20190729|allocated
+lacnic|BR|ipv4|45.181.196.0|1024|20190802|allocated
 lacnic|CO|ipv4|45.181.206.0|512|20190801|allocated
 lacnic|BR|ipv4|45.224.0.0|1024|20171005|allocated
 lacnic|BR|ipv4|45.224.4.0|1024|20171004|allocated
@@ -25205,6 +25208,9 @@ lacnic|BR|ipv6|2804:60c8::|32|20190731|allocated
 lacnic|BR|ipv6|2804:60cc::|32|20190801|allocated
 lacnic|BR|ipv6|2804:60d0::|32|20190801|allocated
 lacnic|BR|ipv6|2804:60d4::|32|20190801|allocated
+lacnic|BR|ipv6|2804:60d8::|32|20190802|allocated
+lacnic|BR|ipv6|2804:60dc::|32|20190802|allocated
+lacnic|BR|ipv6|2804:60e0::|32|20190802|allocated
 lacnic|MX|ipv6|2806::|28|20101006|allocated
 lacnic|MX|ipv6|2806:200::|32|20110420|allocated
 lacnic|MX|ipv6|2806:201::|32|20150611|allocated
@@ -35190,6 +35196,9 @@ lacnic|BR|asn|269191|1|20190731|allocated
 lacnic|BR|asn|269192|1|20190801|allocated
 lacnic|BR|asn|269193|1|20190801|allocated
 lacnic|BR|asn|269194|1|20190801|allocated
+lacnic|BR|asn|269195|1|20190802|allocated
+lacnic|BR|asn|269196|1|20190802|allocated
+lacnic|BR|asn|269197|1|20190802|allocated
 lacnic|PY|asn|269725|1|20190712|allocated
 lacnic|AR|asn|269726|1|20190716|allocated
 lacnic|AR|asn|269727|1|20190723|allocated
