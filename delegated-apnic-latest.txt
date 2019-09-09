@@ -25,10 +25,10 @@
 #
 ######################################################################
 #
-2|apnic|20190909|62162|19830613|20190906|+1000
-apnic|*|asn|*|9482|summary
-apnic|*|ipv4|*|43134|summary
-apnic|*|ipv6|*|9546|summary
+2|apnic|20190910|62172|19830613|20190909|+1000
+apnic|*|asn|*|9486|summary
+apnic|*|ipv4|*|43138|summary
+apnic|*|ipv6|*|9548|summary
 apnic|JP|asn|173|1|20020801|allocated
 apnic|NZ|asn|681|1|20020801|allocated
 apnic|AU|asn|1221|1|20000131|allocated
@@ -9511,6 +9511,10 @@ apnic|IN|asn|139631|1|20190905|allocated
 apnic|BD|asn|139632|1|20190906|allocated
 apnic|AU|asn|139633|1|20190906|allocated
 apnic|AU|asn|139634|1|20190906|allocated
+apnic|CN|asn|139635|1|20190909|allocated
+apnic|AU|asn|139636|1|20190909|allocated
+apnic|HK|asn|139637|1|20190909|allocated
+apnic|HK|asn|139638|1|20190909|allocated
 apnic|AU|ipv4|1.0.0.0|256|20110811|assigned
 apnic|CN|ipv4|1.0.1.0|256|20110414|allocated
 apnic|CN|ipv4|1.0.2.0|512|20110414|allocated
@@ -26547,6 +26551,9 @@ apnic|CN|ipv4|103.142.220.0|512|20190906|allocated
 apnic|US|ipv4|103.142.222.0|512|20190906|allocated
 apnic|ID|ipv4|103.142.224.0|256|20190906|assigned
 apnic|IN|ipv4|103.142.225.0|256|20190906|assigned
+apnic|AU|ipv4|103.142.226.0|512|20190908|allocated
+apnic|AU|ipv4|103.142.228.0|512|20190909|allocated
+apnic|CN|ipv4|103.142.230.0|256|20190909|allocated
 apnic|CN|ipv4|103.192.0.0|1024|20150715|allocated
 apnic|CN|ipv4|103.192.4.0|1024|20150715|allocated
 apnic|CN|ipv4|103.192.8.0|1024|20150715|allocated
@@ -32532,7 +32539,8 @@ apnic|NZ|ipv4|116.90.128.0|2048|20070523|allocated
 apnic|NZ|ipv4|116.90.136.0|2048|20090406|allocated
 apnic|JP|ipv4|116.90.144.0|4096|20070523|allocated
 apnic|ID|ipv4|116.90.160.0|4096|20070524|allocated
-apnic|ID|ipv4|116.90.176.0|2048|20070525|allocated
+apnic|ID|ipv4|116.90.176.0|1024|20070525|allocated
+apnic|ID|ipv4|116.90.180.0|1024|20070525|allocated
 apnic|CN|ipv4|116.90.184.0|2048|20070528|allocated
 apnic|JP|ipv4|116.90.192.0|4096|20070525|allocated
 apnic|ID|ipv4|116.90.208.0|2048|20070529|allocated
@@ -60832,7 +60840,9 @@ apnic|ID|ipv6|2405:42c0::|32|20190904|allocated
 apnic|KR|ipv6|2405:4300::|32|20120924|allocated
 apnic|VN|ipv6|2405:4340::|32|20190906|allocated
 apnic|CN|ipv6|2405:4380::|32|20160516|allocated
+apnic|AU|ipv6|2405:43c0::|32|20190909|allocated
 apnic|LK|ipv6|2405:4400::|32|20100211|allocated
+apnic|BD|ipv6|2405:4440::|32|20190909|allocated
 apnic|CN|ipv6|2405:4480::|32|20160516|allocated
 apnic|TW|ipv6|2405:4500::|32|20120924|allocated
 apnic|CN|ipv6|2405:4580::|32|20160516|allocated
