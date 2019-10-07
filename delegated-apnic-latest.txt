@@ -25,10 +25,10 @@
 #
 ######################################################################
 #
-2|apnic|20191007|62504|19830613|20191004|+1000
+2|apnic|20191008|62511|19830613|20191007|+1000
 apnic|*|asn|*|9546|summary
-apnic|*|ipv4|*|43306|summary
-apnic|*|ipv6|*|9652|summary
+apnic|*|ipv4|*|43309|summary
+apnic|*|ipv6|*|9656|summary
 apnic|JP|asn|173|1|20020801|allocated
 apnic|NZ|asn|681|1|20020801|allocated
 apnic|AU|asn|1221|1|20000131|allocated
@@ -26746,6 +26746,9 @@ apnic|IN|ipv4|103.143.214.0|256|20191003|assigned
 apnic|IN|ipv4|103.143.215.0|256|20191003|assigned
 apnic|AU|ipv4|103.143.216.0|512|20191004|allocated
 apnic|ID|ipv4|103.143.218.0|256|20191004|assigned
+apnic|ID|ipv4|103.143.220.0|512|20191007|assigned
+apnic|ID|ipv4|103.143.222.0|512|20191007|assigned
+apnic|ID|ipv4|103.143.224.0|512|20191007|allocated
 apnic|CN|ipv4|103.192.0.0|1024|20150715|allocated
 apnic|CN|ipv4|103.192.4.0|1024|20150715|allocated
 apnic|CN|ipv4|103.192.8.0|1024|20150715|allocated
@@ -54502,8 +54505,11 @@ apnic|VN|ipv6|2001:df1:9780::|48|20191003|assigned
 apnic|MY|ipv6|2001:df1:9800::|48|20140107|assigned
 apnic|NP|ipv6|2001:df1:9880::|48|20191003|assigned
 apnic|BD|ipv6|2001:df1:9900::|48|20170616|assigned
+apnic|IN|ipv6|2001:df1:9980::|48|20191007|assigned
 apnic|AU|ipv6|2001:df1:9a00::|48|20160412|assigned
+apnic|ID|ipv6|2001:df1:9a80::|48|20191007|assigned
 apnic|NZ|ipv6|2001:df1:9b00::|48|20170616|assigned
+apnic|ID|ipv6|2001:df1:9b80::|48|20191007|assigned
 apnic|SG|ipv6|2001:df1:9c00::|48|20141211|assigned
 apnic|AU|ipv6|2001:df1:9d00::|48|20170616|assigned
 apnic|ID|ipv6|2001:df1:9e00::|48|20160412|assigned
@@ -61219,6 +61225,7 @@ apnic|VN|ipv6|2405:5b40::|32|20191003|allocated
 apnic|CN|ipv6|2405:5b80::|32|20160518|allocated
 apnic|IN|ipv6|2405:5bc0::|32|20191004|allocated
 apnic|HK|ipv6|2405:5c00::|32|20100211|allocated
+apnic|ID|ipv6|2405:5c40::|32|20191007|allocated
 apnic|CN|ipv6|2405:5c80::|32|20160518|allocated
 apnic|HK|ipv6|2405:5d00::|32|20121009|allocated
 apnic|CN|ipv6|2405:5d80::|32|20160518|allocated
