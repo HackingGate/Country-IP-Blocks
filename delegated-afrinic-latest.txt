@@ -1,7 +1,7 @@
-2|afrinic|20191010|6283|00000000|20191010|00000
-afrinic|*|asn|*|1763|summary
-afrinic|*|ipv4|*|3635|summary
-afrinic|*|ipv6|*|885|summary
+2|afrinic|20191012|6292|00000000|20191012|00000
+afrinic|*|asn|*|1766|summary
+afrinic|*|ipv4|*|3639|summary
+afrinic|*|ipv6|*|887|summary
 afrinic|ZA|asn|1228|1|19910301|allocated
 afrinic|ZA|asn|1229|1|19910301|allocated
 afrinic|ZA|asn|1230|1|19910301|allocated
@@ -669,6 +669,7 @@ afrinic|SL|asn|37418|1|20120208|allocated
 afrinic|TZ|asn|37419|1|20120209|allocated
 afrinic|NG|asn|37420|1|20120213|allocated
 afrinic|KE|asn|37421|1|20120220|allocated
+afrinic|BJ|asn|37424|1|20191010|allocated
 afrinic|SO|asn|37425|1|20120227|allocated
 afrinic|NG|asn|37426|1|20120229|allocated
 afrinic|GN|asn|37427|1|20120301|allocated
@@ -1765,6 +1766,8 @@ afrinic|SS|asn|328546|1|20191001|allocated
 afrinic|ZA|asn|328547|1|20191002|allocated
 afrinic|ZA|asn|328548|1|20191003|allocated
 afrinic|LR|asn|328549|1|20191007|allocated
+afrinic|SS|asn|328550|1|20191010|allocated
+afrinic|CD|asn|328551|1|20191011|allocated
 afrinic|ZA|ipv4|41.0.0.0|2097152|20071126|allocated
 afrinic|EG|ipv4|41.32.0.0|1048576|20091105|allocated
 afrinic|ZA|ipv4|41.48.0.0|524288|20091211|allocated
@@ -1992,6 +1995,7 @@ afrinic|GN|ipv4|41.79.200.0|1024|20120210|allocated
 afrinic|NG|ipv4|41.79.204.0|1024|20120213|allocated
 afrinic|EG|ipv4|41.79.208.0|1024|20120215|allocated
 afrinic|ZA|ipv4|41.79.212.0|1024|20120221|allocated
+afrinic|BJ|ipv4|41.79.216.0|1024|20120223|allocated
 afrinic|ZA|ipv4|41.79.220.0|1024|20120223|allocated
 afrinic|BI|ipv4|41.79.224.0|1024|20120309|allocated
 afrinic|KE|ipv4|41.79.228.0|1024|20090907|allocated
@@ -2582,9 +2586,11 @@ afrinic|ZA|ipv4|102.64.16.0|4096|20190705|allocated
 afrinic|ZA|ipv4|102.64.32.0|4096|20190612|allocated
 afrinic|NG|ipv4|102.64.48.0|2048|20190607|assigned
 afrinic|ZA|ipv4|102.64.56.0|512|20190910|assigned
+afrinic|SS|ipv4|102.64.59.0|256|20191010|assigned
 afrinic|AO|ipv4|102.64.60.0|1024|20190701|allocated
 afrinic|TZ|ipv4|102.64.64.0|2048|20190718|allocated
 afrinic|SS|ipv4|102.64.72.0|1024|20190902|allocated
+afrinic|CD|ipv4|102.64.76.0|1024|20191011|allocated
 afrinic|AO|ipv4|102.64.80.0|2048|20190606|allocated
 afrinic|ZA|ipv4|102.64.88.0|1024|20190614|allocated
 afrinic|ZA|ipv4|102.64.92.0|1024|20190614|allocated
@@ -5148,6 +5154,7 @@ afrinic|ZA|ipv4|197.234.128.0|16384|20121219|allocated
 afrinic|ZA|ipv4|197.234.192.0|2048|20121206|allocated
 afrinic|ZA|ipv4|197.234.200.0|2048|20121207|allocated
 afrinic|BW|ipv4|197.234.208.0|2048|20121219|allocated
+afrinic|BJ|ipv4|197.234.216.0|2048|20130110|allocated
 afrinic|TZ|ipv4|197.234.224.0|1024|20121207|allocated
 afrinic|ZA|ipv4|197.234.232.0|1024|20121211|allocated
 afrinic|KE|ipv4|197.234.236.0|1024|20121212|allocated
@@ -5717,6 +5724,7 @@ afrinic|ZA|ipv6|2c0f:ea78::|32|20190920|allocated
 afrinic|MW|ipv6|2c0f:ea80::|32|20190920|allocated
 afrinic|DZ|ipv6|2c0f:ea88::|32|20190920|allocated
 afrinic|ZA|ipv6|2c0f:ea90::|32|20191002|allocated
+afrinic|NG|ipv6|2c0f:ea98::|32|20191010|allocated
 afrinic|SC|ipv6|2c0f:ec00::|32|20181010|allocated
 afrinic|ZA|ipv6|2c0f:ec08::|32|20181012|allocated
 afrinic|NG|ipv6|2c0f:ec10::|32|20181017|allocated
@@ -6131,6 +6139,7 @@ afrinic|ZA|ipv6|2c0f:f9d8::|32|20130802|allocated
 afrinic|NG|ipv6|2c0f:f9e0::|32|20130805|allocated
 afrinic|ZA|ipv6|2c0f:f9e8::|32|20130805|allocated
 afrinic|MG|ipv6|2c0f:f9f0::|32|20130813|allocated
+afrinic|BJ|ipv6|2c0f:f9f8::|32|20130829|allocated
 afrinic|GH|ipv6|2c0f:fa00::|32|20110907|allocated
 afrinic|CD|ipv6|2c0f:fa08::|32|20110908|allocated
 afrinic|MU|ipv6|2c0f:fa10::|32|20110908|allocated
