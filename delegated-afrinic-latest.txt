@@ -1,7 +1,7 @@
-2|afrinic|20191030|6322|00000000|20191030|00000
-afrinic|*|asn|*|1777|summary
-afrinic|*|ipv4|*|3655|summary
-afrinic|*|ipv6|*|890|summary
+2|afrinic|20191031|6328|00000000|20191031|00000
+afrinic|*|asn|*|1778|summary
+afrinic|*|ipv4|*|3656|summary
+afrinic|*|ipv6|*|894|summary
 afrinic|ZA|asn|1228|1|19910301|allocated
 afrinic|ZA|asn|1229|1|19910301|allocated
 afrinic|ZA|asn|1230|1|19910301|allocated
@@ -1779,6 +1779,7 @@ afrinic|ZA|asn|328561|1|20191023|allocated
 afrinic|ZA|asn|328562|1|20191025|allocated
 afrinic|BI|asn|328563|1|20191028|allocated
 afrinic|NG|asn|328564|1|20191028|allocated
+afrinic|MW|asn|328565|1|20191030|allocated
 afrinic|ZA|ipv4|41.0.0.0|2097152|20071126|allocated
 afrinic|EG|ipv4|41.32.0.0|1048576|20091105|allocated
 afrinic|ZA|ipv4|41.48.0.0|524288|20091211|allocated
@@ -2561,6 +2562,7 @@ afrinic|RE|ipv4|102.35.0.0|65536|20190902|allocated
 afrinic|ZA|ipv4|102.36.0.0|32768|20190827|allocated
 afrinic|NG|ipv4|102.36.132.0|1024|20191015|allocated
 afrinic|SN|ipv4|102.36.136.0|1024|20191003|assigned
+afrinic|MW|ipv4|102.36.145.0|256|20191030|assigned
 afrinic|SN|ipv4|102.36.147.0|256|20191016|assigned
 afrinic|NG|ipv4|102.36.148.0|1024|20190906|allocated
 afrinic|ZA|ipv4|102.36.152.0|1024|20190912|allocated
@@ -5724,6 +5726,8 @@ afrinic|GH|ipv6|2001:43f8:13d0::|48|20190902|assigned
 afrinic|MW|ipv6|2001:43f8:13e0::|48|20190912|assigned
 afrinic|MA|ipv6|2001:43f8:13f0::|48|20190918|assigned
 afrinic|SN|ipv6|2001:43f8:1400::|48|20191003|assigned
+afrinic|NG|ipv6|2001:43f8:1410::|48|20191030|assigned
+afrinic|NG|ipv6|2001:43f8:1420::|48|20191030|assigned
 afrinic|ZA|ipv6|2001:43f8:1500::|44|20191016|assigned
 afrinic|MU|ipv6|2001:43f8:a700::|48|20190718|assigned
 afrinic|EG|ipv6|2c0e::|20|20121125|allocated
@@ -5755,6 +5759,7 @@ afrinic|RE|ipv6|2c0f:eaa0::|32|20191016|allocated
 afrinic|NG|ipv6|2c0f:eaa8::|32|20191018|allocated
 afrinic|AO|ipv6|2c0f:eab0::|32|20191028|allocated
 afrinic|NG|ipv6|2c0f:eab8::|32|20191028|allocated
+afrinic|NG|ipv6|2c0f:eac0::|32|20191030|allocated
 afrinic|SC|ipv6|2c0f:ec00::|32|20181010|allocated
 afrinic|ZA|ipv6|2c0f:ec08::|32|20181012|allocated
 afrinic|NG|ipv6|2c0f:ec10::|32|20181017|allocated
@@ -5818,6 +5823,7 @@ afrinic|ZA|ipv6|2c0f:edd8::|32|20190624|allocated
 afrinic|ZA|ipv6|2c0f:ede0::|32|20190628|allocated
 afrinic|ZA|ipv6|2c0f:ede8::|32|20190701|allocated
 afrinic|ZA|ipv6|2c0f:edf0::|36|20190704|assigned
+afrinic|NG|ipv6|2c0f:edf1::|40|20191030|assigned
 afrinic|ZA|ipv6|2c0f:edf8::|32|20190705|allocated
 afrinic|BF|ipv6|2c0f:ee00::|32|20171113|allocated
 afrinic|CD|ipv6|2c0f:ee08::|32|20171124|allocated
