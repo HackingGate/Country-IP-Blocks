@@ -1,6 +1,6 @@
-2|afrinic|20191108|6340|00000000|20191108|00000
-afrinic|*|asn|*|1781|summary
-afrinic|*|ipv4|*|3660|summary
+2|afrinic|20191109|6342|00000000|20191109|00000
+afrinic|*|asn|*|1782|summary
+afrinic|*|ipv4|*|3661|summary
 afrinic|*|ipv6|*|899|summary
 afrinic|ZA|asn|1228|1|19910301|allocated
 afrinic|ZA|asn|1229|1|19910301|allocated
@@ -1783,6 +1783,7 @@ afrinic|MW|asn|328565|1|20191030|allocated
 afrinic|CD|asn|328566|1|20191031|allocated
 afrinic|LS|asn|328567|1|20191105|allocated
 afrinic|ZA|asn|328568|1|20191105|allocated
+afrinic|CD|asn|328569|1|20191108|allocated
 afrinic|ZA|ipv4|41.0.0.0|2097152|20071126|allocated
 afrinic|EG|ipv4|41.32.0.0|1048576|20091105|allocated
 afrinic|ZA|ipv4|41.48.0.0|524288|20091211|allocated
@@ -2568,6 +2569,7 @@ afrinic|RE|ipv4|102.35.0.0|65536|20190902|allocated
 afrinic|ZA|ipv4|102.36.0.0|32768|20190827|allocated
 afrinic|NG|ipv4|102.36.132.0|1024|20191015|allocated
 afrinic|SN|ipv4|102.36.136.0|1024|20191003|assigned
+afrinic|CD|ipv4|102.36.144.0|256|20191108|assigned
 afrinic|MW|ipv4|102.36.145.0|256|20191030|assigned
 afrinic|SN|ipv4|102.36.147.0|256|20191016|assigned
 afrinic|NG|ipv4|102.36.148.0|1024|20190906|allocated
