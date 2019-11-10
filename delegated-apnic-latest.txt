@@ -25,10 +25,10 @@
 #
 ######################################################################
 #
-2|apnic|20191110|62914|19830613|20191109|+1000
+2|apnic|20191111|62916|19830613|20191110|+1000
 apnic|*|asn|*|9613|summary
 apnic|*|ipv4|*|43509|summary
-apnic|*|ipv6|*|9792|summary
+apnic|*|ipv6|*|9794|summary
 apnic|JP|asn|173|1|20020801|allocated
 apnic|NZ|asn|681|1|20020801|allocated
 apnic|AU|asn|1221|1|20000131|allocated
@@ -54952,6 +54952,7 @@ apnic|CN|ipv6|2001:df1:f480::|48|20191109|assigned
 apnic|ID|ipv6|2001:df1:f500::|48|20170718|assigned
 apnic|CN|ipv6|2001:df1:f580::|48|20191109|assigned
 apnic|IN|ipv6|2001:df1:f600::|48|20160429|assigned
+apnic|BD|ipv6|2001:df1:f680::|48|20191110|assigned
 apnic|ID|ipv6|2001:df1:f700::|48|20170718|assigned
 apnic|BN|ipv6|2001:df1:f800::|48|20140115|assigned
 apnic|AU|ipv6|2001:df1:fa00::|48|20160429|assigned
@@ -61681,6 +61682,7 @@ apnic|JP|ipv6|2405:7740::|32|20191108|allocated
 apnic|CN|ipv6|2405:7780::|32|20160520|allocated
 apnic|ID|ipv6|2405:77c0::|32|20191108|allocated
 apnic|JP|ipv6|2405:7800::|32|20081021|allocated
+apnic|BD|ipv6|2405:7840::|32|20191110|allocated
 apnic|CN|ipv6|2405:7880::|32|20160520|allocated
 apnic|NZ|ipv6|2405:7900::|32|20121017|allocated
 apnic|CN|ipv6|2405:7980::|32|20160520|allocated
