@@ -25,10 +25,10 @@
 #
 ######################################################################
 #
-2|apnic|20191206|63257|19830613|20191205|+1000
+2|apnic|20191207|63264|19830613|20191206|+1000
 apnic|*|asn|*|9666|summary
-apnic|*|ipv4|*|43681|summary
-apnic|*|ipv6|*|9910|summary
+apnic|*|ipv4|*|43684|summary
+apnic|*|ipv6|*|9914|summary
 apnic|JP|asn|173|1|20020801|allocated
 apnic|NZ|asn|681|1|20020801|allocated
 apnic|AU|asn|1221|1|20000131|allocated
@@ -27195,6 +27195,9 @@ apnic|HK|ipv4|103.146.50.0|512|20191205|allocated
 apnic|HK|ipv4|103.146.52.0|512|20191205|allocated
 apnic|BD|ipv4|103.146.54.0|512|20191205|allocated
 apnic|IN|ipv4|103.146.56.0|512|20191205|assigned
+apnic|ID|ipv4|103.146.58.0|256|20191206|assigned
+apnic|ID|ipv4|103.146.60.0|512|20191206|assigned
+apnic|ID|ipv4|103.146.62.0|512|20191206|assigned
 apnic|CN|ipv4|103.192.0.0|1024|20150715|allocated
 apnic|CN|ipv4|103.192.4.0|1024|20150715|allocated
 apnic|CN|ipv4|103.192.8.0|1024|20150715|allocated
@@ -55337,8 +55340,11 @@ apnic|IN|ipv6|2001:df2:4700::|48|20170821|assigned
 apnic|BD|ipv6|2001:df2:4780::|48|20191205|assigned
 apnic|IN|ipv6|2001:df2:4880::|48|20191205|assigned
 apnic|AU|ipv6|2001:df2:4900::|48|20170821|assigned
+apnic|ID|ipv6|2001:df2:4980::|48|20191206|assigned
 apnic|ID|ipv6|2001:df2:4a00::|48|20160520|assigned
+apnic|ID|ipv6|2001:df2:4a80::|48|20191206|assigned
 apnic|FJ|ipv6|2001:df2:4b00::|48|20170821|assigned
+apnic|ID|ipv6|2001:df2:4b80::|48|20191206|assigned
 apnic|ID|ipv6|2001:df2:4c00::|48|20150130|assigned
 apnic|ID|ipv6|2001:df2:4e00::|48|20160520|assigned
 apnic|AU|ipv6|2001:df2:4f00::|48|20170821|assigned
@@ -62076,6 +62082,7 @@ apnic|MM|ipv6|2405:91c0::|32|20191205|allocated
 apnic|TW|ipv6|2405:9200::|32|20101203|allocated
 apnic|GB|ipv6|2405:9240::|32|20191205|allocated
 apnic|CN|ipv6|2405:9280::|32|20160526|allocated
+apnic|AU|ipv6|2405:92c0::|32|20191206|allocated
 apnic|CN|ipv6|2405:9300::|32|20121106|allocated
 apnic|CN|ipv6|2405:9380::|32|20160526|allocated
 apnic|NZ|ipv6|2405:9400::|32|20100212|allocated
