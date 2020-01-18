@@ -25,10 +25,10 @@
 #
 ######################################################################
 #
-2|apnic|20200118|63707|19830613|20200117|+1000
+2|apnic|20200119|63708|19830613|20200118|+1000
 apnic|*|asn|*|9728|summary
 apnic|*|ipv4|*|43907|summary
-apnic|*|ipv6|*|10072|summary
+apnic|*|ipv6|*|10073|summary
 apnic|JP|asn|173|1|20020801|allocated
 apnic|NZ|asn|681|1|20020801|allocated
 apnic|AU|asn|1221|1|20000131|allocated
@@ -62603,6 +62603,7 @@ apnic|CN|ipv6|2405:bdc0::|32|20200117|allocated
 apnic|JP|ipv6|2405:be00::|32|20101216|allocated
 apnic|VN|ipv6|2405:be40::|32|20200117|allocated
 apnic|CN|ipv6|2405:be80::|32|20160617|allocated
+apnic|BD|ipv6|2405:bec0::|32|20200118|allocated
 apnic|CN|ipv6|2405:bf00::|32|20121119|allocated
 apnic|HK|ipv6|2405:bf80::|32|20160622|allocated
 apnic|KR|ipv6|2405:c000::|32|20070508|allocated
