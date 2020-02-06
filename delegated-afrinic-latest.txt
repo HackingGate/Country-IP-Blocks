@@ -1,5 +1,5 @@
-2|afrinic|20200205|6464|00000000|20200205|00000
-afrinic|*|asn|*|1820|summary
+2|afrinic|20200206|6465|00000000|20200206|00000
+afrinic|*|asn|*|1821|summary
 afrinic|*|ipv4|*|3720|summary
 afrinic|*|ipv6|*|924|summary
 afrinic|ZA|asn|1228|1|19910301|allocated
@@ -281,7 +281,7 @@ afrinic|NG|asn|36940|1|20160816|allocated
 afrinic|MA|asn|36941|1|20070327|allocated
 afrinic|MU|asn|36942|1|20150202|allocated
 afrinic|ZA|asn|36943|1|20180924|allocated
-afrinic|ZA|asn|36944|1|20070420|allocated
+afrinic|MW|asn|36944|1|20070420|allocated
 afrinic|MZ|asn|36945|1|20070423|allocated
 afrinic|CI|asn|36946|1|20070424|allocated
 afrinic|DZ|asn|36947|1|20070427|allocated
@@ -1822,6 +1822,7 @@ afrinic|TZ|asn|328607|1|20200123|allocated
 afrinic|ZA|asn|328608|1|20200128|allocated
 afrinic|NG|asn|328609|1|20200131|allocated
 afrinic|SS|asn|328610|1|20200203|allocated
+afrinic|LY|asn|328611|1|20200205|allocated
 afrinic|ZA|ipv4|41.0.0.0|2097152|20071126|allocated
 afrinic|EG|ipv4|41.32.0.0|1048576|20091105|allocated
 afrinic|ZA|ipv4|41.48.0.0|524288|20091211|allocated
@@ -4572,7 +4573,7 @@ afrinic|DZ|ipv4|196.32.16.0|4096|20150729|allocated
 afrinic|ZA|ipv4|196.32.96.0|4096|20160309|allocated
 afrinic|ML|ipv4|196.32.112.0|4096|20100811|assigned
 afrinic|AO|ipv4|196.32.192.0|2048|20051207|allocated
-afrinic|ZA|ipv4|196.32.208.0|2048|20070420|assigned
+afrinic|MW|ipv4|196.32.208.0|2048|20070420|assigned
 afrinic|MA|ipv4|196.32.216.0|2048|20160229|allocated
 afrinic|NG|ipv4|196.32.224.0|512|20100216|assigned
 afrinic|KE|ipv4|196.32.226.0|512|20100422|assigned
@@ -5603,7 +5604,7 @@ afrinic|TZ|ipv6|2001:43f8:4::|48|20180326|assigned
 afrinic|TZ|ipv6|2001:43f8:5::|48|20180608|assigned
 afrinic|TZ|ipv6|2001:43f8:6::|48|20180608|assigned
 afrinic|KE|ipv6|2001:43f8:10::|48|20070713|assigned
-afrinic|ZA|ipv6|2001:43f8:20::|48|20070726|assigned
+afrinic|MW|ipv6|2001:43f8:20::|48|20070726|assigned
 afrinic|ZA|ipv6|2001:43f8:30::|48|20070730|assigned
 afrinic|KE|ipv6|2001:43f8:60::|48|20160620|assigned
 afrinic|ZA|ipv6|2001:43f8:70::|45|20080919|assigned
