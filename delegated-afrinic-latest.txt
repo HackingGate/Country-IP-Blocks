@@ -1,7 +1,7 @@
-2|afrinic|20200308|6679|00000000|20200308|00000
-afrinic|*|asn|*|1833|summary
-afrinic|*|ipv4|*|3912|summary
-afrinic|*|ipv6|*|934|summary
+2|afrinic|20200309|6675|00000000|20200309|00000
+afrinic|*|asn|*|1832|summary
+afrinic|*|ipv4|*|3910|summary
+afrinic|*|ipv6|*|933|summary
 afrinic|ZA|asn|1228|1|19910301|allocated
 afrinic|ZA|asn|1229|1|19910301|allocated
 afrinic|ZA|asn|1230|1|19910301|allocated
@@ -1601,7 +1601,6 @@ afrinic|ZA|asn|328386|1|20181015|allocated
 afrinic|NG|asn|328387|1|20181017|allocated
 afrinic|ZA|asn|328388|1|20181019|allocated
 afrinic|BF|asn|328389|1|20181022|allocated
-afrinic|ZA|asn|328390|1|20181023|allocated
 afrinic|ZA|asn|328391|1|20181024|allocated
 afrinic|KE|asn|328392|1|20181024|allocated
 afrinic|DZ|asn|328393|1|20181024|allocated
@@ -2978,7 +2977,6 @@ afrinic|ZA|ipv4|102.131.0.0|4096|20180917|allocated
 afrinic|GH|ipv4|102.131.16.0|256|20180904|assigned
 afrinic|ZA|ipv4|102.131.18.0|512|20180913|assigned
 afrinic|ZA|ipv4|102.131.20.0|1024|20180829|allocated
-afrinic|ZA|ipv4|102.131.24.0|1024|20181023|allocated
 afrinic|ZA|ipv4|102.131.28.0|1024|20180822|allocated
 afrinic|EG|ipv4|102.131.32.0|1024|20181001|allocated
 afrinic|NG|ipv4|102.131.36.0|1024|20180822|allocated
@@ -3164,7 +3162,6 @@ afrinic|LR|ipv4|102.183.0.0|65536|20170614|allocated
 afrinic|EG|ipv4|102.184.0.0|524288|20170517|allocated
 afrinic|ZA|ipv4|102.223.132.0|1024|20200207|allocated
 afrinic|ZA|ipv4|102.223.140.0|1024|20200306|allocated
-afrinic|SN|ipv4|102.223.152.0|512|20200225|assigned
 afrinic|CD|ipv4|102.223.176.0|1024|20200306|allocated
 afrinic|TD|ipv4|102.223.192.0|1024|20200122|allocated
 afrinic|ZA|ipv4|102.223.196.0|1024|20200128|allocated
@@ -6045,7 +6042,6 @@ afrinic|KE|ipv6|2001:43f8:1440::|48|20191120|assigned
 afrinic|ZA|ipv6|2001:43f8:1450::|48|20200110|assigned
 afrinic|CD|ipv6|2001:43f8:1460::|48|20200113|assigned
 afrinic|CM|ipv6|2001:43f8:1470::|48|20200203|assigned
-afrinic|SN|ipv6|2001:43f8:1480::|48|20200225|assigned
 afrinic|ZA|ipv6|2001:43f8:1500::|44|20191016|assigned
 afrinic|EG|ipv6|2c0e::|20|20121125|allocated
 afrinic|ZA|ipv6|2c0e:2000::|20|20150119|allocated
