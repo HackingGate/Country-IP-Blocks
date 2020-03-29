@@ -1,4 +1,4 @@
-2|afrinic|20200328|6707|00000000|20200328|00000
+2|afrinic|20200329|6707|00000000|20200329|00000
 afrinic|*|asn|*|1843|summary
 afrinic|*|ipv4|*|3925|summary
 afrinic|*|ipv6|*|939|summary
