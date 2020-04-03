@@ -1,6 +1,6 @@
-2|afrinic|20200401|6709|00000000|20200401|00000
+2|afrinic|20200403|6710|00000000|20200403|00000
 afrinic|*|asn|*|1844|summary
-afrinic|*|ipv4|*|3926|summary
+afrinic|*|ipv4|*|3927|summary
 afrinic|*|ipv6|*|939|summary
 afrinic|ZA|asn|1228|1|19910301|allocated
 afrinic|ZA|asn|1229|1|19910301|allocated
@@ -1318,7 +1318,6 @@ afrinic|KE|asn|328093|1|20161028|allocated
 afrinic|KE|asn|328094|1|20161031|allocated
 afrinic|ZA|asn|328095|1|20161103|allocated
 afrinic|UG|asn|328096|1|20161109|allocated
-afrinic|TZ|asn|328097|1|20161109|allocated
 afrinic|BJ|asn|328098|1|20161109|allocated
 afrinic|SN|asn|328099|1|20161111|allocated
 afrinic|KE|asn|328100|1|20161114|allocated
@@ -1846,6 +1845,7 @@ afrinic|ZA|asn|328632|1|20200327|allocated
 afrinic|ZA|asn|328632|1|20200327|allocated
 afrinic|ZA|asn|328633|1|20200327|allocated
 afrinic|UG|asn|328634|1|20200330|allocated
+afrinic|CI|asn|328635|1|20200402|allocated
 afrinic|ZA|ipv4|41.0.0.0|2097152|20071126|allocated
 afrinic|EG|ipv4|41.32.0.0|1048576|20091105|allocated
 afrinic|ZA|ipv4|41.48.0.0|524288|20091211|allocated
@@ -3200,6 +3200,7 @@ afrinic|ZA|ipv4|102.223.240.0|512|20200219|allocated
 afrinic|EG|ipv4|102.223.242.0|512|20200310|allocated
 afrinic|RW|ipv4|102.223.244.0|1024|20200309|allocated
 afrinic|UG|ipv4|102.223.248.0|256|20200330|assigned
+afrinic|CI|ipv4|102.223.249.0|256|20200402|assigned
 afrinic|EG|ipv4|102.223.250.0|256|20200318|assigned
 afrinic|CI|ipv4|102.223.252.0|512|20200220|assigned
 afrinic|NG|ipv4|102.223.255.0|256|20200311|assigned
@@ -6071,6 +6072,7 @@ afrinic|ZA|ipv6|2001:43f8:1450::|48|20200110|assigned
 afrinic|CD|ipv6|2001:43f8:1460::|48|20200113|assigned
 afrinic|CM|ipv6|2001:43f8:1470::|48|20200203|assigned
 afrinic|NG|ipv6|2001:43f8:1490::|48|20200311|assigned
+afrinic|CI|ipv6|2001:43f8:14a0::|48|20200402|assigned
 afrinic|ZA|ipv6|2001:43f8:1500::|44|20191016|assigned
 afrinic|EG|ipv6|2c0e::|20|20121125|allocated
 afrinic|ZA|ipv6|2c0e:2000::|20|20150119|allocated
@@ -6372,7 +6374,6 @@ afrinic|ZA|ipv6|2c0f:f350::|32|20161010|allocated
 afrinic|KE|ipv6|2c0f:f358::|32|20161026|allocated
 afrinic|SC|ipv6|2c0f:f360::|32|20161031|allocated
 afrinic|ZA|ipv6|2c0f:f368::|32|20161031|allocated
-afrinic|TZ|ipv6|2c0f:f370::|32|20161109|allocated
 afrinic|MA|ipv6|2c0f:f378::|32|20161111|allocated
 afrinic|ZA|ipv6|2c0f:f380::|32|20161114|allocated
 afrinic|NG|ipv6|2c0f:f388::|32|20161115|allocated
