@@ -1,7 +1,7 @@
-2|afrinic|20200420|6729|00000000|20200420|00000
-afrinic|*|asn|*|1848|summary
-afrinic|*|ipv4|*|3937|summary
-afrinic|*|ipv6|*|944|summary
+2|afrinic|20200421|6735|00000000|20200421|00000
+afrinic|*|asn|*|1850|summary
+afrinic|*|ipv4|*|3940|summary
+afrinic|*|ipv6|*|945|summary
 afrinic|ZA|asn|1228|1|19910301|allocated
 afrinic|ZA|asn|1229|1|19910301|allocated
 afrinic|ZA|asn|1230|1|19910301|allocated
@@ -1850,6 +1850,8 @@ afrinic|ZA|asn|328638|1|20200410|allocated
 afrinic|GH|asn|328639|1|20200415|allocated
 afrinic|ZA|asn|328640|1|20200415|allocated
 afrinic|ZA|asn|328641|1|20200417|allocated
+afrinic|EG|asn|328642|1|20200420|allocated
+afrinic|ZA|asn|328643|1|20200420|allocated
 afrinic|ZA|ipv4|41.0.0.0|2097152|20071126|allocated
 afrinic|EG|ipv4|41.32.0.0|1048576|20091105|allocated
 afrinic|ZA|ipv4|41.48.0.0|524288|20091211|allocated
@@ -3186,6 +3188,7 @@ afrinic|ZA|ipv4|102.223.96.0|1024|20200415|allocated
 afrinic|ZA|ipv4|102.223.104.0|1024|20200327|allocated
 afrinic|GH|ipv4|102.223.111.0|256|20200415|assigned
 afrinic|LY|ipv4|102.223.112.0|512|20200323|allocated
+afrinic|ZA|ipv4|102.223.114.0|512|20200420|assigned
 afrinic|SC|ipv4|102.223.116.0|1024|20200320|allocated
 afrinic|KM|ipv4|102.223.120.0|1024|20200324|allocated
 afrinic|ZA|ipv4|102.223.124.0|1024|20200323|allocated
@@ -3199,11 +3202,13 @@ afrinic|LY|ipv4|102.223.156.0|1024|20200316|allocated
 afrinic|CI|ipv4|102.223.160.0|1024|20200403|allocated
 afrinic|ZA|ipv4|102.223.164.0|1024|20200417|allocated
 afrinic|SL|ipv4|102.223.168.0|1024|20200318|allocated
+afrinic|EG|ipv4|102.223.172.0|256|20200420|assigned
 afrinic|BF|ipv4|102.223.174.0|512|20200316|allocated
 afrinic|CD|ipv4|102.223.176.0|1024|20200306|allocated
 afrinic|TD|ipv4|102.223.192.0|1024|20200122|allocated
 afrinic|ZA|ipv4|102.223.196.0|1024|20200128|allocated
 afrinic|ZA|ipv4|102.223.200.0|1024|20200203|allocated
+afrinic|KE|ipv4|102.223.204.0|512|20200420|allocated
 afrinic|CD|ipv4|102.223.208.0|1024|20200217|allocated
 afrinic|ZA|ipv4|102.223.212.0|1024|20200206|allocated
 afrinic|UG|ipv4|102.223.216.0|1024|20200214|allocated
@@ -6086,6 +6091,7 @@ afrinic|CD|ipv6|2001:43f8:1460::|48|20200113|assigned
 afrinic|CM|ipv6|2001:43f8:1470::|48|20200203|assigned
 afrinic|NG|ipv6|2001:43f8:1490::|48|20200311|assigned
 afrinic|CI|ipv6|2001:43f8:14a0::|48|20200402|assigned
+afrinic|ZA|ipv6|2001:43f8:14b0::|48|20200420|assigned
 afrinic|ZA|ipv6|2001:43f8:1500::|44|20191016|assigned
 afrinic|EG|ipv6|2c0e::|20|20121125|allocated
 afrinic|ZA|ipv6|2c0e:2000::|20|20150119|allocated
