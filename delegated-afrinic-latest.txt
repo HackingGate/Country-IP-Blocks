@@ -1,7 +1,7 @@
-2|afrinic|20200512|6765|00000000|20200512|00000
-afrinic|*|asn|*|1862|summary
-afrinic|*|ipv4|*|3956|summary
-afrinic|*|ipv6|*|947|summary
+2|afrinic|20200513|6773|00000000|20200513|00000
+afrinic|*|asn|*|1864|summary
+afrinic|*|ipv4|*|3959|summary
+afrinic|*|ipv6|*|950|summary
 afrinic|ZA|asn|1228|1|19910301|allocated
 afrinic|ZA|asn|1229|1|19910301|allocated
 afrinic|ZA|asn|1230|1|19910301|allocated
@@ -1863,6 +1863,8 @@ afrinic|BJ|asn|328653|1|20200507|allocated
 afrinic|EG|asn|328654|1|20200507|allocated
 afrinic|ZA|asn|328655|1|20200507|allocated
 afrinic|ZA|asn|328656|1|20200507|allocated
+afrinic|ZA|asn|328657|1|20200512|allocated
+afrinic|NG|asn|328658|1|20200512|allocated
 afrinic|TZ|asn|328700|1|20200428|allocated
 afrinic|ZA|ipv4|41.0.0.0|2097152|20071126|allocated
 afrinic|EG|ipv4|41.32.0.0|1048576|20091105|allocated
@@ -3192,6 +3194,8 @@ afrinic|CI|ipv4|102.181.224.0|8192|20170726|allocated
 afrinic|ZA|ipv4|102.182.0.0|65536|20170602|allocated
 afrinic|LR|ipv4|102.183.0.0|65536|20170614|allocated
 afrinic|EG|ipv4|102.184.0.0|524288|20170517|allocated
+afrinic|TZ|ipv4|102.223.0.0|256|20200512|assigned
+afrinic|NG|ipv4|102.223.1.0|256|20200512|allocated
 afrinic|TZ|ipv4|102.223.8.0|1024|20200427|allocated
 afrinic|ZA|ipv4|102.223.12.0|1024|20200511|allocated
 afrinic|TZ|ipv4|102.223.16.0|1024|20200430|allocated
@@ -3200,6 +3204,7 @@ afrinic|ZA|ipv4|102.223.40.0|1024|20200507|allocated
 afrinic|ZA|ipv4|102.223.44.0|1024|20200508|allocated
 afrinic|NG|ipv4|102.223.52.0|1024|20200417|allocated
 afrinic|ZA|ipv4|102.223.56.0|1024|20200427|allocated
+afrinic|ZA|ipv4|102.223.62.0|512|20200512|assigned
 afrinic|ML|ipv4|102.223.64.0|1024|20200417|allocated
 afrinic|SC|ipv4|102.223.72.0|1024|20200408|allocated
 afrinic|ZA|ipv4|102.223.80.0|1024|20200507|allocated
@@ -6121,6 +6126,8 @@ afrinic|NG|ipv6|2001:43f8:1490::|48|20200311|assigned
 afrinic|CI|ipv6|2001:43f8:14a0::|48|20200402|assigned
 afrinic|ZA|ipv6|2001:43f8:14b0::|48|20200420|assigned
 afrinic|ZA|ipv6|2001:43f8:14c0::|48|20200421|assigned
+afrinic|TZ|ipv6|2001:43f8:14d0::|48|20200512|assigned
+afrinic|ZA|ipv6|2001:43f8:14e0::|48|20200512|assigned
 afrinic|ZA|ipv6|2001:43f8:1500::|44|20191016|assigned
 afrinic|EG|ipv6|2c0e::|20|20121125|allocated
 afrinic|ZA|ipv6|2c0e:2000::|20|20150119|allocated
@@ -6144,6 +6151,7 @@ afrinic|ZA|ipv6|2c0f:e868::|32|20200417|allocated
 afrinic|ML|ipv6|2c0f:e870::|32|20200417|allocated
 afrinic|NG|ipv6|2c0f:e878::|32|20200417|allocated
 afrinic|KE|ipv6|2c0f:e880::|32|20200507|allocated
+afrinic|NG|ipv6|2c0f:e888::|32|20200512|allocated
 afrinic|ZA|ipv6|2c0f:ea00::|32|20190719|allocated
 afrinic|ZA|ipv6|2c0f:ea08::|32|20190724|allocated
 afrinic|SL|ipv6|2c0f:ea10::|32|20190801|allocated
