@@ -1,7 +1,7 @@
-2|lacnic|20200618|39802|19870101|20200618|-0300
-lacnic|*|ipv4|*|17831|summary
-lacnic|*|ipv6|*|10521|summary
-lacnic|*|asn|*|11450|summary
+2|lacnic|20200619|39808|19870101|20200619|-0300
+lacnic|*|ipv4|*|17833|summary
+lacnic|*|ipv6|*|10523|summary
+lacnic|*|asn|*|11452|summary
 lacnic|BR|ipv4|24.152.0.0|1024|20200310|allocated
 lacnic|BR|ipv4|24.152.4.0|1024|20200312|allocated
 lacnic|BR|ipv4|24.152.8.0|1024|20200309|allocated
@@ -9803,6 +9803,7 @@ lacnic|CL|ipv4|179.0.152.0|1024|20131001|assigned
 lacnic|UY|ipv4|179.0.156.0|1024|20140204|assigned
 lacnic|BR|ipv4|179.0.160.0|1024|20200617|allocated
 lacnic|BR|ipv4|179.0.164.0|1024|20200617|allocated
+lacnic|BR|ipv4|179.0.168.0|1024|20200619|allocated
 lacnic|BR|ipv4|179.0.172.0|1024|20200618|allocated
 lacnic|GT|ipv4|179.0.192.0|256|20140212|assigned
 lacnic|AR|ipv4|179.0.193.0|256|20140224|assigned
@@ -9837,6 +9838,7 @@ lacnic|AR|ipv4|179.42.168.0|1024|20131124|allocated
 lacnic|CO|ipv4|179.42.172.0|1024|20131127|allocated
 lacnic|AR|ipv4|179.42.176.0|4096|20130905|allocated
 lacnic|BZ|ipv4|179.42.192.0|16384|20130904|allocated
+lacnic|BR|ipv4|179.43.12.0|1024|20200619|allocated
 lacnic|AR|ipv4|179.43.64.0|4096|20131014|allocated
 lacnic|PE|ipv4|179.43.80.0|4096|20131031|allocated
 lacnic|PE|ipv4|179.43.96.0|1024|20131029|allocated
@@ -28120,6 +28122,8 @@ lacnic|BR|ipv6|2804:7228::|32|20200618|allocated
 lacnic|BR|ipv6|2804:722c::|32|20200618|allocated
 lacnic|BR|ipv6|2804:7230::|32|20200618|allocated
 lacnic|BR|ipv6|2804:7234::|32|20200618|allocated
+lacnic|BR|ipv6|2804:7238::|32|20200619|allocated
+lacnic|BR|ipv6|2804:723c::|32|20200619|allocated
 lacnic|MX|ipv6|2806::|28|20101006|allocated
 lacnic|MX|ipv6|2806:200::|32|20110420|allocated
 lacnic|MX|ipv6|2806:201::|32|20150611|allocated
@@ -39567,3 +39571,5 @@ lacnic|BR|asn|270836|1|20200618|allocated
 lacnic|BR|asn|270837|1|20200618|allocated
 lacnic|BR|asn|270838|1|20200618|allocated
 lacnic|BR|asn|270839|1|20200618|allocated
+lacnic|BR|asn|270840|1|20200619|allocated
+lacnic|BR|asn|270841|1|20200619|allocated
