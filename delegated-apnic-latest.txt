@@ -25,10 +25,10 @@
 #
 ######################################################################
 #
-2|apnic|20200821|66041|19830613|20200820|+1000
-apnic|*|asn|*|10244|summary
-apnic|*|ipv4|*|44964|summary
-apnic|*|ipv6|*|10833|summary
+2|apnic|20200822|66051|19830613|20200821|+1000
+apnic|*|asn|*|10247|summary
+apnic|*|ipv4|*|44970|summary
+apnic|*|ipv6|*|10834|summary
 apnic|JP|asn|173|1|20020801|allocated
 apnic|NZ|asn|681|1|20020801|allocated
 apnic|AU|asn|1221|1|20000131|allocated
@@ -10273,6 +10273,9 @@ apnic|PH|asn|141016|1|20200820|allocated
 apnic|CN|asn|141017|1|20200820|allocated
 apnic|IN|asn|141018|1|20200820|allocated
 apnic|IN|asn|141019|1|20200820|allocated
+apnic|PK|asn|141020|1|20200821|allocated
+apnic|CN|asn|141021|1|20200821|allocated
+apnic|AU|asn|141022|1|20200821|allocated
 apnic|AU|ipv4|1.0.0.0|256|20110811|assigned
 apnic|CN|ipv4|1.0.1.0|256|20110414|allocated
 apnic|CN|ipv4|1.0.2.0|512|20110414|allocated
@@ -28996,6 +28999,12 @@ apnic|CN|ipv4|103.154.242.0|512|20200820|allocated
 apnic|VN|ipv4|103.154.244.0|512|20200820|allocated
 apnic|IN|ipv4|103.154.246.0|512|20200820|allocated
 apnic|IN|ipv4|103.154.248.0|256|20200820|assigned
+apnic|AU|ipv4|103.154.249.0|256|20200821|assigned
+apnic|PH|ipv4|103.154.250.0|256|20200821|assigned
+apnic|IN|ipv4|103.154.252.0|512|20200821|allocated
+apnic|IN|ipv4|103.154.254.0|512|20200821|assigned
+apnic|IN|ipv4|103.155.0.0|512|20200821|assigned
+apnic|IN|ipv4|103.155.2.0|512|20200821|assigned
 apnic|CN|ipv4|103.192.0.0|1024|20150715|allocated
 apnic|CN|ipv4|103.192.4.0|1024|20150715|allocated
 apnic|CN|ipv4|103.192.8.0|1024|20150715|allocated
@@ -58351,6 +58360,7 @@ apnic|BD|ipv6|2001:df4:a580::|48|20200819|assigned
 apnic|AU|ipv6|2001:df4:a600::|48|20160902|assigned
 apnic|CN|ipv6|2001:df4:a680::|48|20200820|assigned
 apnic|IN|ipv6|2001:df4:a700::|48|20180328|assigned
+apnic|IN|ipv6|2001:df4:a780::|48|20200821|assigned
 apnic|ID|ipv6|2001:df4:a800::|48|20140410|assigned
 apnic|ID|ipv6|2001:df4:a900::|48|20180329|assigned
 apnic|PK|ipv6|2001:df4:aa00::|48|20160902|assigned
