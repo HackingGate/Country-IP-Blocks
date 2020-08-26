@@ -1,7 +1,7 @@
-2|lacnic|20200824|41317|19870101|20200824|-0300
-lacnic|*|ipv4|*|18340|summary
-lacnic|*|ipv6|*|11030|summary
-lacnic|*|asn|*|11947|summary
+2|lacnic|20200825|41323|19870101|20200825|-0300
+lacnic|*|ipv4|*|18342|summary
+lacnic|*|ipv6|*|11032|summary
+lacnic|*|asn|*|11949|summary
 lacnic|BR|ipv4|24.152.0.0|1024|20200310|allocated
 lacnic|BR|ipv4|24.152.4.0|1024|20200312|allocated
 lacnic|BR|ipv4|24.152.8.0|1024|20200309|allocated
@@ -12832,6 +12832,7 @@ lacnic|AR|ipv4|190.12.96.0|4096|20070228|allocated
 lacnic|AR|ipv4|190.12.112.0|4096|20070711|allocated
 lacnic|BR|ipv4|190.12.132.0|1024|20200821|allocated
 lacnic|BR|ipv4|190.12.136.0|1024|20200824|allocated
+lacnic|BR|ipv4|190.12.152.0|1024|20200825|allocated
 lacnic|BR|ipv4|190.12.156.0|1024|20200824|allocated
 lacnic|AR|ipv4|190.12.160.0|8192|20110607|allocated
 lacnic|DO|ipv4|190.12.192.0|8192|20061030|allocated
@@ -13666,6 +13667,7 @@ lacnic|CR|ipv4|190.171.0.0|16384|20100623|allocated
 lacnic|BR|ipv4|190.171.72.0|1024|20200819|allocated
 lacnic|BR|ipv4|190.171.84.0|1024|20200820|allocated
 lacnic|DO|ipv4|190.171.88.0|1024|20200821|allocated
+lacnic|BR|ipv4|190.171.92.0|1024|20200825|allocated
 lacnic|CR|ipv4|190.171.96.0|8192|20130409|allocated
 lacnic|CL|ipv4|190.171.128.0|16384|20100727|allocated
 lacnic|BO|ipv4|190.171.192.0|16384|20120503|allocated
@@ -29124,6 +29126,8 @@ lacnic|BR|ipv6|2804:78f0::|32|20200824|allocated
 lacnic|BR|ipv6|2804:78f4::|32|20200824|allocated
 lacnic|BR|ipv6|2804:78f8::|32|20200824|allocated
 lacnic|BR|ipv6|2804:78fc::|32|20200824|allocated
+lacnic|BR|ipv6|2804:7900::|32|20200825|allocated
+lacnic|BR|ipv6|2804:7904::|32|20200825|allocated
 lacnic|MX|ipv6|2806::|28|20101006|allocated
 lacnic|MX|ipv6|2806:200::|32|20110420|allocated
 lacnic|MX|ipv6|2806:201::|32|20150611|allocated
@@ -41072,3 +41076,5 @@ lacnic|BR|asn|271275|1|20200824|allocated
 lacnic|BR|asn|271276|1|20200824|allocated
 lacnic|BR|asn|271277|1|20200824|allocated
 lacnic|BR|asn|271278|1|20200824|allocated
+lacnic|BR|asn|271279|1|20200825|allocated
+lacnic|BR|asn|271280|1|20200825|allocated
