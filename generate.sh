@@ -1,5 +1,8 @@
 #!/bin/sh
 
+# Exit immediately if a simple command exits with a non-zero status
+set -e
+
 # Download data from registries 
 wget -nv https://ftp.apnic.net/stats/apnic/delegated-apnic-latest -O delegated-apnic-latest.txt
 wget -nv https://ftp.arin.net/pub/stats/arin/delegated-arin-extended-latest -O delegated-arin-extended-latest.txt
