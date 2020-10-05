@@ -25,10 +25,10 @@
 #
 ######################################################################
 #
-2|apnic|20201005|66579|19830613|20201002|+1000
-apnic|*|asn|*|10348|summary
-apnic|*|ipv4|*|45228|summary
-apnic|*|ipv6|*|11003|summary
+2|apnic|20201006|66585|19830613|20201005|+1000
+apnic|*|asn|*|10349|summary
+apnic|*|ipv4|*|45231|summary
+apnic|*|ipv6|*|11005|summary
 apnic|JP|asn|173|1|20020801|allocated
 apnic|NZ|asn|681|1|20020801|allocated
 apnic|AU|asn|1221|1|20000131|allocated
@@ -6159,6 +6159,7 @@ apnic|HK|asn|133766|1|20141021|allocated
 apnic|AU|asn|133767|1|20141023|allocated
 apnic|IN|asn|133768|1|20141023|allocated
 apnic|HK|asn|133769|1|20141023|allocated
+apnic|BD|asn|133770|1|20201005|allocated
 apnic|HK|asn|133771|1|20141027|allocated
 apnic|HK|asn|133772|1|20141027|allocated
 apnic|AU|asn|133773|1|20141028|allocated
@@ -29376,6 +29377,9 @@ apnic|ID|ipv4|103.156.224.0|512|20201002|allocated
 apnic|ID|ipv4|103.156.226.0|512|20201002|allocated
 apnic|CN|ipv4|103.156.228.0|512|20201002|allocated
 apnic|NZ|ipv4|103.156.230.0|512|20201002|allocated
+apnic|ID|ipv4|103.156.232.0|512|20201005|allocated
+apnic|ID|ipv4|103.156.234.0|256|20201005|assigned
+apnic|IN|ipv4|103.156.236.0|512|20201005|assigned
 apnic|CN|ipv4|103.192.0.0|1024|20150715|allocated
 apnic|CN|ipv4|103.192.4.0|1024|20150715|allocated
 apnic|CN|ipv4|103.192.8.0|1024|20150715|allocated
@@ -58891,6 +58895,7 @@ apnic|ID|ipv6|2001:df4:fe80::|48|20201001|assigned
 apnic|AU|ipv6|2001:df4:ff00::|48|20180501|assigned
 apnic|BD|ipv6|2001:df4:ff80::|48|20201001|assigned
 apnic|AU|ipv6|2001:df5::|48|20130307|assigned
+apnic|ID|ipv6|2001:df5:80::|48|20201005|assigned
 apnic|IN|ipv6|2001:df5:100::|48|20180501|assigned
 apnic|ID|ipv6|2001:df5:200::|48|20160909|assigned
 apnic|MN|ipv6|2001:df5:300::|48|20180502|assigned
@@ -65864,6 +65869,7 @@ apnic|ID|ipv6|2406:8ec0::|32|20201002|allocated
 apnic|ID|ipv6|2406:8f00::|32|20130326|allocated
 apnic|CN|ipv6|2406:8f40::|32|20201002|allocated
 apnic|CN|ipv6|2406:8f80::|32|20160810|allocated
+apnic|ID|ipv6|2406:8fc0::|32|20201005|allocated
 apnic|VN|ipv6|2406:9000::|32|20071214|allocated
 apnic|HK|ipv6|2406:9080::|32|20160810|allocated
 apnic|HK|ipv6|2406:9100::|32|20130326|allocated
