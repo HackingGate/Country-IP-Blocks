@@ -1,7 +1,7 @@
-2|lacnic|20201220|42091|19870101|20201218|-0300
-lacnic|*|ipv4|*|18401|summary
-lacnic|*|ipv6|*|11383|summary
-lacnic|*|asn|*|12307|summary
+2|lacnic|20201221|42095|19870101|20201221|-0300
+lacnic|*|ipv4|*|18402|summary
+lacnic|*|ipv6|*|11385|summary
+lacnic|*|asn|*|12308|summary
 lacnic|BR|ipv4|24.152.0.0|1024|20200310|allocated
 lacnic|BR|ipv4|24.152.4.0|1024|20200312|allocated
 lacnic|BR|ipv4|24.152.8.0|1024|20200309|allocated
@@ -18241,6 +18241,7 @@ lacnic|BR|ipv4|201.222.36.0|1024|20200821|allocated
 lacnic|CO|ipv4|201.222.40.0|256|20200921|allocated
 lacnic|AR|ipv4|201.222.41.0|256|20200904|allocated
 lacnic|MX|ipv4|201.222.42.0|256|20200909|assigned
+lacnic|AR|ipv4|201.222.43.0|256|20201221|allocated
 lacnic|CL|ipv4|201.222.44.0|1024|20200904|allocated
 lacnic|PY|ipv4|201.222.48.0|2048|20121003|allocated
 lacnic|AR|ipv4|201.222.56.0|1024|20130215|allocated
@@ -21273,6 +21274,7 @@ lacnic|AR|ipv6|2803:b7a0::|32|20190227|allocated
 lacnic|AR|ipv6|2803:b7c0::|32|20170713|allocated
 lacnic|CO|ipv6|2803:b7e0::|32|20200828|allocated
 lacnic|CR|ipv6|2803:b800::|32|20120316|allocated
+lacnic|AR|ipv6|2803:b810::|32|20201221|allocated
 lacnic|EC|ipv6|2803:b820::|32|20170905|allocated
 lacnic|PA|ipv6|2803:b840::|32|20150520|allocated
 lacnic|GT|ipv6|2803:b860::|32|20190409|allocated
@@ -29528,6 +29530,7 @@ lacnic|BR|ipv6|2804:7d68::|32|20201217|allocated
 lacnic|BR|ipv6|2804:7d6c::|32|20201218|allocated
 lacnic|BR|ipv6|2804:7d70::|32|20201218|allocated
 lacnic|BR|ipv6|2804:7d74::|32|20201218|allocated
+lacnic|BR|ipv6|2804:7d78::|32|20201221|allocated
 lacnic|MX|ipv6|2806::|28|20101006|allocated
 lacnic|MX|ipv6|2806:200::|32|20110420|allocated
 lacnic|MX|ipv6|2806:202::|32|20150629|allocated
@@ -41743,6 +41746,7 @@ lacnic|BR|asn|271559|1|20201217|allocated
 lacnic|BR|asn|271560|1|20201218|allocated
 lacnic|BR|asn|271561|1|20201218|allocated
 lacnic|BR|asn|271562|1|20201218|allocated
+lacnic|BR|asn|271563|1|20201221|allocated
 lacnic|CO|asn|271773|1|20200828|allocated
 lacnic|AR|asn|271774|1|20200831|allocated
 lacnic|PY|asn|271775|1|20200831|allocated
