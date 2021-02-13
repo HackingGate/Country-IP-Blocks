@@ -25,9 +25,9 @@
 #
 ######################################################################
 #
-2|apnic|20210212|68110|19830613|20210211|+1000
-apnic|*|asn|*|10574|summary
-apnic|*|ipv4|*|46080|summary
+2|apnic|20210213|68115|19830613|20210212|+1000
+apnic|*|asn|*|10578|summary
+apnic|*|ipv4|*|46081|summary
 apnic|*|ipv6|*|11456|summary
 apnic|JP|asn|173|1|20020801|allocated
 apnic|NZ|asn|681|1|20020801|allocated
@@ -10603,6 +10603,10 @@ apnic|HK|asn|141725|1|20210210|allocated
 apnic|BD|asn|141726|1|20210210|allocated
 apnic|AU|asn|141727|1|20210211|allocated
 apnic|IN|asn|141728|1|20210211|allocated
+apnic|BD|asn|141729|1|20210212|allocated
+apnic|TH|asn|141730|1|20210212|allocated
+apnic|BD|asn|141731|1|20210212|allocated
+apnic|NP|asn|141732|1|20210212|allocated
 apnic|AU|ipv4|1.0.0.0|256|20110811|assigned
 apnic|CN|ipv4|1.0.1.0|256|20110414|allocated
 apnic|CN|ipv4|1.0.2.0|512|20110414|allocated
@@ -30390,6 +30394,8 @@ apnic|ID|ipv4|103.162.218.0|512|20210211|allocated
 apnic|ID|ipv4|103.162.220.0|512|20210211|allocated
 apnic|ID|ipv4|103.162.222.0|512|20210211|allocated
 apnic|IN|ipv4|103.162.224.0|512|20210211|assigned
+apnic|IN|ipv4|103.162.226.0|256|20210212|assigned
+apnic|US|ipv4|103.162.227.0|256|20210212|allocated
 apnic|CN|ipv4|103.192.0.0|1024|20150715|allocated
 apnic|CN|ipv4|103.192.4.0|1024|20150715|allocated
 apnic|CN|ipv4|103.192.8.0|1024|20150715|allocated
@@ -44522,7 +44528,7 @@ apnic|NZ|ipv4|202.37.254.0|256|20010813|assigned
 apnic|NZ|ipv4|202.37.255.0|256|19940908|assigned
 apnic|CN|ipv4|202.38.0.0|512|20110414|allocated
 apnic|CN|ipv4|202.38.2.0|512|19940701|assigned
-apnic|NP|ipv4|202.38.4.0|1024|20110406|allocated
+apnic|HK|ipv4|202.38.4.0|1024|20110406|allocated
 apnic|CN|ipv4|202.38.8.0|2048|19941216|allocated
 apnic|HK|ipv4|202.38.16.0|4096|20001113|allocated
 apnic|SG|ipv4|202.38.32.0|4096|19940823|allocated
@@ -47347,7 +47353,6 @@ apnic|JP|ipv4|202.164.64.0|8192|20031211|allocated
 apnic|CN|ipv4|202.164.96.0|8192|20110412|allocated
 apnic|IN|ipv4|202.164.128.0|8192|20060308|allocated
 apnic|PH|ipv4|202.164.160.0|8192|20010426|allocated
-apnic|AU|ipv4|202.164.192.0|4096|20040707|allocated
 apnic|BD|ipv4|202.164.208.0|2048|20050914|allocated
 apnic|ID|ipv4|202.164.216.0|2048|20050920|allocated
 apnic|JP|ipv4|202.164.224.0|4096|20051007|allocated
@@ -51056,7 +51061,7 @@ apnic|AU|ipv4|203.31.125.0|256|19960919|assigned
 apnic|AU|ipv4|203.31.126.0|512|19960919|assigned
 apnic|AU|ipv4|203.31.128.0|8192|19960919|allocated
 apnic|AU|ipv4|203.31.160.0|256|19960919|assigned
-apnic|AU|ipv4|203.31.161.0|256|19960919|assigned
+apnic|NZ|ipv4|203.31.161.0|256|19960919|assigned
 apnic|CN|ipv4|203.31.162.0|256|20110414|allocated
 apnic|AU|ipv4|203.31.163.0|256|19960919|assigned
 apnic|ID|ipv4|203.31.164.0|512|20070508|assigned
