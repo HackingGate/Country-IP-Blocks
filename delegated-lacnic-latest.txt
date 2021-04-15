@@ -1,7 +1,7 @@
-2|lacnic|20210412|42572|19870101|20210412|-0300
-lacnic|*|ipv4|*|18518|summary
-lacnic|*|ipv6|*|11548|summary
-lacnic|*|asn|*|12506|summary
+2|lacnic|20210413|42577|19870101|20210413|-0300
+lacnic|*|ipv4|*|18519|summary
+lacnic|*|ipv6|*|11550|summary
+lacnic|*|asn|*|12508|summary
 lacnic|BR|ipv4|24.152.0.0|1024|20200310|allocated
 lacnic|BR|ipv4|24.152.4.0|1024|20200312|allocated
 lacnic|BR|ipv4|24.152.8.0|1024|20200309|allocated
@@ -13190,7 +13190,6 @@ lacnic|AR|ipv4|190.92.96.0|2048|20120918|allocated
 lacnic|AR|ipv4|190.92.104.0|2048|20120918|allocated
 lacnic|CU|ipv4|190.92.112.0|4096|20120903|allocated
 lacnic|AR|ipv4|190.92.160.0|8192|20071001|allocated
-lacnic|AR|ipv4|190.92.192.0|16384|20080620|allocated
 lacnic|TT|ipv4|190.93.0.0|8192|20070323|allocated
 lacnic|BR|ipv4|190.93.32.0|1024|20200526|allocated
 lacnic|GY|ipv4|190.93.36.0|1024|20110715|allocated
@@ -16444,6 +16443,8 @@ lacnic|CO|ipv4|200.80.0.0|16384|20010717|allocated
 lacnic|AR|ipv4|200.80.64.0|4096|20010810|allocated
 lacnic|MX|ipv4|200.80.80.0|4096|20061228|allocated
 lacnic|BR|ipv4|200.80.108.0|1024|20210412|allocated
+lacnic|BR|ipv4|200.80.112.0|1024|20210413|allocated
+lacnic|BR|ipv4|200.80.120.0|1024|20210413|allocated
 lacnic|AR|ipv4|200.80.128.0|8192|20010814|allocated
 lacnic|AR|ipv4|200.80.160.0|4096|20030625|allocated
 lacnic|AR|ipv4|200.80.176.0|4096|20050711|allocated
@@ -29807,6 +29808,8 @@ lacnic|BR|ipv6|2804:7f9c::|32|20210409|allocated
 lacnic|BR|ipv6|2804:7fa0::|32|20210412|allocated
 lacnic|BR|ipv6|2804:7fa4::|32|20210412|allocated
 lacnic|BR|ipv6|2804:7fa8::|32|20210412|allocated
+lacnic|BR|ipv6|2804:7fac::|32|20210413|allocated
+lacnic|BR|ipv6|2804:7fb0::|32|20210413|allocated
 lacnic|MX|ipv6|2806::|28|20101006|allocated
 lacnic|MX|ipv6|2806:200::|32|20110420|allocated
 lacnic|MX|ipv6|2806:202::|32|20150629|allocated
@@ -42135,6 +42138,8 @@ lacnic|BR|asn|271698|1|20210409|allocated
 lacnic|BR|asn|271699|1|20210412|allocated
 lacnic|BR|asn|271700|1|20210412|allocated
 lacnic|BR|asn|271701|1|20210412|allocated
+lacnic|BR|asn|271702|1|20210413|allocated
+lacnic|BR|asn|271703|1|20210413|allocated
 lacnic|CO|asn|271773|1|20200828|allocated
 lacnic|AR|asn|271774|1|20200831|allocated
 lacnic|PY|asn|271775|1|20200831|allocated
