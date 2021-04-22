@@ -1,7 +1,7 @@
-2|lacnic|20210419|42612|19870101|20210419|-0300
-lacnic|*|ipv4|*|18533|summary
-lacnic|*|ipv6|*|11557|summary
-lacnic|*|asn|*|12522|summary
+2|lacnic|20210420|42616|19870101|20210420|-0300
+lacnic|*|ipv4|*|18535|summary
+lacnic|*|ipv6|*|11558|summary
+lacnic|*|asn|*|12523|summary
 lacnic|BR|ipv4|24.152.0.0|1024|20200310|allocated
 lacnic|BR|ipv4|24.152.4.0|1024|20200312|allocated
 lacnic|BR|ipv4|24.152.8.0|1024|20200309|allocated
@@ -5943,6 +5943,7 @@ lacnic|GF|ipv4|161.22.64.0|16384|20140422|allocated
 lacnic|BO|ipv4|161.22.128.0|32768|20140408|allocated
 lacnic|BR|ipv4|161.24.0.0|65536|19920501|assigned
 lacnic|CL|ipv4|161.25.0.0|65536|19920504|assigned
+lacnic|BR|ipv4|161.38.40.0|512|20210420|allocated
 lacnic|BO|ipv4|161.56.0.0|65536|20140408|allocated
 lacnic|BR|ipv4|161.79.0.0|65536|19920622|assigned
 lacnic|CL|ipv4|161.131.0.0|65536|19920820|assigned
@@ -10180,6 +10181,7 @@ lacnic|EC|ipv4|179.49.0.0|16384|20130426|allocated
 lacnic|PE|ipv4|179.49.64.0|2048|20130514|allocated
 lacnic|AR|ipv4|179.49.72.0|2048|20130514|allocated
 lacnic|BR|ipv4|179.49.80.0|1024|20210416|allocated
+lacnic|BR|ipv4|179.49.84.0|1024|20210420|allocated
 lacnic|BR|ipv4|179.49.88.0|1024|20210415|allocated
 lacnic|BR|ipv4|179.49.92.0|1024|20210416|allocated
 lacnic|AR|ipv4|179.49.96.0|4096|20130626|allocated
@@ -29831,6 +29833,7 @@ lacnic|BR|ipv6|2804:7fd0::|32|20210416|allocated
 lacnic|BR|ipv6|2804:7fd4::|32|20210416|allocated
 lacnic|BR|ipv6|2804:7fd8::|32|20210416|allocated
 lacnic|BR|ipv6|2804:7fdc::|32|20210419|allocated
+lacnic|BR|ipv6|2804:7fe0::|32|20210420|allocated
 lacnic|MX|ipv6|2806::|28|20101006|allocated
 lacnic|MX|ipv6|2806:200::|32|20110420|allocated
 lacnic|MX|ipv6|2806:202::|32|20150629|allocated
@@ -42164,6 +42167,7 @@ lacnic|BR|asn|271711|1|20210416|allocated
 lacnic|BR|asn|271712|1|20210416|allocated
 lacnic|BR|asn|271713|1|20210416|allocated
 lacnic|BR|asn|271714|1|20210419|allocated
+lacnic|BR|asn|271715|1|20210420|allocated
 lacnic|CO|asn|271773|1|20200828|allocated
 lacnic|AR|asn|271774|1|20200831|allocated
 lacnic|PY|asn|271775|1|20200831|allocated
