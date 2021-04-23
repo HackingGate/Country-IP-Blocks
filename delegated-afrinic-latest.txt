@@ -1,6 +1,6 @@
-2|afrinic|20210421|7024|00000000|20210421|00000
+2|afrinic|20210422|7028|00000000|20210422|00000
 afrinic|*|asn|*|1935|summary
-afrinic|*|ipv4|*|4057|summary
+afrinic|*|ipv4|*|4061|summary
 afrinic|*|ipv6|*|1032|summary
 afrinic|ZA|asn|1228|1|19910301|allocated
 afrinic|ZA|asn|1229|1|19910301|allocated
@@ -3264,11 +3264,13 @@ afrinic|LY|ipv4|102.221.8.0|1024|20201112|allocated
 afrinic|ZA|ipv4|102.221.12.0|1024|20210303|allocated
 afrinic|NG|ipv4|102.221.16.0|1024|20210121|allocated
 afrinic|TZ|ipv4|102.221.20.0|1024|20210302|allocated
+afrinic|ZA|ipv4|102.221.24.0|1024|20210421|allocated
 afrinic|GH|ipv4|102.221.28.0|1024|20210211|allocated
 afrinic|KE|ipv4|102.221.32.0|1024|20210119|allocated
 afrinic|ZA|ipv4|102.221.36.0|1024|20210118|allocated
 afrinic|ZA|ipv4|102.221.40.0|1024|20210324|allocated
 afrinic|NG|ipv4|102.221.44.0|1024|20210114|allocated
+afrinic|ZA|ipv4|102.221.50.0|512|20210421|allocated
 afrinic|AO|ipv4|102.221.52.0|1024|20210126|allocated
 afrinic|LY|ipv4|102.221.56.0|1024|20210315|allocated
 afrinic|ZA|ipv4|102.221.60.0|1024|20210121|allocated
@@ -4477,7 +4479,8 @@ afrinic|ZA|ipv4|196.1.8.0|1792|19930804|assigned
 afrinic|AO|ipv4|196.1.15.0|256|20121217|assigned
 afrinic|ZA|ipv4|196.1.16.0|2560|19931102|assigned
 afrinic|NA|ipv4|196.1.28.0|1024|20041027|allocated
-afrinic|ZA|ipv4|196.1.32.0|5120|19930823|assigned
+afrinic|ZA|ipv4|196.1.32.0|4096|19930823|allocated
+afrinic|ZA|ipv4|196.1.48.0|1024|19930823|allocated
 afrinic|ZA|ipv4|196.1.56.0|2048|20041102|allocated
 afrinic|ZA|ipv4|196.1.71.0|256|20070529|assigned
 afrinic|ZA|ipv4|196.1.74.0|256|19930706|assigned
@@ -5021,6 +5024,7 @@ afrinic|ZA|ipv4|196.41.72.0|256|20160422|assigned
 afrinic|EG|ipv4|196.41.73.0|256|20160422|assigned
 afrinic|CI|ipv4|196.41.75.0|256|20160503|assigned
 afrinic|TZ|ipv4|196.41.76.0|256|20160513|assigned
+afrinic|AO|ipv4|196.41.77.0|256|20160527|assigned
 afrinic|ZA|ipv4|196.41.78.0|256|20160531|assigned
 afrinic|NG|ipv4|196.41.80.0|256|20160531|assigned
 afrinic|ZA|ipv4|196.41.81.0|256|20160610|assigned
