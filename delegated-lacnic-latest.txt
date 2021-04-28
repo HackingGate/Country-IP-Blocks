@@ -1,7 +1,7 @@
-2|lacnic|20210425|42628|19870101|20210423|-0300
+2|lacnic|20210426|42631|19870101|20210426|-0300
 lacnic|*|ipv4|*|18534|summary
-lacnic|*|ipv6|*|11563|summary
-lacnic|*|asn|*|12531|summary
+lacnic|*|ipv6|*|11564|summary
+lacnic|*|asn|*|12533|summary
 lacnic|BR|ipv4|24.152.0.0|1024|20200310|allocated
 lacnic|BR|ipv4|24.152.4.0|1024|20200312|allocated
 lacnic|BR|ipv4|24.152.8.0|1024|20200309|allocated
@@ -26701,7 +26701,6 @@ lacnic|BR|ipv6|2804:4e84::|32|20180528|allocated
 lacnic|BR|ipv6|2804:4e88::|32|20180528|allocated
 lacnic|BR|ipv6|2804:4e8c::|32|20180528|allocated
 lacnic|BR|ipv6|2804:4e90::|32|20180528|allocated
-lacnic|BR|ipv6|2804:4e94::|32|20180529|allocated
 lacnic|BR|ipv6|2804:4e98::|32|20180529|allocated
 lacnic|BR|ipv6|2804:4e9c::|32|20180529|allocated
 lacnic|BR|ipv6|2804:4ea0::|32|20180529|allocated
@@ -29838,6 +29837,8 @@ lacnic|BR|ipv6|2804:7fe8::|32|20210422|allocated
 lacnic|BR|ipv6|2804:7fec::|32|20210422|allocated
 lacnic|BR|ipv6|2804:7ff0::|32|20210423|allocated
 lacnic|BR|ipv6|2804:7ff4::|32|20210423|allocated
+lacnic|BR|ipv6|2804:7ff8::|32|20210426|allocated
+lacnic|BR|ipv6|2804:7ffc::|32|20210426|allocated
 lacnic|MX|ipv6|2806::|28|20101006|allocated
 lacnic|MX|ipv6|2806:200::|32|20110420|allocated
 lacnic|MX|ipv6|2806:202::|32|20150629|allocated
@@ -38852,7 +38853,6 @@ lacnic|BR|asn|268266|1|20180528|allocated
 lacnic|BR|asn|268267|1|20180528|allocated
 lacnic|BR|asn|268268|1|20180528|allocated
 lacnic|BR|asn|268269|1|20180528|allocated
-lacnic|BR|asn|268270|1|20180529|allocated
 lacnic|BR|asn|268271|1|20180529|allocated
 lacnic|BR|asn|268272|1|20180529|allocated
 lacnic|BR|asn|268273|1|20180529|allocated
@@ -42174,6 +42174,8 @@ lacnic|BR|asn|271717|1|20210422|allocated
 lacnic|BR|asn|271718|1|20210422|allocated
 lacnic|BR|asn|271719|1|20210423|allocated
 lacnic|BR|asn|271720|1|20210423|allocated
+lacnic|BR|asn|271721|1|20210426|allocated
+lacnic|BR|asn|271722|1|20210426|allocated
 lacnic|CO|asn|271773|1|20200828|allocated
 lacnic|AR|asn|271774|1|20200831|allocated
 lacnic|PY|asn|271775|1|20200831|allocated
