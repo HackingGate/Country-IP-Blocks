@@ -1,7 +1,7 @@
-2|afrinic|20210605|7108|00000000|20210605|00000
-afrinic|*|asn|*|1958|summary
-afrinic|*|ipv4|*|4103|summary
-afrinic|*|ipv6|*|1047|summary
+2|afrinic|20210606|7112|00000000|20210606|00000
+afrinic|*|asn|*|1960|summary
+afrinic|*|ipv4|*|4104|summary
+afrinic|*|ipv6|*|1048|summary
 afrinic|ZA|asn|1228|1|19910301|allocated
 afrinic|ZA|asn|1229|1|19910301|allocated
 afrinic|ZA|asn|1230|1|19910301|allocated
@@ -527,6 +527,7 @@ afrinic|LY|asn|37284|1|20101206|allocated
 afrinic|NG|asn|37286|1|20101216|allocated
 afrinic|ZM|asn|37287|1|20101217|allocated
 afrinic|SN|asn|37288|1|20101228|allocated
+afrinic|GH|asn|37289|1|20110207|allocated
 afrinic|BJ|asn|37292|1|20110225|allocated
 afrinic|MW|asn|37294|1|20110301|allocated
 afrinic|NG|asn|37296|1|20110304|allocated
@@ -907,6 +908,7 @@ afrinic|AO|asn|327691|1|20100811|allocated
 afrinic|UG|asn|327692|1|20100816|allocated
 afrinic|ZA|asn|327693|1|20130820|allocated
 afrinic|NA|asn|327694|1|20100928|allocated
+afrinic|GH|asn|327695|1|20101013|allocated
 afrinic|BW|asn|327696|1|20160617|allocated
 afrinic|RE|asn|327697|1|20160617|allocated
 afrinic|ZA|asn|327698|1|20110107|allocated
@@ -5119,6 +5121,7 @@ afrinic|UG|ipv4|196.43.128.0|16384|20090211|allocated
 afrinic|KE|ipv4|196.43.192.0|256|20100922|assigned
 afrinic|GH|ipv4|196.43.194.0|256|20100927|assigned
 afrinic|ZA|ipv4|196.43.195.0|256|20101008|assigned
+afrinic|GH|ipv4|196.43.196.0|256|20101013|assigned
 afrinic|AO|ipv4|196.43.197.0|256|20101015|assigned
 afrinic|ZW|ipv4|196.43.199.0|256|20101029|assigned
 afrinic|EG|ipv4|196.43.201.0|256|20101112|assigned
@@ -6148,6 +6151,7 @@ afrinic|RW|ipv6|2001:43f8:150::|48|20100618|assigned
 afrinic|NG|ipv6|2001:43f8:160::|48|20100826|assigned
 afrinic|NG|ipv6|2001:43f8:180::|48|20100922|assigned
 afrinic|NG|ipv6|2001:43f8:190::|48|20130702|assigned
+afrinic|GH|ipv6|2001:43f8:1a0::|48|20101013|assigned
 afrinic|ZA|ipv6|2001:43f8:1b0::|48|20150327|assigned
 afrinic|SN|ipv6|2001:43f8:1d0::|48|20101220|assigned
 afrinic|NG|ipv6|2001:43f8:1e0::|48|20110127|assigned
