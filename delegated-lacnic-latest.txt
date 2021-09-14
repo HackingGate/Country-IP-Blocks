@@ -1,4 +1,4 @@
-2|lacnic|20210911|43129|19870101|20210910|-0300
+2|lacnic|20210912|43129|19870101|20210910|-0300
 lacnic|*|ipv4|*|18564|summary
 lacnic|*|ipv6|*|11749|summary
 lacnic|*|asn|*|12816|summary
