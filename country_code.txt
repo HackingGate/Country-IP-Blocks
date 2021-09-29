@@ -205,6 +205,7 @@ SY
 SZ
 TC
 TD
+TF
 TG
 TH
 TJ
