@@ -7,7 +7,6 @@ on:
   schedule:
     - cron: "22 21 * * 1-5"
 
-
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -32,7 +31,7 @@ jobs:
       run: curl -sL https://gist.github.com/HackingGate/9e8169c7645b074b2f40c959ca20d738/raw/3ae3913f308d9cf34962ac3488b5973a2fbe1a95/restore_last_git_modified_time.sh | sh
     - name: Generate index.html
       run: |
-        tree -H '.' -L 1 -h -D --timefmt '%Y-%m-%d %H:%M:%S %Z' --noreport --charset utf-8 -T 'Country IP Blocks' -o index.html
+        tree -I '.nojekyll|CNAME' -H '.' -L 1 -h -D --timefmt '%Y-%m-%d %H:%M:%S %Z' --noreport --charset utf-8 -T 'Country IP Blocks' -o index.html
         cat github-corner.html >> index.html
         sed -i "s/your-url/github.com\/${GH_USER}\/${REPO}/g" index.html
     - name: Deploy to GitHub Pages
