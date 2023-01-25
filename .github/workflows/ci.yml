@@ -1,0 +1,47 @@
+name: CI
+
+on:
+  push:
+    branches:
+      - master
+  schedule:
+    - cron: "22 21 * * 1-5"
+
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v2
+    - name: Set up environment
+      run: |
+        apt-get update
+        apt-get install -y tree
+    - name: Configure git remote
+      run: git config --add remote.origin.fetch '+refs/heads/*:refs/remotes/origin/*'
+    - name: Fetch gh-pages branch
+      run: git fetch origin gh-pages
+    - name: Checkout gh-pages branch
+      run: git checkout gh-pages
+    - name: Copy over generate.sh
+      run: git checkout master -- generate.sh
+    - name: Run generate.sh and cleanup
+      run: |
+        ./generate.sh
+        rm generate.sh
+    - name: Generate sha256sums.txt
+      run: sha256sum -b *.txt > sha256sums.txt
+    - name: Run restore_last_git_modified_time.sh
+      run: curl -sL https://gist.github.com/HackingGate/9e8169c7645b074b2f40c959ca20d738/raw/3ae3913f308d9cf34962ac3488b5973a2fbe1a95/restore_last_git_modified_time.sh | sh
+    - name: Generate index.html
+      run: |
+        tree -H '.' -L 1 -h -D --timefmt '%Y-%m-%d %H:%M:%S %Z' --noreport --charset utf-8 -T 'Country IP Blocks' -o index.html
+        cat github-corner.html >> index.html
+        sed -i "s/your-url/github.com\/${GH_USER}\/${REPO}/g" index.html
+    - name: Deploy to GitHub Pages
+      uses: peaceiris/actions-gh-pages@v3
+      env:
+        ACCESS_TOKEN: ${{ secrets.GH_TOKEN }}
+        PUBLISH_BRANCH: gh-pages
+        PUBLISH_DIR: .
