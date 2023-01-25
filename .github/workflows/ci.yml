@@ -14,10 +14,6 @@ jobs:
     steps:
     - name: Checkout code
       uses: actions/checkout@v2
-    - name: Install tree
-      run: |
-        sudo apt update
-        sudo apt install -y tree
     - name: Configure git remote
       run: git config --add remote.origin.fetch '+refs/heads/*:refs/remotes/origin/*'
     - name: Fetch gh-pages branch
