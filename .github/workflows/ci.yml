@@ -41,7 +41,6 @@ jobs:
         sed -i "s/your-url/github.com\/${GH_USER}\/${REPO}/g" index.html
     - name: Deploy to GitHub Pages
       uses: peaceiris/actions-gh-pages@v3
-      env:
-        ACCESS_TOKEN: ${{ secrets.GH_TOKEN }}
-        PUBLISH_BRANCH: gh-pages
-        PUBLISH_DIR: .
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        publish_dir: .
