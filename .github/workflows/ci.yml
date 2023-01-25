@@ -32,7 +32,7 @@ jobs:
     - name: Generate index.html
       run: |
         tree -I 'CNAME' -H '.' -L 1 -h -D --timefmt '%Y-%m-%d %H:%M:%S %Z' --noreport --charset utf-8 -T 'Country IP Blocks' -o index.html
-        sed -i "/\>.\</d" index.html
+        sed -i "/\".\"/d" index.html
         cat github-corner.html >> index.html
         sed -i "s/your-url/github.com\/${GH_USER}\/${REPO}/g" index.html
     - name: Deploy to GitHub Pages
