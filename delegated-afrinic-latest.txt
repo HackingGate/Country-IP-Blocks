@@ -1,7 +1,7 @@
-2|afrinic|20230127|8087|00000000|20230127|00000
-afrinic|*|asn|*|2249|summary
-afrinic|*|ipv4|*|4589|summary
-afrinic|*|ipv6|*|1249|summary
+2|afrinic|20230130|8091|00000000|20230130|00000
+afrinic|*|asn|*|2250|summary
+afrinic|*|ipv4|*|4590|summary
+afrinic|*|ipv6|*|1251|summary
 afrinic|ZA|asn|1228|1|19910301|allocated
 afrinic|ZA|asn|1229|1|19910301|allocated
 afrinic|ZA|asn|1230|1|19910301|allocated
@@ -2251,6 +2251,7 @@ afrinic|ZA|asn|329206|1|20230120|allocated
 afrinic|TD|asn|329207|1|20230120|allocated
 afrinic|ZA|asn|329208|1|20230123|allocated
 afrinic|AO|asn|329209|1|20230124|allocated
+afrinic|AO|asn|329210|1|20230127|allocated
 afrinic|ZA|ipv4|41.0.0.0|2097152|20071126|allocated
 afrinic|EG|ipv4|41.32.0.0|1048576|20091105|allocated
 afrinic|ZA|ipv4|41.48.0.0|524288|20091211|allocated
@@ -3542,6 +3543,7 @@ afrinic|BJ|ipv4|102.213.224.0|1024|20221228|allocated
 afrinic|LY|ipv4|102.213.228.0|1024|20221116|allocated
 afrinic|CG|ipv4|102.213.232.0|1024|20221116|allocated
 afrinic|ZA|ipv4|102.213.236.0|1024|20221029|assigned
+afrinic|AO|ipv4|102.213.240.0|256|20230127|allocated
 afrinic|KE|ipv4|102.213.241.0|256|20221118|allocated
 afrinic|KE|ipv4|102.213.242.0|256|20221214|assigned
 afrinic|NG|ipv4|102.213.243.0|256|20221222|allocated
@@ -7307,6 +7309,7 @@ afrinic|ZA|ipv6|2c0f:3580::|32|20230116|allocated
 afrinic|ZA|ipv6|2c0f:3600::|32|20210521|allocated
 afrinic|ZA|ipv6|2c0f:3680::|32|20220912|allocated
 afrinic|NE|ipv6|2c0f:3700::|32|20211223|allocated
+afrinic|RE|ipv6|2c0f:3780::|32|20230127|allocated
 afrinic|GA|ipv6|2c0f:3800::|32|20210112|allocated
 afrinic|RW|ipv6|2c0f:3880::|32|20220916|allocated
 afrinic|ZA|ipv6|2c0f:3900::|32|20210914|allocated
@@ -7428,6 +7431,7 @@ afrinic|ZA|ipv6|2c0f:7580::|32|20230120|allocated
 afrinic|CG|ipv6|2c0f:7600::|32|20210521|allocated
 afrinic|ZA|ipv6|2c0f:7680::|32|20220916|allocated
 afrinic|GH|ipv6|2c0f:7700::|32|20211227|allocated
+afrinic|ZA|ipv6|2c0f:7780::|32|20230127|allocated
 afrinic|CD|ipv6|2c0f:7800::|32|20210112|allocated
 afrinic|KE|ipv6|2c0f:7880::|32|20220916|allocated
 afrinic|ZA|ipv6|2c0f:7900::|32|20210915|allocated
