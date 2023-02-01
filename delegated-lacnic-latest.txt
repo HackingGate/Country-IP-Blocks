@@ -1,7 +1,7 @@
-2|lacnic|20230130|45053|19870101|20230130|-0300
-lacnic|*|ipv4|*|19092|summary
-lacnic|*|ipv6|*|12305|summary
-lacnic|*|asn|*|13656|summary
+2|lacnic|20230131|45052|19870101|20230131|-0300
+lacnic|*|ipv4|*|19091|summary
+lacnic|*|ipv6|*|12304|summary
+lacnic|*|asn|*|13657|summary
 lacnic|BR|ipv4|24.152.0.0|1024|20200310|allocated
 lacnic|BR|ipv4|24.152.4.0|1024|20200312|allocated
 lacnic|BR|ipv4|24.152.8.0|1024|20200309|allocated
@@ -17876,7 +17876,6 @@ lacnic|BR|ipv4|200.225.108.0|1024|20140611|allocated
 lacnic|BR|ipv4|200.225.112.0|1024|20140623|allocated
 lacnic|AR|ipv4|200.225.116.0|1024|20200710|allocated
 lacnic|BR|ipv4|200.225.120.0|1024|20140617|allocated
-lacnic|BR|ipv4|200.225.124.0|1024|20140626|assigned
 lacnic|BR|ipv4|200.225.128.0|1024|20140617|allocated
 lacnic|BR|ipv4|200.225.132.0|1024|20140617|allocated
 lacnic|BR|ipv4|200.225.136.0|1024|20140618|allocated
@@ -20083,7 +20082,6 @@ lacnic|BR|ipv6|2801:80:c00::|48|20140714|assigned
 lacnic|BR|ipv6|2801:80:c10::|48|20140715|assigned
 lacnic|BR|ipv6|2801:80:c20::|48|20140715|assigned
 lacnic|BR|ipv6|2801:80:c30::|48|20140731|assigned
-lacnic|BR|ipv6|2801:80:c40::|48|20140806|assigned
 lacnic|BR|ipv6|2801:80:c50::|48|20140806|assigned
 lacnic|BR|ipv6|2801:80:c60::|48|20140807|assigned
 lacnic|BR|ipv6|2801:80:c70::|48|20140811|assigned
@@ -33314,7 +33312,6 @@ lacnic|BR|asn|52574|1|20130219|allocated
 lacnic|BR|asn|52575|1|20130220|allocated
 lacnic|BR|asn|52576|1|20130221|allocated
 lacnic|BR|asn|52577|1|20130222|allocated
-lacnic|BR|asn|52578|1|20130225|allocated
 lacnic|BR|asn|52579|1|20130228|allocated
 lacnic|BR|asn|52580|1|20130228|allocated
 lacnic|BR|asn|52581|1|20130228|allocated
@@ -34156,7 +34153,6 @@ lacnic|BR|asn|61805|1|20140625|allocated
 lacnic|BR|asn|61806|1|20140625|allocated
 lacnic|BR|asn|61807|1|20140625|allocated
 lacnic|BR|asn|61808|1|20140626|allocated
-lacnic|BR|asn|61809|1|20140626|allocated
 lacnic|BR|asn|61810|1|20140626|allocated
 lacnic|BR|asn|61811|1|20140626|allocated
 lacnic|BR|asn|61812|1|20140626|allocated
@@ -44219,6 +44215,7 @@ lacnic|AR|asn|272941|1|20230124|allocated
 lacnic|CO|asn|272942|1|20230124|allocated
 lacnic|DO|asn|272943|1|20230127|allocated
 lacnic|CO|asn|272944|1|20230130|allocated
+lacnic|AR|asn|272945|1|20230131|allocated
 lacnic|BR|asn|273565|1|20220825|allocated
 lacnic|BR|asn|273566|1|20220826|allocated
 lacnic|BR|asn|273567|1|20220829|allocated
