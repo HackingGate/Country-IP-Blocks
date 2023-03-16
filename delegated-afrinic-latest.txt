@@ -1,7 +1,7 @@
-2|afrinic|20230315|8156|00000000|20230315|00000
-afrinic|*|asn|*|2271|summary
-afrinic|*|ipv4|*|4618|summary
-afrinic|*|ipv6|*|1267|summary
+2|afrinic|20230316|8160|00000000|20230316|00000
+afrinic|*|asn|*|2272|summary
+afrinic|*|ipv4|*|4620|summary
+afrinic|*|ipv6|*|1268|summary
 afrinic|ZA|asn|1228|1|19910301|allocated
 afrinic|ZA|asn|1229|1|19910301|allocated
 afrinic|ZA|asn|1230|1|19910301|allocated
@@ -450,6 +450,7 @@ afrinic|CI|asn|37190|1|20100325|allocated
 afrinic|EG|asn|37191|1|20100330|allocated
 afrinic|NG|asn|37192|1|20100330|allocated
 afrinic|EG|asn|37193|1|20100401|allocated
+afrinic|NG|asn|37194|1|20100401|allocated
 afrinic|ZA|asn|37195|1|20100401|allocated
 afrinic|SN|asn|37196|1|20100406|allocated
 afrinic|SD|asn|37197|1|20100407|allocated
@@ -2356,6 +2357,7 @@ afrinic|LS|ipv4|41.76.16.0|2048|20091127|allocated
 afrinic|ZA|ipv4|41.76.32.0|2048|20100105|allocated
 afrinic|MU|ipv4|41.76.40.0|2048|20100119|allocated
 afrinic|ZA|ipv4|41.76.56.0|2048|20100322|allocated
+afrinic|NG|ipv4|41.76.64.0|2048|20100324|allocated
 afrinic|NG|ipv4|41.76.72.0|2048|20100415|allocated
 afrinic|NG|ipv4|41.76.80.0|2048|20100430|allocated
 afrinic|ZA|ipv4|41.76.96.0|2048|20100929|allocated
@@ -3523,6 +3525,7 @@ afrinic|SC|ipv4|102.212.88.0|1024|20230307|allocated
 afrinic|ZA|ipv4|102.212.96.0|1024|20230308|allocated
 afrinic|TZ|ipv4|102.212.112.0|1024|20230306|allocated
 afrinic|ZA|ipv4|102.212.128.0|1024|20230213|allocated
+afrinic|KE|ipv4|102.212.132.0|1024|20230315|allocated
 afrinic|ZA|ipv4|102.212.144.0|1024|20230223|allocated
 afrinic|ZA|ipv4|102.212.148.0|1024|20230223|allocated
 afrinic|ZA|ipv4|102.212.152.0|1024|20230313|allocated
@@ -7883,6 +7886,7 @@ afrinic|ZA|ipv6|2c0f:f500::|32|20150925|allocated
 afrinic|ZA|ipv6|2c0f:f508::|32|20151002|allocated
 afrinic|MW|ipv6|2c0f:f510::|32|20151008|allocated
 afrinic|LY|ipv6|2c0f:f518::|32|20151021|allocated
+afrinic|NG|ipv6|2c0f:f520::|32|20151021|allocated
 afrinic|ZA|ipv6|2c0f:f528::|32|20151028|allocated
 afrinic|SC|ipv6|2c0f:f530::|32|20151106|allocated
 afrinic|TZ|ipv6|2c0f:f538::|32|20151112|allocated
