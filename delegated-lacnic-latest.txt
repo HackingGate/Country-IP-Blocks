@@ -1,7 +1,7 @@
-2|lacnic|20230402|45149|19870101|20230331|-0300
+2|lacnic|20230403|45148|19870101|20230403|-0300
 lacnic|*|ipv4|*|19098|summary
-lacnic|*|ipv6|*|12312|summary
-lacnic|*|asn|*|13739|summary
+lacnic|*|ipv6|*|12310|summary
+lacnic|*|asn|*|13740|summary
 lacnic|BR|ipv4|24.152.0.0|1024|20200310|allocated
 lacnic|BR|ipv4|24.152.4.0|1024|20200312|allocated
 lacnic|BR|ipv4|24.152.8.0|1024|20200309|allocated
@@ -24262,7 +24262,6 @@ lacnic|BR|ipv6|2804:1760::|32|20140515|allocated
 lacnic|BR|ipv6|2804:1764::|32|20140515|allocated
 lacnic|BR|ipv6|2804:1768::|32|20140515|allocated
 lacnic|BR|ipv6|2804:176c::|32|20140515|allocated
-lacnic|BR|ipv6|2804:1770::|32|20140515|allocated
 lacnic|BR|ipv6|2804:1774::|32|20140516|allocated
 lacnic|BR|ipv6|2804:1778::|32|20140516|allocated
 lacnic|BR|ipv6|2804:177c::|32|20140516|allocated
@@ -25493,7 +25492,6 @@ lacnic|BR|ipv6|2804:2da4::|32|20160126|allocated
 lacnic|BR|ipv6|2804:2da8::|32|20160126|allocated
 lacnic|BR|ipv6|2804:2dac::|32|20160126|allocated
 lacnic|BR|ipv6|2804:2db4::|32|20160127|allocated
-lacnic|BR|ipv6|2804:2db8::|32|20160127|allocated
 lacnic|BR|ipv6|2804:2dbc::|32|20160127|allocated
 lacnic|BR|ipv6|2804:2dc0::|32|20160127|allocated
 lacnic|BR|ipv6|2804:2dc4::|32|20160128|allocated
@@ -34998,7 +34996,6 @@ lacnic|BR|asn|262940|1|20130618|allocated
 lacnic|BR|asn|262942|1|20130618|allocated
 lacnic|MX|asn|262944|1|20130419|allocated
 lacnic|BR|asn|262945|1|20130618|allocated
-lacnic|BR|asn|262946|1|20130619|allocated
 lacnic|BR|asn|262947|1|20130619|allocated
 lacnic|BR|asn|262948|1|20130619|allocated
 lacnic|BR|asn|262949|1|20130620|allocated
@@ -37075,7 +37072,6 @@ lacnic|BR|asn|265294|1|20160126|allocated
 lacnic|BR|asn|265295|1|20160126|allocated
 lacnic|BR|asn|265296|1|20160126|allocated
 lacnic|BR|asn|265298|1|20160127|allocated
-lacnic|BR|asn|265299|1|20160127|allocated
 lacnic|BR|asn|265300|1|20160127|allocated
 lacnic|BR|asn|265301|1|20160127|allocated
 lacnic|BR|asn|265302|1|20160128|allocated
@@ -44183,6 +44179,7 @@ lacnic|DO|asn|272971|1|20230329|allocated
 lacnic|EC|asn|272972|1|20230329|allocated
 lacnic|PE|asn|272973|1|20230329|allocated
 lacnic|PA|asn|272974|1|20230330|allocated
+lacnic|AR|asn|272975|1|20230403|allocated
 lacnic|BR|asn|273565|1|20220825|allocated
 lacnic|BR|asn|273566|1|20220826|allocated
 lacnic|BR|asn|273567|1|20220829|allocated
