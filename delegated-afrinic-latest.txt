@@ -1,6 +1,6 @@
-2|afrinic|20230412|8197|00000000|20230412|00000
-afrinic|*|asn|*|2285|summary
-afrinic|*|ipv4|*|4639|summary
+2|afrinic|20230413|8201|00000000|20230413|00000
+afrinic|*|asn|*|2286|summary
+afrinic|*|ipv4|*|4642|summary
 afrinic|*|ipv6|*|1273|summary
 afrinic|ZA|asn|1228|1|19910301|allocated
 afrinic|ZA|asn|1229|1|19910301|allocated
@@ -2287,6 +2287,7 @@ afrinic|NG|asn|329241|1|20230331|allocated
 afrinic|TZ|asn|329242|1|20230405|allocated
 afrinic|ZA|asn|329243|1|20230406|allocated
 afrinic|NG|asn|329244|1|20230407|allocated
+afrinic|CV|asn|329245|1|20230412|allocated
 afrinic|ZA|ipv4|41.0.0.0|2097152|20071126|allocated
 afrinic|EG|ipv4|41.32.0.0|1048576|20091105|allocated
 afrinic|ZA|ipv4|41.48.0.0|524288|20091211|allocated
@@ -3535,6 +3536,7 @@ afrinic|SD|ipv4|102.181.128.0|16384|20170616|allocated
 afrinic|SD|ipv4|102.181.192.0|8192|20170616|allocated
 afrinic|ZA|ipv4|102.182.0.0|65536|20170602|allocated
 afrinic|EG|ipv4|102.184.0.0|524288|20170517|allocated
+afrinic|ZA|ipv4|102.212.36.0|1024|20230412|allocated
 afrinic|NG|ipv4|102.212.40.0|1024|20230407|allocated
 afrinic|ZA|ipv4|102.212.44.0|1024|20230406|allocated
 afrinic|ZA|ipv4|102.212.52.0|1024|20230331|allocated
@@ -3560,6 +3562,7 @@ afrinic|ZA|ipv4|102.212.164.0|1024|20230208|allocated
 afrinic|ZA|ipv4|102.212.168.0|1024|20230209|allocated
 afrinic|ZA|ipv4|102.212.172.0|256|20230314|allocated
 afrinic|ZA|ipv4|102.212.173.0|256|20230227|allocated
+afrinic|CV|ipv4|102.212.175.0|256|20230413|assigned
 afrinic|GH|ipv4|102.212.176.0|1024|20230323|allocated
 afrinic|ZM|ipv4|102.212.180.0|1024|20230323|allocated
 afrinic|ZA|ipv4|102.212.184.0|1024|20230208|assigned
@@ -3601,6 +3604,7 @@ afrinic|KE|ipv4|102.213.92.0|1024|20221208|allocated
 afrinic|AO|ipv4|102.213.96.0|1024|20221208|allocated
 afrinic|AO|ipv4|102.213.100.0|1024|20230104|allocated
 afrinic|AO|ipv4|102.213.104.0|1024|20230224|allocated
+afrinic|AO|ipv4|102.213.108.0|1024|20230412|allocated
 afrinic|ZA|ipv4|102.213.128.0|1024|20221219|allocated
 afrinic|ZA|ipv4|102.213.132.0|1024|20221215|allocated
 afrinic|ML|ipv4|102.213.136.0|1024|20230118|allocated
