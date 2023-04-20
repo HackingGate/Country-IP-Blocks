@@ -1,7 +1,7 @@
-2|lacnic|20230418|45200|19870101|20230418|-0300
-lacnic|*|ipv4|*|19104|summary
-lacnic|*|ipv6|*|12328|summary
-lacnic|*|asn|*|13768|summary
+2|lacnic|20230419|45206|19870101|20230419|-0300
+lacnic|*|ipv4|*|19105|summary
+lacnic|*|ipv6|*|12330|summary
+lacnic|*|asn|*|13771|summary
 lacnic|BR|ipv4|24.152.0.0|1024|20200310|allocated
 lacnic|BR|ipv4|24.152.4.0|1024|20200312|allocated
 lacnic|BR|ipv4|24.152.8.0|1024|20200309|allocated
@@ -340,6 +340,7 @@ lacnic|AR|ipv4|45.68.12.0|1024|20210324|assigned
 lacnic|CL|ipv4|45.68.16.0|1024|20210415|assigned
 lacnic|SR|ipv4|45.68.20.0|512|20220503|assigned
 lacnic|SR|ipv4|45.68.22.0|256|20220503|assigned
+lacnic|PE|ipv4|45.68.23.0|256|20230419|assigned
 lacnic|CO|ipv4|45.68.24.0|1024|20220617|assigned
 lacnic|CO|ipv4|45.68.28.0|1024|20221101|assigned
 lacnic|BR|ipv4|45.70.0.0|1024|20170901|allocated
@@ -19581,6 +19582,7 @@ lacnic|CR|ipv6|2801:13:1800::|48|20211213|assigned
 lacnic|AR|ipv6|2801:13:2000::|48|20140627|assigned
 lacnic|CO|ipv6|2801:13:2800::|48|20200723|assigned
 lacnic|BO|ipv6|2801:13:3000::|48|20170731|assigned
+lacnic|PE|ipv6|2801:13:3800::|48|20230419|assigned
 lacnic|CL|ipv6|2801:13:4000::|48|20131001|assigned
 lacnic|EC|ipv6|2801:13:4800::|48|20191030|assigned
 lacnic|AR|ipv6|2801:13:5000::|48|20161121|assigned
@@ -21749,6 +21751,7 @@ lacnic|PY|ipv6|2803:7520::|32|20180104|allocated
 lacnic|AR|ipv6|2803:7540::|32|20160204|allocated
 lacnic|AR|ipv6|2803:7560::|32|20190828|allocated
 lacnic|AR|ipv6|2803:7580::|32|20140725|allocated
+lacnic|DO|ipv6|2803:7590::|32|20230419|allocated
 lacnic|VE|ipv6|2803:75c0::|32|20170515|allocated
 lacnic|AR|ipv6|2803:75e0::|32|20200626|allocated
 lacnic|AR|ipv6|2803:7600::|32|20120903|allocated
@@ -44206,6 +44209,9 @@ lacnic|PE|asn|272979|1|20230413|allocated
 lacnic|DO|asn|272980|1|20230414|allocated
 lacnic|CL|asn|272981|1|20230417|allocated
 lacnic|AR|asn|272982|1|20230418|allocated
+lacnic|CO|asn|272983|1|20230419|allocated
+lacnic|PE|asn|272984|1|20230419|allocated
+lacnic|DO|asn|272985|1|20230419|allocated
 lacnic|BR|asn|273565|1|20220825|allocated
 lacnic|BR|asn|273566|1|20220826|allocated
 lacnic|BR|asn|273567|1|20220829|allocated
