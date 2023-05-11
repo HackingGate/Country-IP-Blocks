@@ -1,7 +1,7 @@
-2|afrinic|20230510|8254|00000000|20230510|00000
-afrinic|*|asn|*|2299|summary
+2|afrinic|20230511|8256|00000000|20230511|00000
+afrinic|*|asn|*|2300|summary
 afrinic|*|ipv4|*|4674|summary
-afrinic|*|ipv6|*|1281|summary
+afrinic|*|ipv6|*|1282|summary
 afrinic|ZA|asn|1228|1|19910301|allocated
 afrinic|ZA|asn|1229|1|19910301|allocated
 afrinic|ZA|asn|1230|1|19910301|allocated
@@ -1957,6 +1957,7 @@ afrinic|KE|asn|328906|1|20210805|allocated
 afrinic|AO|asn|328907|1|20210806|allocated
 afrinic|TD|asn|328908|1|20210810|allocated
 afrinic|CM|asn|328909|1|20210813|allocated
+afrinic|ZA|asn|328910|1|20210815|allocated
 afrinic|ZA|asn|328911|1|20210815|allocated
 afrinic|ZA|asn|328912|1|20210815|allocated
 afrinic|CM|asn|328913|1|20210816|allocated
@@ -7413,6 +7414,7 @@ afrinic|NG|ipv6|2c0f:1f00::|32|20211105|allocated
 afrinic|NG|ipv6|2c0f:1f80::|32|20221109|allocated
 afrinic|NG|ipv6|2c0f:2000::|32|20201123|allocated
 afrinic|SS|ipv6|2c0f:2080::|32|20220608|allocated
+afrinic|ZA|ipv6|2c0f:2100::|32|20210815|allocated
 afrinic|ZA|ipv6|2c0f:2180::|32|20221116|allocated
 afrinic|SD|ipv6|2c0f:2200::|32|20210329|allocated
 afrinic|NG|ipv6|2c0f:2280::|32|20220613|allocated
