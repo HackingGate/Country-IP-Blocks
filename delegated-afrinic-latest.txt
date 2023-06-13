@@ -1,7 +1,7 @@
-2|afrinic|20230609|8302|00000000|20230609|00000
-afrinic|*|asn|*|2313|summary
-afrinic|*|ipv4|*|4696|summary
-afrinic|*|ipv6|*|1293|summary
+2|afrinic|20230613|8306|00000000|20230613|00000
+afrinic|*|asn|*|2314|summary
+afrinic|*|ipv4|*|4698|summary
+afrinic|*|ipv6|*|1294|summary
 afrinic|ZA|asn|1228|1|19910301|allocated
 afrinic|ZA|asn|1229|1|19910301|allocated
 afrinic|ZA|asn|1230|1|19910301|allocated
@@ -2315,6 +2315,7 @@ afrinic|TN|asn|329268|1|20230530|allocated
 afrinic|CD|asn|329269|1|20230606|allocated
 afrinic|AO|asn|329270|1|20230606|allocated
 afrinic|ZW|asn|329271|1|20230606|allocated
+afrinic|KE|asn|329272|1|20230612|allocated
 afrinic|ZA|ipv4|41.0.0.0|2097152|20071126|allocated
 afrinic|EG|ipv4|41.32.0.0|1048576|20091105|allocated
 afrinic|ZA|ipv4|41.48.0.0|524288|20091211|allocated
@@ -3639,6 +3640,7 @@ afrinic|NG|ipv4|102.212.252.0|1024|20230313|allocated
 afrinic|ZA|ipv4|102.213.0.0|1024|20230124|allocated
 afrinic|ZA|ipv4|102.213.4.0|1024|20230120|allocated
 afrinic|RE|ipv4|102.213.8.0|1024|20230203|allocated
+afrinic|AO|ipv4|102.213.12.0|1024|20230612|allocated
 afrinic|TZ|ipv4|102.213.16.0|512|20230405|assigned
 afrinic|NG|ipv4|102.213.18.0|512|20230215|allocated
 afrinic|ZA|ipv4|102.213.20.0|1024|20230113|allocated
@@ -3731,6 +3733,7 @@ afrinic|GH|ipv4|102.214.52.0|1024|20221011|assigned
 afrinic|NG|ipv4|102.214.56.0|1024|20221005|allocated
 afrinic|NG|ipv4|102.214.60.0|1024|20220923|allocated
 afrinic|BF|ipv4|102.214.64.0|1024|20220921|allocated
+afrinic|KE|ipv4|102.214.68.0|1024|20230612|allocated
 afrinic|KE|ipv4|102.214.72.0|1024|20221107|allocated
 afrinic|KE|ipv4|102.214.76.0|1024|20221011|allocated
 afrinic|ZA|ipv4|102.214.80.0|1024|20220923|allocated
@@ -7549,6 +7552,7 @@ afrinic|ZA|ipv6|2c0f:4a00::|32|20210319|allocated
 afrinic|ZW|ipv6|2c0f:4a40::|32|20230606|allocated
 afrinic|ZA|ipv6|2c0f:4a80::|32|20220331|allocated
 afrinic|UG|ipv6|2c0f:4b00::|32|20211012|allocated
+afrinic|KE|ipv6|2c0f:4b40::|32|20230612|allocated
 afrinic|ZA|ipv6|2c0f:4b80::|32|20221013|allocated
 afrinic|GM|ipv6|2c0f:4c00::|32|20210225|allocated
 afrinic|ZA|ipv6|2c0f:4c80::|32|20220411|allocated
