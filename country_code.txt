@@ -84,6 +84,7 @@ GN
 GP
 GQ
 GR
+GS
 GT
 GU
 GW
