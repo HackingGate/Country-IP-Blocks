@@ -25,6 +25,29 @@ jobs:
       run: |
         ./generate.sh
         rm generate.sh
+    - name: Generate commit message from RIR statistics
+      id: commit_message
+      run: |
+        # Extract serial (date) from each RIR statistics file header
+        APNIC_SERIAL=$(head -1 delegated-apnic-latest.txt 2>/dev/null | cut -d'|' -f3 || echo "N/A")
+        ARIN_SERIAL=$(head -1 delegated-arin-extended-latest.txt 2>/dev/null | cut -d'|' -f3 || echo "N/A")
+        RIPENCC_SERIAL=$(head -1 delegated-ripencc-latest.txt 2>/dev/null | cut -d'|' -f3 || echo "N/A")
+        AFRINIC_SERIAL=$(head -1 delegated-afrinic-latest.txt 2>/dev/null | cut -d'|' -f3 || echo "N/A")
+        LACNIC_SERIAL=$(head -1 delegated-lacnic-latest.txt 2>/dev/null | cut -d'|' -f3 || echo "N/A")
+
+        # Create commit message with RIR statistics info
+        {
+          echo "message<<COMMIT_MESSAGE_EOF"
+          echo "Update IP blocks"
+          echo ""
+          echo "RIR statistics serial numbers:"
+          echo "- APNIC: ${APNIC_SERIAL}"
+          echo "- ARIN: ${ARIN_SERIAL}"
+          echo "- RIPE NCC: ${RIPENCC_SERIAL}"
+          echo "- AFRINIC: ${AFRINIC_SERIAL}"
+          echo "- LACNIC: ${LACNIC_SERIAL}"
+          echo "COMMIT_MESSAGE_EOF"
+        } >> "$GITHUB_OUTPUT"
     - name: Generate sha256sums.txt
       run: sha256sum -b *.txt > sha256sums.txt
     - name: Run restore_last_git_modified_time.sh
@@ -42,3 +65,4 @@ jobs:
         publish_dir: .
         user_name: 'github-actions[bot]'
         user_email: 'github-actions[bot]@users.noreply.github.com'
+        commit_message: ${{ steps.commit_message.outputs.message }}
