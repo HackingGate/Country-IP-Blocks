@@ -28,17 +28,20 @@ jobs:
     - name: Generate commit message from RIR statistics
       id: commit_message
       run: |
-        # Extract serial (date) from each RIR statistics file header
-        APNIC_SERIAL=$(head -1 delegated-apnic-latest.txt 2>/dev/null | cut -d'|' -f3 || echo "N/A")
-        ARIN_SERIAL=$(head -1 delegated-arin-extended-latest.txt 2>/dev/null | cut -d'|' -f3 || echo "N/A")
-        RIPENCC_SERIAL=$(head -1 delegated-ripencc-latest.txt 2>/dev/null | cut -d'|' -f3 || echo "N/A")
-        AFRINIC_SERIAL=$(head -1 delegated-afrinic-latest.txt 2>/dev/null | cut -d'|' -f3 || echo "N/A")
-        LACNIC_SERIAL=$(head -1 delegated-lacnic-latest.txt 2>/dev/null | cut -d'|' -f3 || echo "N/A")
+        # Extract serial (date) from each RIR statistics file header (skip comment lines starting with #)
+        APNIC_SERIAL=$(grep -v '^#' delegated-apnic-latest.txt 2>/dev/null | head -1 | cut -d'|' -f3 || echo "N/A")
+        ARIN_SERIAL=$(grep -v '^#' delegated-arin-extended-latest.txt 2>/dev/null | head -1 | cut -d'|' -f3 || echo "N/A")
+        RIPENCC_SERIAL=$(grep -v '^#' delegated-ripencc-latest.txt 2>/dev/null | head -1 | cut -d'|' -f3 || echo "N/A")
+        AFRINIC_SERIAL=$(grep -v '^#' delegated-afrinic-latest.txt 2>/dev/null | head -1 | cut -d'|' -f3 || echo "N/A")
+        LACNIC_SERIAL=$(grep -v '^#' delegated-lacnic-latest.txt 2>/dev/null | head -1 | cut -d'|' -f3 || echo "N/A")
+
+        # Get current UTC time for commit title
+        UTC_TIME=$(date -u '+%Y-%m-%d %H:%M:%S UTC')
 
         # Create commit message with RIR statistics info
         {
           echo "message<<COMMIT_MESSAGE_EOF"
-          echo "Update IP blocks"
+          echo "${UTC_TIME}"
           echo ""
           echo "RIR statistics serial numbers:"
           echo "- APNIC: ${APNIC_SERIAL}"
