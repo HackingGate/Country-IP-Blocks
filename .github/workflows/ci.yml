@@ -68,4 +68,4 @@ jobs:
         publish_dir: .
         user_name: 'github-actions[bot]'
         user_email: 'github-actions[bot]@users.noreply.github.com'
-        commit_message: ${{ steps.commit_message.outputs.message }}
+        full_commit_message: ${{ steps.commit_message.outputs.message }}
