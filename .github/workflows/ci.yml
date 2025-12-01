@@ -25,6 +25,32 @@ jobs:
       run: |
         ./generate.sh
         rm generate.sh
+    - name: Generate commit message from RIR statistics
+      id: commit_message
+      run: |
+        # Extract serial (date) from each RIR statistics file header (skip comment lines starting with #)
+        APNIC_SERIAL=$(grep -v '^#' delegated-apnic-latest.txt 2>/dev/null | head -1 | cut -d'|' -f3 || echo "N/A")
+        ARIN_SERIAL=$(grep -v '^#' delegated-arin-extended-latest.txt 2>/dev/null | head -1 | cut -d'|' -f3 || echo "N/A")
+        RIPENCC_SERIAL=$(grep -v '^#' delegated-ripencc-latest.txt 2>/dev/null | head -1 | cut -d'|' -f3 || echo "N/A")
+        AFRINIC_SERIAL=$(grep -v '^#' delegated-afrinic-latest.txt 2>/dev/null | head -1 | cut -d'|' -f3 || echo "N/A")
+        LACNIC_SERIAL=$(grep -v '^#' delegated-lacnic-latest.txt 2>/dev/null | head -1 | cut -d'|' -f3 || echo "N/A")
+
+        # Get current UTC time for commit title
+        UTC_TIME=$(date -u '+%Y-%m-%d %H:%M:%S UTC')
+
+        # Create commit message with RIR statistics info
+        {
+          echo "message<<COMMIT_MESSAGE_EOF"
+          echo "${UTC_TIME}"
+          echo ""
+          echo "RIR statistics serial numbers:"
+          echo "- APNIC: ${APNIC_SERIAL}"
+          echo "- ARIN: ${ARIN_SERIAL}"
+          echo "- RIPE NCC: ${RIPENCC_SERIAL}"
+          echo "- AFRINIC: ${AFRINIC_SERIAL}"
+          echo "- LACNIC: ${LACNIC_SERIAL}"
+          echo "COMMIT_MESSAGE_EOF"
+        } >> "$GITHUB_OUTPUT"
     - name: Generate sha256sums.txt
       run: sha256sum -b *.txt > sha256sums.txt
     - name: Run restore_last_git_modified_time.sh
@@ -42,3 +68,4 @@ jobs:
         publish_dir: .
         user_name: 'github-actions[bot]'
         user_email: 'github-actions[bot]@users.noreply.github.com'
+        commit_message: ${{ steps.commit_message.outputs.message }}
