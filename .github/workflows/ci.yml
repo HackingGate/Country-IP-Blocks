@@ -53,8 +53,30 @@ jobs:
         } >> "$GITHUB_OUTPUT"
     - name: Generate sha256sums.txt
       run: sha256sum -b *.txt > sha256sums.txt
-    - name: Run restore_last_git_modified_time.sh
-      run: curl -sL https://gist.github.com/HackingGate/9e8169c7645b074b2f40c959ca20d738/raw/3ae3913f308d9cf34962ac3488b5973a2fbe1a95/restore_last_git_modified_time.sh | sh
+    - name: Check Git version for git-last-modified support
+      run: |
+        GIT_VERSION=$(git --version | awk '{print $3}')
+        REQUIRED_VERSION="2.52"
+        
+        # Compare versions (returns true if GIT_VERSION >= REQUIRED_VERSION)
+        if printf '%s\n%s\n' "$REQUIRED_VERSION" "$GIT_VERSION" | sort -V -C; then
+          echo "Git version $GIT_VERSION meets the minimum requirement ($REQUIRED_VERSION)"
+        else
+          echo "Error: Git version $GIT_VERSION is below the minimum required version $REQUIRED_VERSION"
+          echo "The git-last-modified command requires Git 2.52 or higher"
+          exit 1
+        fi
+    - name: Restore last git modified time
+      run: |
+        # Use git last-modified to get the commit that last modified each file
+        # Then touch each file with the commit's author date
+        git last-modified -r | while IFS=$'\t' read -r commit_sha filepath; do
+          if [ -f "$filepath" ]; then
+            # Get the author date of the commit in a format suitable for touch
+            commit_date=$(git show -s --format='%ai' "$commit_sha")
+            touch -d "$commit_date" "$filepath"
+          fi
+        done
     - name: Generate index.html
       run: |
         tree -I 'CNAME' -H '.' -L 1 -h -D --timefmt '%Y-%m-%d %H:%M:%S %Z' --noreport --charset utf-8 -T 'Country IP Blocks' -o index.html
