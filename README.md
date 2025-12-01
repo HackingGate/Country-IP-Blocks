@@ -9,7 +9,11 @@ Generate the latest country IP ranges in CIDR notation
 
 The shell script `generate.sh` will download the latest RIR statistics files ([RIR statistics exchange format](https://www.apnic.net/about-apnic/corporate-documents/documents/resource-guidelines/rir-statistics-exchange-format/)) from the following five Regional Internet Registries (RIRs).
 
-[![rir-map.svg](https://www.iana.org/_img/2013.1/rir-map.svg)](https://www.iana.org/numbers)
+![Regional Internet Registries world map](https://upload.wikimedia.org/wikipedia/commons/9/95/Regional_Internet_Registries_world_map.svg)
+
+*A world map showing the coverage areas of the five Regional Internet Registries: AFRINIC (Africa), APNIC (Asia-Pacific), ARIN (North America), LACNIC (Latin America and Caribbean), and RIPE NCC (Europe, Middle East, and Central Asia).*
+
+Source: [IANA Number Resources](https://www.iana.org/numbers)
 
 URLs:
 
