@@ -56,7 +56,7 @@ jobs:
     - name: Restore last modified times using git-last-modified
       run: |
         git last-modified --recursive | while IFS=$'\t' read -r commit file; do
-          timestamp=$(git log --format=%at -1 "$commit" --)
+          timestamp=$(git log --format=%at -1 "$commit")
           touch -d "@$timestamp" "$file"
         done
     - name: Generate index.html
