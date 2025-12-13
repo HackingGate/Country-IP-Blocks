@@ -53,8 +53,12 @@ jobs:
         } >> "$GITHUB_OUTPUT"
     - name: Generate sha256sums.txt
       run: sha256sum -b *.txt > sha256sums.txt
-    - name: Run restore_last_git_modified_time.sh
-      run: curl -sL https://gist.github.com/HackingGate/9e8169c7645b074b2f40c959ca20d738/raw/3ae3913f308d9cf34962ac3488b5973a2fbe1a95/restore_last_git_modified_time.sh | sh
+    - name: Restore last modified times using git-last-modified
+      run: |
+        git last-modified --recursive | while IFS=$'\t' read -r commit file; do
+          timestamp=$(git log --format=%at -1 "$commit" --)
+          touch -d "@$timestamp" "$file"
+        done
     - name: Generate index.html
       run: |
         tree -I 'CNAME' -H '.' -L 1 -h -D --timefmt '%Y-%m-%d %H:%M:%S %Z' --noreport --charset utf-8 -T 'Country IP Blocks' -o index.html
