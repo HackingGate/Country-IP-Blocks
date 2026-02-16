@@ -1,7 +1,7 @@
-2.3|arin|1770991251833|201137|19700101|20260213|-0500
+2.3|arin|1771250450512|201160|19700101|20260216|-0500
 arin|*|asn|*|32227|summary
-arin|*|ipv4|*|79906|summary
-arin|*|ipv6|*|89004|summary
+arin|*|ipv4|*|79908|summary
+arin|*|ipv6|*|89025|summary
 arin|US|asn|1|1|20010920|assigned|e5e3b9c13678dfc483fb1f819d70883c
 arin|US|asn|2|1|19910110|assigned|279fb28df10add3bd7028865951995a6
 arin|US|asn|3|1|00000000|assigned|d98c567cda2db06e693f2b574eafe848
@@ -5418,7 +5418,7 @@ arin|US|asn|11595|1|19981015|assigned|733a7e33ee6f0f9ee5596393359142b3
 arin|US|asn|11596|1|19981015|assigned|567400d98cc7920b2a6dc25790513d7b
 arin|US|asn|11597|1|20101207|assigned|a084e207f665b1c72e2201b0c38c688e
 arin|US|asn|11598|1|19981016|assigned|514930117b98333c8ef7fcc6a359850b
-arin||asn|11600|1||reserved|
+arin||asn|11600|1||available|
 arin|CA|asn|11601|1|20070523|assigned|f332c8f71c63c172ef3d9a9cf8192575
 arin|US|asn|11602|1|19981019|assigned|ece074e02bfad4214983a4dffda36497
 arin|US|asn|11603|1|20081204|assigned|37385b4f3d34869f55d95dc016f03e73
@@ -6163,7 +6163,7 @@ arin|US|asn|13426|1|19990603|assigned|651c19f1caefa83ddc1fa3782eeabcbd
 arin|US|asn|13427|1|19990603|assigned|afc9f9341313a9718b70eb2582604875
 arin|US|asn|13428|1|19990603|assigned|2df6413af3a6cfccbafdbad74bd033c2
 arin|US|asn|13429|1|19990603|assigned|d86274bb3fac016581621d89837c83fa
-arin|US|asn|13430|1|20180801|assigned|b2cac545b80610723292246a02708f0e
+arin|US|asn|13430|1|20180801|assigned|8c19d8c4e2de1e1152184c62390ac703
 arin|US|asn|13431|1|19990604|assigned|1f36046df38cea38debcb69c702c922d
 arin|US|asn|13432|1|20020813|assigned|4cad11d184825cbd212b245d06b69b64
 arin|US|asn|13433|1|19990604|assigned|632302fe846b29026745c04a0cb4ce94
@@ -9277,7 +9277,7 @@ arin|US|asn|18870|1|20121003|assigned|f29d13cf5928e5eab772bfb1194da9e3
 arin|US|asn|18871|1|20240201|assigned|683dde5b2b87e08a714aa6e187cae8c7
 arin|US|asn|18872|1|20001020|assigned|088956cc0e9541b6ac37bc8c48b7a024
 arin|US|asn|18873|1|20060921|assigned|f596ece89129db1cedb559112744c3da
-arin|US|asn|18874|1|20001020|assigned|8f85e1d1b9c08bc5fea98204e7e2901f
+arin|US|asn|18874|1|20001020|assigned|e4cff83cc62ba1e395d8b3188a835a60
 arin|CA|asn|18875|1|20061205|assigned|a255d3c6fc18406d37a20d445d8bece6
 arin|US|asn|18876|1|20001020|assigned|b0eabe23f5c843e43080682f9ce573d5
 arin|US|asn|18877|1|20121203|assigned|058bf345e2feb70be358ad50b1b54377
@@ -9660,7 +9660,7 @@ arin|US|asn|19282|1|20061121|assigned|c90db68e477b7b29d5ce574b1898426b
 arin|US|asn|19283|1|20070808|assigned|70c2cf1f2714b3f5661b52a59a8c3f14
 arin|US|asn|19284|1|20080328|assigned|42828a8dc89fe36dae171f332abe4823
 arin|US|asn|19285|1|20250320|assigned|34eb80324323bcdd5ac0965c2edb1c57
-arin||asn|19286|1||available|
+arin||asn|19286|1||reserved|
 arin|US|asn|19287|1|20001214|assigned|66e68ecd93af4acc6b6a9d8d39f789bb
 arin|US|asn|19288|1|20001214|assigned|66e68ecd93af4acc6b6a9d8d39f789bb
 arin|US|asn|19289|1|20001214|assigned|66e68ecd93af4acc6b6a9d8d39f789bb
@@ -10214,7 +10214,7 @@ arin|US|asn|19890|1|20140307|assigned|e759b5e9ed75095034f89b4a55e5ab85
 arin|US|asn|19891|1|20140411|assigned|22636db740d63ed54b19630a48eca08d
 arin|US|asn|19892|1|20140411|assigned|423a230d3cef54dbb236e480180c8951
 arin|US|asn|19893|1|20010227|assigned|4e72f00efc82866a95290564473db1cb
-arin||asn|19894|1||available|
+arin||asn|19894|1||reserved|
 arin|US|asn|19895|1|20010228|assigned|66e68ecd93af4acc6b6a9d8d39f789bb
 arin|US|asn|19896|1|20251025|assigned|1013bca94153f63a6f9c7b37662e479d
 arin|US|asn|19897|1|20010228|assigned|f9bdc9d330faa29259216b831347e4e5
@@ -10605,7 +10605,7 @@ arin|US|asn|20318|1|20230206|assigned|1bda38b37a3ba6bff49a0230660003a6
 arin|US|asn|20319|1|20010423|assigned|652102bcdd4a37262af67620070d1c82
 arin|US|asn|20320|1|20010423|assigned|c72120f65b9cc2e7d92984bd730fc8b7
 arin|US|asn|20322|1|20070906|assigned|e17877a9af436224274b7e47580dbd7a
-arin||asn|20323|1||available|
+arin||asn|20323|1||reserved|
 arin|CA|asn|20324|1|20110118|assigned|096142bb294f90aef4a88e5ace7b911b
 arin|US|asn|20325|1|20010423|assigned|215381c986398810b58622ea551133b7
 arin|US|asn|20326|1|20070326|assigned|ac333ab6c8291dfe78350a2b0ea9dd49
@@ -11842,7 +11842,7 @@ arin|US|asn|22657|1|20250204|assigned|0eebf1eafcfb6af0c941b5e43c3b1b60
 arin|US|asn|22658|1|20011031|assigned|640adfc891ef0ca0fc313ac75031b41f
 arin|US|asn|22659|1|20180809|assigned|19532a88c481c494e7599663369bff02
 arin|US|asn|22660|1|20121010|assigned|cc2a09bb86509d3085bc6c21755ac885
-arin||asn|22662|1||available|
+arin||asn|22662|1||reserved|
 arin|US|asn|22663|1|20011031|assigned|bde4a6e3b21c5606a12aeacea4fd9c71
 arin|US|asn|22664|1|20260106|assigned|ac0c085a78a95083bcc9489a90a73763
 arin|US|asn|22665|1|20251208|assigned|e45097bdc0569221a76eac9a8378ab79
@@ -11980,7 +11980,7 @@ arin|US|asn|22810|1|20011127|assigned|b84fc3438a50ba8d29c84034560aab09
 arin|US|asn|22811|1|20011127|assigned|9cf49255c8dbf844aa7011bc7a2540ac
 arin|US|asn|22812|1|20011127|assigned|e53d8bdda2d514f434107b6bad25841f
 arin|US|asn|22813|1|20080104|assigned|0eddc5a6b9498c50c4f80845cb9fad36
-arin||asn|22814|1||available|
+arin||asn|22814|1||reserved|
 arin|US|asn|22815|1|20011127|assigned|2470c46740b054f6f33163590f72b9a5
 arin|CA|asn|22816|1|20230411|assigned|62df3db822b9291b322654000671eef0
 arin|US|asn|22817|1|20110128|assigned|1d4fc176ec1e6fe473ba240a88400e9b
@@ -12899,7 +12899,7 @@ arin|CA|asn|25835|1|20181219|assigned|eabb89eb9519a4ac8df297aa26e28dc8
 arin|US|asn|25836|1|20020516|assigned|2f9859d34083161dd6403736b8fb0d33
 arin|US|asn|25837|1|20140317|assigned|1454530b86520fa7bcbd1afe6f39f448
 arin|US|asn|25838|1|20020517|assigned|d4dcc197652cb798f8e0a091c88f4554
-arin||asn|25839|1||available|
+arin||asn|25839|1||reserved|
 arin|US|asn|25840|1|20061220|assigned|d3848088c3d8243f9debe5d9e2ecbf8f
 arin|US|asn|25841|1|20110203|assigned|ecdabbb98e5798f7bd87ec861c0f953f
 arin|US|asn|25842|1|20090420|assigned|b8fdb34c0ba7d8c1beba0808ad75821e
@@ -12987,7 +12987,7 @@ arin|CA|asn|25925|1|20020531|assigned|f11ce961360ab1b7683edb6df8a2674e
 arin|US|asn|25926|1|20140317|assigned|26ad193da3734c9f5f1517076f077697
 arin|US|asn|25928|1|20071023|assigned|dbff42160daa2988de3a7f5bf0455d76
 arin|US|asn|25929|1|20090624|assigned|581c742c960f2bbe7020153edb877f74
-arin||asn|25930|1||available|
+arin||asn|25930|1||reserved|
 arin|US|asn|25931|1|20020605|assigned|766eff521b666246ed3c30ec72cf4209
 arin|US|asn|25932|1|20020605|assigned|6a2bec1ff1c3b3ef6ec1de337ad25946
 arin|US|asn|25934|1|20020605|assigned|f255854cbb3c47c44db8a36d190f1d4d
@@ -13015,7 +13015,7 @@ arin|US|asn|25955|1|20020607|assigned|13c281c7939d4cba01eaa98c6c483b0f
 arin|US|asn|25956|1|20020607|assigned|e08441e4beabc2c6d0ad00e31843eac2
 arin|US|asn|25957|1|20250320|assigned|cbeb726ec8ceb2e2c9991cd0690d8c40
 arin|US|asn|25958|1|20171010|assigned|ce6663c87697f8fc004436ea5597cf58
-arin|US|asn|25959|1|20020607|assigned|5364e4922949aa9228e1fccd939cc7b9
+arin|US|asn|25959|1|20020607|assigned|bd9031ded25b4fd6a9cba6f768329b49
 arin|US|asn|25960|1|20230530|assigned|ddb96917f7e345f89ad121d83790084c
 arin|US|asn|25961|1|20071023|assigned|b809f80ec9cb996ac1352953bd4a426b
 arin|CA|asn|25962|1|20020607|assigned|5310568a6e0a04aaacf567c4b1d5c965
@@ -14390,7 +14390,7 @@ arin|US|asn|27520|1|20240913|assigned|9c9422ca2eeeb13c529626e36577f1da
 arin|US|asn|27521|1|20030321|assigned|bb4c2be6735ab913bd6100eb7da9aea0
 arin|US|asn|27522|1|20030321|assigned|81e05477cc28a48ed3088e3408139c2a
 arin|US|asn|27523|1|20240318|assigned|4f005b10a2a796d2e61a317d8f0bbc6d
-arin||asn|27524|1||available|
+arin||asn|27524|1||reserved|
 arin|US|asn|27525|1|20181003|assigned|5d3daf3eca7829716d8fbba9dc3e12ce
 arin|US|asn|27526|1|20030324|assigned|a981b7e04029a3d295f8a0e7a25c9592
 arin|US|asn|27527|1|20030324|assigned|3da565ab43745ceeb3b623e6a9b48d7a
@@ -15513,7 +15513,7 @@ arin|US|asn|30715|1|20110228|assigned|fca460f9d966ba54270d8fe5f5d157c7
 arin|US|asn|30716|1|20031211|assigned|9f97e7a5889dfd035a8b2f1f5e8e3453
 arin|US|asn|30717|1|20121210|assigned|548ad1e910cb92398d0d8967db57fea1
 arin|US|asn|30718|1|20031211|assigned|941fe400e354aeef73d382b7ade6b5d8
-arin||asn|30719|1||available|
+arin||asn|30719|1||reserved|
 arin|US|asn|31744|1|20250211|assigned|f79073553cd5cabce471910e7a0b8052
 arin|US|asn|31745|1|20240903|assigned|838c50408c700407444e0fc91fa580cc
 arin|US|asn|31746|1|20031211|assigned|c19579be67299e3d82e73a60cba9043d
@@ -15690,7 +15690,7 @@ arin|US|asn|31920|1|20040122|assigned|89642d66734ad6d8acc0a443f3e03c18
 arin|US|asn|31921|1|20040122|assigned|c97cfffd2f0317000ba68988fd1470be
 arin|US|asn|31922|1|20140415|assigned|92f3ba3ca79a41ef492c77416e7a44cd
 arin|US|asn|31923|1|20040123|assigned|fb8db5f837d08e31236a89b25b372557
-arin||asn|31924|1||reserved|
+arin||asn|31924|1||available|
 arin|US|asn|31925|1|20040123|assigned|ace55d4dc090fb0899827778e05584c8
 arin|CA|asn|31926|1|20040123|assigned|7e1ce569c209abc6f90ca7f1f231ef83
 arin|US|asn|31927|1|20101021|assigned|987f3b904b71e2568f3a26a6f97bdeb4
@@ -15934,7 +15934,7 @@ arin|US|asn|32173|1|20040316|assigned|59cca8331e4b1bb9570fee88f42f7f4b
 arin|US|asn|32174|1|20040316|assigned|75225b1baa83fd70a25214048d146bcd
 arin|US|asn|32175|1|20251224|assigned|f91193bbc59612927d90de819a75241f
 arin|CA|asn|32176|1|20040316|assigned|d45bc32a39d3b4ccd0716ca897e44b93
-arin||asn|32177|1||available|
+arin||asn|32177|1||reserved|
 arin|US|asn|32178|1|20040316|assigned|367e78d237945beee61784f0bce9d413
 arin|US|asn|32179|1|20040316|assigned|28f2d37d052bba1874d5ae5ba1d02ca4
 arin|US|asn|32180|1|20040316|assigned|3a1ffbd380744e3dd4e49fb0ee83ecbc
@@ -16088,7 +16088,7 @@ arin|US|asn|32328|1|20040414|assigned|47cc4201cd56af4c8f436e91f0b28202
 arin|US|asn|32329|1|20040414|assigned|6e19a0c7aa202316f8de59a3461aa4c9
 arin|US|asn|32330|1|20181113|assigned|4fcc056d66abe37de0ac1ae6c673f534
 arin|US|asn|32331|1|20080319|assigned|4eae47b6cb5b4ae37d617a483fc84717
-arin||asn|32332|1||available|
+arin||asn|32332|1||reserved|
 arin|US|asn|32333|1|20080319|assigned|95a3520371b06edaee05447fe479b5b2
 arin|US|asn|32334|1|20140328|assigned|eaca239c9b291cfd8d9f70e3ed4bcc6d
 arin|US|asn|32335|1|20040415|assigned|46a00f56d088f421b2b8c8d18fc7c32c
@@ -16203,7 +16203,7 @@ arin|US|asn|32445|1|20130409|assigned|e67b1424fb2590813dc7879931b9c9f5
 arin|US|asn|32446|1|20040504|assigned|0e44c35c8a8dc3c20dc1548a991b15dd
 arin|US|asn|32447|1|20121023|assigned|3ffcf5a88d4720631b138559c6d1c4b3
 arin|US|asn|32448|1|20040504|assigned|98e6c615fd0780688a675bebaf4bf39d
-arin||asn|32449|1||available|
+arin||asn|32449|1||reserved|
 arin|US|asn|32450|1|20040505|assigned|884ccac37b2bb379ea93b36b58e439d5
 arin|US|asn|32451|1|20230301|assigned|ad97c196809244e5e86978842e0cce84
 arin|US|asn|32452|1|20040506|assigned|0c61f98c6295e289c5d3851083418e22
@@ -16307,7 +16307,7 @@ arin|US|asn|32549|1|20181101|assigned|39c2e6259560c06f67c7f89282b5a31a
 arin|US|asn|32550|1|20121024|assigned|fca460f9d966ba54270d8fe5f5d157c7
 arin|US|asn|32551|1|20040528|assigned|7a3017c8f8e05d7bad9ab96afd33a72a
 arin|US|asn|32552|1|20230213|assigned|d8e4aa57b99edc6072ab978c23a5a4a6
-arin||asn|32553|1||available|
+arin||asn|32553|1||reserved|
 arin|US|asn|32554|1|20040528|assigned|81f712a1eae73263875a8eac29720362
 arin|CA|asn|32555|1|20121210|assigned|e79b7ed9aadff0a44c82e11d685e3149
 arin|US|asn|32556|1|20120118|assigned|6063eeca77a7b61a5cd02ce88e8d4ef8
@@ -16324,7 +16324,7 @@ arin|US|asn|32566|1|20250828|assigned|c38f802dbc2c012392d7653bc16c5920
 arin|US|asn|32567|1|20040603|assigned|db8e7385728020706b99fc02b0b029f7
 arin|US|asn|32568|1|20161201|assigned|4774876be7ded9498ca4fa5bebd7d664
 arin|US|asn|32569|1|20040604|assigned|5b17c83f35c1f038d1c08e4e7718578c
-arin||asn|32570|1||available|
+arin||asn|32570|1||reserved|
 arin|US|asn|32571|1|20240821|assigned|4e569c803e640f80a38efa7f5021b810
 arin|US|asn|32572|1|20040604|assigned|2d1b1b6f04bd9b05b23cffe5129e8517
 arin|US|asn|32573|1|20080324|assigned|e23d8a4d4ad16fbda2465c7ee389b868
@@ -16354,7 +16354,7 @@ arin||asn|32596|1||reserved|
 arin|US|asn|32597|1|20101022|assigned|e05b613698ab34b348e1475bf07a69e0
 arin|US|asn|32598|1|20230322|assigned|9e38a521ea1013e9af6f6e59687211e3
 arin|US|asn|32599|1|20140331|assigned|ac7c56e034f24e67e9b7e05b7876ba7e
-arin||asn|32600|1||available|
+arin||asn|32600|1||reserved|
 arin|US|asn|32601|1|20040610|assigned|b8687e5c0f10ddacafa3103e2081316e
 arin|US|asn|32602|1|20131223|assigned|bccb7e666806d1647d2e7b132bbbd1d2
 arin|US|asn|32603|1|20181213|assigned|c27daad31e10dbf56482b7eb4380e0a9
@@ -17046,7 +17046,7 @@ arin|US|asn|33295|1|20200408|assigned|363bebe4edd3a083aed766e5e86939eb
 arin|US|asn|33296|1|20200227|assigned|8186d4643b4cabc847087b163ee3b745
 arin|US|asn|33297|1|20200227|assigned|9b6fc0b804d91adf4ddf5fdd3735c8a6
 arin||asn|33298|1||reserved|
-arin||asn|33299|1||reserved|
+arin||asn|33299|1||available|
 arin|CA|asn|33300|1|20041117|assigned|5f58bf7654189bc743d25f40f1ee57d0
 arin|CA|asn|33301|1|20240731|assigned|48dfe4ea8814cb7adf68eac569a1cbcd
 arin|US|asn|33302|1|20041117|assigned|be9c744bd4dde3d5f7000a0142c20519
@@ -18006,7 +18006,7 @@ arin|US|asn|36330|1|20240401|assigned|70be7913d410ea09efa43f58ef4db355
 arin|PA|asn|36331|1|20230811|assigned|65f876f72a6eb019cf447cd48315f251
 arin||asn|36332|1||reserved|
 arin|US|asn|36333|1|20051201|assigned|e7c772f1e53ae1f222c8b4db41eaaa86
-arin||asn|36334|1||available|
+arin||asn|36334|1||reserved|
 arin|US|asn|36335|1|20130731|assigned|68de09adce07766d3a1e8fe103d8e645
 arin|US|asn|36336|1|20090629|assigned|2cd66e6e16ce1bdbbafa688db14807b7
 arin|CA|asn|36337|1|20051201|assigned|f736948f2a0f1bf076a9e3490b9be7c2
@@ -19685,7 +19685,7 @@ arin|US|asn|46208|1|20080716|assigned|6c4c5ebd4eeb833586be8b9457df0f92
 arin|US|asn|46209|1|20080717|assigned|fa6efd5dda8aed710f4fa75d725d7832
 arin|CA|asn|46210|1|20180928|assigned|10ba820d920933476026b5db54d77996
 arin||asn|46211|1||reserved|
-arin||asn|46212|1||available|
+arin||asn|46212|1||reserved|
 arin|US|asn|46213|1|20080717|assigned|b767ad73d8f2ff95e66664ca67c72c29
 arin|US|asn|46214|1|20080717|assigned|26b2ba0c0d589b0df637c188f81e6bd7
 arin|US|asn|46215|1|20080717|assigned|0f5e2fc2c5111cd2ecb05aef87e0b7b7
@@ -20625,7 +20625,7 @@ arin|US|asn|53282|1|20140611|assigned|e26562a0e67bb2272d741d7030e2de27
 arin|US|asn|53283|1|20230313|assigned|633de2607210bf55a026cf7df63eef3d
 arin|US|asn|53284|1|20090720|assigned|987219b2306c828272122363738de9f1
 arin|US|asn|53285|1|20091201|assigned|d73ddfb4d0c9871b19d5be3adcb88498
-arin||asn|53286|1||available|
+arin||asn|53286|1||reserved|
 arin|US|asn|53287|1|20230306|assigned|fdb3bc39d2cd2eb8cc71b10c880b3487
 arin|US|asn|53288|1|20121220|assigned|1515500642a20de99c18185a0eab3655
 arin|US|asn|53289|1|20091202|assigned|5f2dea5c7757c8fa253bb3a9ca47f293
@@ -21500,7 +21500,7 @@ arin|US|asn|54157|1|20111017|assigned|33289da5c03e39bb334a4d50dba1b3e4
 arin|US|asn|54158|1|20180827|assigned|9e79f9ad821de49e76e5a5ce9b1db5c8
 arin|US|asn|54159|1|20111018|assigned|491b0766722bc0306e2f00dd29d6a8e0
 arin|US|asn|54160|1|20111018|assigned|7225384b885db900071541c4eb0b097f
-arin||asn|54161|1||available|
+arin||asn|54161|1||reserved|
 arin|US|asn|54162|1|20111019|assigned|4cd01b996523fb90732acf40138ff247
 arin|US|asn|54163|1|20111019|assigned|b4743e595bf50aded59dbcd2dd435e9d
 arin|CA|asn|54164|1|20111019|assigned|807467ea46703f20da853a736504cef3
@@ -21576,12 +21576,12 @@ arin|CA|asn|54233|1|20111116|assigned|5e11c5d02e1331a6c1da93e4fc7c3f81
 arin|US|asn|54234|1|20111116|assigned|9572e0d4527686f2187157d75e3ac079
 arin|CA|asn|54235|1|20130412|assigned|e92f7695a1c7ec2d650ed94d16c6a343
 arin|US|asn|54236|1|20111116|assigned|e6f6b589ace210cc4dc01fa1718bca03
-arin||asn|54237|1||available|
+arin||asn|54237|1||reserved|
 arin|US|asn|54238|1|20181029|assigned|c53e4b6205690b38fae7b3766385d4cc
 arin|US|asn|54239|1|20190715|assigned|0689cb52674f561ccf7b533ca25b4f26
 arin|US|asn|54240|1|20111117|assigned|e6cf8466fc1d578d2f9ff0ed6eb21bcc
 arin|US|asn|54241|1|20180516|assigned|56582d868ac0b4f2e7e0b760e3ec6c65
-arin||asn|54242|1||available|
+arin||asn|54242|1||reserved|
 arin|US|asn|54243|1|20210420|assigned|2a0e98a43ffdcdb448f29e371d3c45c5
 arin|US|asn|54244|1|20111117|assigned|d9ac4a34c17843e36cf5af3041ba677c
 arin|US|asn|54245|1|20111117|assigned|a04b1a4d59e4637b02e096cfe7c502a3
@@ -22659,7 +22659,7 @@ arin|US|asn|62477|1|20130611|assigned|645710f7ded8b4d4cfb2e47932c76dd7
 arin|US|asn|62478|1|20130611|assigned|1184b5327cc0c7eadb81132cd2389981
 arin|US|asn|62479|1|20130611|assigned|78422923ffaf18f69ed86cc8973bdf19
 arin|US|asn|62480|1|20130611|assigned|fbc2da88837e9935de4ae9e376a6f9f4
-arin|US|asn|62481|1|20130611|assigned|5364e4922949aa9228e1fccd939cc7b9
+arin|US|asn|62481|1|20130611|assigned|bd9031ded25b4fd6a9cba6f768329b49
 arin|US|asn|62482|1|20130611|assigned|70e62bce9672cf4c1d403587bf714496
 arin|US|asn|62483|1|20130612|assigned|67c3ce6c2a05363c8f6f1ae65434fad8
 arin|US|asn|62484|1|20200521|assigned|5813cb7ae5c5aa8090a1a98823b4c4b0
@@ -23864,7 +23864,7 @@ arin|US|asn|393291|1|20140213|assigned|c4329b4cd781842824c9929dc9694d84
 arin|US|asn|393292|1|20240828|assigned|4df410a5eb42fa58bcef28d4949d5da8
 arin|US|asn|393293|1|20131018|assigned|57d645efc1c0def20c9f80ed3c91223d
 arin|US|asn|393294|1|20131023|assigned|ffb1997889ac8f30e73587278f2093e1
-arin||asn|393295|1||reserved|
+arin||asn|393295|1||available|
 arin|US|asn|393296|1|20131028|assigned|38f020534d589b0a677d23f59a15bc7d
 arin|US|asn|393297|1|20131028|assigned|03dff95483a32310524d05e2476cd673
 arin|US|asn|393298|1|20140317|assigned|348080ae74cac1130d19afe3cff0aff7
@@ -25373,7 +25373,7 @@ arin|US|asn|394800|1|20160106|assigned|08a66f3648ebe6dfc5411d27ed089d14
 arin||asn|394801|1||available|
 arin|US|asn|394802|1|20170328|assigned|91142b74b5b509fbcdd8885ba0b5f052
 arin|US|asn|394803|1|20160107|assigned|30bbea794bc9377c472118f19e829e12
-arin||asn|394804|1||available|
+arin|US|asn|394804|1|20260213|assigned|61b67094a9d0cf58b3d176e52e8df626
 arin|US|asn|394805|1|20160107|assigned|68128208fadb1b0ae9c6ee6afedf35f3
 arin|US|asn|394806|1|20160107|assigned|ff32e8aee10507cbcfdc090cf0250fdb
 arin||asn|394807|1||reserved|
@@ -29933,7 +29933,7 @@ arin|US|asn|399880|1|20210719|assigned|d9f79e7c49dc34af847717161dad9440
 arin|US|asn|399881|1|20210719|assigned|cfb7975ea8b095bf963cf7e1e4c3d330
 arin|US|asn|399882|1|20210719|assigned|cd5c34403ffde5acaef5d7a533ec7707
 arin|US|asn|399883|1|20210719|assigned|ab01fef4b7ce68cfaf530dfad7dcf438
-arin||asn|399884|1||reserved|
+arin||asn|399884|1||available|
 arin|US|asn|399885|1|20210719|assigned|c289a7489968381aede0fd81279cbaef
 arin|US|asn|399886|1|20210719|assigned|0778f38ce84f6a05e833466885754a74
 arin|CA|asn|399887|1|20210721|assigned|5e643d8858fbbb3214957fb5d4359f88
@@ -30356,7 +30356,7 @@ arin|US|asn|400304|1|20211214|assigned|94689c4ce1ca90c176fc415a6b00535f
 arin|US|asn|400305|1|20211214|assigned|71012b6d3c50cb35be4e1d2b5bc05817
 arin|US|asn|400306|1|20211214|assigned|8baccfd6230a8b888eeca33662aa205d
 arin|CA|asn|400307|1|20211216|assigned|d6b5d02a3985718e1ed7740ee7121d25
-arin||asn|400308|1||reserved|
+arin||asn|400308|1||available|
 arin|US|asn|400309|1|20211216|assigned|ea718f0fcc7c7777d258cc39683074dc
 arin|US|asn|400310|1|20211216|assigned|5e1df693fc2b509a27a6ff611aa6c5df
 arin|US|asn|400311|1|20211217|assigned|319d6a0290885245301e6f20ca62ec6e
@@ -30814,7 +30814,7 @@ arin|US|asn|400783|1|20220915|assigned|fa6642a8bd72997a3af448b12742d198
 arin|US|asn|400784|1|20220916|assigned|f58f6e024238ef35fbe60b729fa988dd
 arin|US|asn|400785|1|20251219|assigned|4b4307c801501ca8c2e61d849273653f
 arin|US|asn|400786|1|20220919|assigned|0b47782dfcf4cfeafe67bbb1c7714340
-arin||asn|400787|1||reserved|
+arin||asn|400787|1||available|
 arin|US|asn|400788|1|20220919|assigned|8a0e1868645308edcd7d528c7bb53224
 arin|US|asn|400789|1|20220919|assigned|00fdd53f1da02ae2b9740937e9d5efcb
 arin|US|asn|400790|1|20220919|assigned|a01c38dc372b683a8db16aa3867ed167
@@ -43528,7 +43528,8 @@ arin|CA|ipv4|66.51.16.0|2048|20201216|allocated|4b737cdb2561e410536059f41340e7d2
 arin|US|ipv4|66.51.24.0|2048|20001219|allocated|4b179ab78b2a4500642098e57d77b46a
 arin|US|ipv4|66.51.32.0|4096|20060920|allocated|d7d6072b56f7682cc244c6fec7b91004
 arin|US|ipv4|66.51.48.0|4096|20040210|allocated|e5e3b9c13678dfc483fb1f819d70883c
-arin|US|ipv4|66.51.64.0|8192|20001222|allocated|6c065d5b54b877781f05e7d30ebfff28
+arin|US|ipv4|66.51.64.0|4096|20001222|allocated|6c065d5b54b877781f05e7d30ebfff28
+arin|US|ipv4|66.51.80.0|4096|20260213|allocated|9058a90d6fa7b28bff52b4a997222b5c
 arin|US|ipv4|66.51.100.0|1024|20250513|allocated|5cd36112c92af3e2c892efe93c0ee715
 arin|US|ipv4|66.51.104.0|1024|20241227|allocated|4b5ef47299b018f5922706df0e26698f
 arin|CA|ipv4|66.51.108.0|1024|20001226|allocated|6b75b6fdf2116d3ae659070e971efe0c
@@ -45968,7 +45969,8 @@ arin|US|ipv4|68.67.114.0|256|20251224|allocated|bf3e75455bcd06f2396a2d193a3a538e
 arin|US|ipv4|68.67.115.0|256|20090622|allocated|4e0618dd253bee634dd99362634f2c25
 arin|US|ipv4|68.67.116.0|256|20251224|allocated|585459c43fce3cbea24a263c867f1795
 arin|US|ipv4|68.67.117.0|256|20251216|allocated|a2a2539a2264c7a4b2fd7d11a4f3a57e
-arin|US|ipv4|68.67.118.0|512|20090622|allocated|4e0618dd253bee634dd99362634f2c25
+arin|US|ipv4|68.67.118.0|256|20260213|allocated|fa21803e1aba003b28680056d6fcff75
+arin|US|ipv4|68.67.119.0|256|20090622|allocated|4e0618dd253bee634dd99362634f2c25
 arin|US|ipv4|68.67.120.0|256|20090622|allocated|4e0618dd253bee634dd99362634f2c25
 arin|US|ipv4|68.67.121.0|256|20260210|allocated|5396b6f1b9d3f9b5bfea470e7455770c
 arin|US|ipv4|68.67.122.0|512|20090622|allocated|4e0618dd253bee634dd99362634f2c25
@@ -61272,7 +61274,7 @@ arin|US|ipv4|161.199.254.0|512|20191211|allocated|a571264fbec1acfa68fd63a6f3b1df
 arin|US|ipv4|161.201.0.0|65536|19930129|allocated|ebfd727361e569600c92b8db11f03ae7
 arin|US|ipv4|161.203.0.0|65536|19930205|allocated|4fa165e474e17d9ec2d1d97c301406ca
 arin|US|ipv4|161.204.0.0|65536|19930209|allocated|93d207a5540aa38f404ae593385a7b64
-arin|US|ipv4|161.205.0.0|65536|19930209|allocated|f6cff6f3052fb0d2e0721ac31fbc023a
+arin|US|ipv4|161.205.0.0|65536|19930209|allocated|bd9031ded25b4fd6a9cba6f768329b49
 arin|US|ipv4|161.206.0.0|65536|20200424|allocated|4a8a91b5b89d3f900098ebf73ca0b118
 arin|US|ipv4|161.208.0.0|65536|19930210|allocated|71a67f14563e2dd2b29bc5f1d577c976
 arin|US|ipv4|161.209.0.0|65536|19930211|allocated|55d523fe5d752f39bfb6817c881351e4
@@ -64102,7 +64104,7 @@ arin|US|ipv4|167.177.0.0|65536|19930908|allocated|3c38448350e3100e645b35a48b4c5a
 arin|US|ipv4|167.178.0.0|65536|20180717|allocated|2ae6f8bcdd0f9609c92d2b8c3415737c
 arin|US|ipv4|167.179.22.0|256|20230308|allocated|220826a7fbe80791563252ac5ffb7bc6
 arin|US|ipv4|167.180.0.0|65536|19930909|allocated|ecc0bccec5efd3ce63d9c53ef2600fd6
-arin|US|ipv4|167.181.0.0|65536|19930909|allocated|f6cff6f3052fb0d2e0721ac31fbc023a
+arin|US|ipv4|167.181.0.0|65536|19930909|allocated|bd9031ded25b4fd6a9cba6f768329b49
 arin|US|ipv4|167.182.0.0|32768|19930910|allocated|3e08b65135e613ee6d265982566cc37a
 arin|US|ipv4|167.182.128.0|32768|19930910|allocated|4cf736351d339b01b39939f6f476bc9f
 arin|US|ipv4|167.183.0.0|65536|19930910|allocated|cb31473096cdaa7e2bd10be3a5192faa
@@ -102634,7 +102636,7 @@ arin|US|ipv4|206.81.96.0|2048|19950816|allocated|a3a61a11a03b093a2ac6bd24051eca4
 arin|CA|ipv4|206.81.104.0|256|20180831|allocated|34429e30692e1ae4f3e51344402aa38e
 arin||ipv4|206.81.105.0|256||reserved|
 arin|US|ipv4|206.81.106.0|256|20230705|allocated|f145a132f326e67648c6f224c16c93d5
-arin|US|ipv4|206.81.107.0|256|20230710|allocated|b2cac545b80610723292246a02708f0e
+arin|US|ipv4|206.81.107.0|256|20230710|allocated|8c19d8c4e2de1e1152184c62390ac703
 arin|CA|ipv4|206.81.108.0|256|20230929|allocated|306586d5009e5dcd156f029304581ab7
 arin|US|ipv4|206.81.109.0|256|20181120|allocated|774d6f93932f2cecd5a5d1ba57173ebd
 arin|VG|ipv4|206.81.110.0|256|20181130|allocated|591c47e4cfeb366455d2d77e43b0d357
@@ -118282,8 +118284,29 @@ arin||ipv6|2602:c000::|19||available|
 arin||ipv6|2602:e000::|20||available|
 arin||ipv6|2602:f000::|22||available|
 arin||ipv6|2602:f400::|26||available|
-arin||ipv6|2602:f440::|27||available|
-arin||ipv6|2602:f460::|32||available|
+arin||ipv6|2602:f440::|28||available|
+arin||ipv6|2602:f450::|29||available|
+arin||ipv6|2602:f458::|30||available|
+arin||ipv6|2602:f45c::|31||available|
+arin||ipv6|2602:f45e::|32||available|
+arin|US|ipv6|2602:f45f::|40|20260213|allocated|f069f5a604e2e609ed3ec7b036c8d6a3
+arin||ipv6|2602:f45f:100::|40||reserved|
+arin||ipv6|2602:f45f:200::|39||reserved|
+arin||ipv6|2602:f45f:400::|38||reserved|
+arin||ipv6|2602:f45f:800::|37||reserved|
+arin||ipv6|2602:f45f:1000::|36||reserved|
+arin||ipv6|2602:f45f:2000::|35||reserved|
+arin||ipv6|2602:f45f:4000::|34||reserved|
+arin||ipv6|2602:f45f:8000::|33||reserved|
+arin|US|ipv6|2602:f460::|40|20260213|allocated|8e156fe4eb796565588f65dafd5ff865
+arin||ipv6|2602:f460:100::|40||reserved|
+arin||ipv6|2602:f460:200::|39||reserved|
+arin||ipv6|2602:f460:400::|38||reserved|
+arin||ipv6|2602:f460:800::|37||reserved|
+arin||ipv6|2602:f460:1000::|36||reserved|
+arin||ipv6|2602:f460:2000::|35||reserved|
+arin||ipv6|2602:f460:4000::|34||reserved|
+arin||ipv6|2602:f460:8000::|33||reserved|
 arin|US|ipv6|2602:f461::|40|20260213|allocated|0c19f976444959c09e52806f84be191e
 arin||ipv6|2602:f461:100::|40||reserved|
 arin||ipv6|2602:f461:200::|39||reserved|
@@ -175392,7 +175415,7 @@ arin||ipv6|2620:3e:2200::|39||available|
 arin||ipv6|2620:3e:2400::|38||available|
 arin||ipv6|2620:3e:2800::|37||available|
 arin||ipv6|2620:3e:3000::|36||available|
-arin|US|ipv6|2620:3e:4000::|48|20130813|allocated|f069f5a604e2e609ed3ec7b036c8d6a3
+arin||ipv6|2620:3e:4000::|48||reserved|
 arin||ipv6|2620:3e:4001::|48||reserved|
 arin||ipv6|2620:3e:4002::|47||reserved|
 arin||ipv6|2620:3e:4004::|46||reserved|
@@ -199344,7 +199367,7 @@ arin||ipv6|2620:136:2100::|40||reserved|
 arin||ipv6|2620:136:2200::|39||reserved|
 arin||ipv6|2620:136:2400::|38||reserved|
 arin||ipv6|2620:136:2800::|37||reserved|
-arin|US|ipv6|2620:136:3000::|40|20180223|allocated|8f85e1d1b9c08bc5fea98204e7e2901f
+arin|US|ipv6|2620:136:3000::|40|20180223|allocated|e4cff83cc62ba1e395d8b3188a835a60
 arin||ipv6|2620:136:3100::|40||reserved|
 arin||ipv6|2620:136:3200::|39||reserved|
 arin||ipv6|2620:136:3400::|38||reserved|
@@ -200684,7 +200707,7 @@ arin||ipv6|2620:177:1000::|36||reserved|
 arin||ipv6|2620:177:2000::|35||reserved|
 arin||ipv6|2620:177:4000::|34||reserved|
 arin||ipv6|2620:177:8000::|33||reserved|
-arin|US|ipv6|2620:178::|36|20130611|allocated|5364e4922949aa9228e1fccd939cc7b9
+arin|US|ipv6|2620:178::|36|20130611|allocated|bd9031ded25b4fd6a9cba6f768329b49
 arin||ipv6|2620:178:1000::|36||reserved|
 arin||ipv6|2620:178:2000::|35||reserved|
 arin||ipv6|2620:178:4000::|34||reserved|
