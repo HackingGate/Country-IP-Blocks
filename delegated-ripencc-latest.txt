@@ -1,7 +1,7 @@
-2|ripencc|1774393199|164847|19700101|20260324|+0100
-ripencc|*|ipv4|*|99025|summary
-ripencc|*|asn|*|39171|summary
-ripencc|*|ipv6|*|26651|summary
+2|ripencc|1774479599|164882|19700101|20260325|+0100
+ripencc|*|ipv4|*|99045|summary
+ripencc|*|asn|*|39183|summary
+ripencc|*|ipv6|*|26654|summary
 ripencc|PS|ipv4|1.178.112.0|4096|20071126|allocated
 ripencc|PS|ipv4|1.178.128.0|4096|20071126|allocated
 ripencc|PS|ipv4|1.178.208.0|4096|20100625|allocated
@@ -7806,7 +7806,9 @@ ripencc|ES|ipv4|45.145.244.0|1024|20190827|allocated
 ripencc|NL|ipv4|45.145.248.0|1024|20190827|allocated
 ripencc|NL|ipv4|45.145.252.0|1024|20190827|allocated
 ripencc|HU|ipv4|45.146.0.0|1024|20190827|allocated
-ripencc|NL|ipv4|45.146.4.0|1024|20190827|allocated
+ripencc|NL|ipv4|45.146.4.0|256|20190827|allocated
+ripencc|NL|ipv4|45.146.5.0|256|20190827|allocated
+ripencc|NL|ipv4|45.146.6.0|512|20190827|allocated
 ripencc|GB|ipv4|45.146.8.0|1024|20190827|allocated
 ripencc|PS|ipv4|45.146.12.0|1024|20190827|allocated
 ripencc|DE|ipv4|45.146.16.0|1024|20190827|allocated
@@ -15597,7 +15599,7 @@ ripencc|DK|ipv4|80.248.138.0|512|20011119|allocated
 ripencc|NL|ipv4|80.248.140.0|256|20011119|allocated
 ripencc|BE|ipv4|80.248.141.0|256|20011119|allocated
 ripencc|BE|ipv4|80.248.142.0|256|20011119|allocated
-ripencc|SE|ipv4|80.248.143.0|256|20011119|allocated
+ripencc|BE|ipv4|80.248.143.0|256|20011119|allocated
 ripencc|RU|ipv4|80.248.144.0|4096|20051103|allocated
 ripencc|FI|ipv4|80.248.160.0|4096|20011119|allocated
 ripencc|GB|ipv4|80.248.176.0|4096|20051104|allocated
@@ -16481,7 +16483,8 @@ ripencc|NL|ipv4|81.171.32.0|8192|20030512|allocated
 ripencc|NL|ipv4|81.171.64.0|16384|20030512|allocated
 ripencc|GB|ipv4|81.171.128.0|32768|20030515|allocated
 ripencc|US|ipv4|81.172.0.0|8192|20030114|allocated
-ripencc|ES|ipv4|81.172.32.0|2048|20030114|allocated
+ripencc|ES|ipv4|81.172.32.0|1024|20030114|allocated
+ripencc|ES|ipv4|81.172.36.0|1024|20030114|allocated
 ripencc|ES|ipv4|81.172.40.0|1024|20030114|allocated
 ripencc|ES|ipv4|81.172.44.0|512|20030114|allocated
 ripencc|ES|ipv4|81.172.46.0|512|20030114|allocated
@@ -17376,7 +17379,11 @@ ripencc|NL|ipv4|83.68.0.0|8192|20040429|allocated
 ripencc|RU|ipv4|83.68.32.0|8192|20040506|allocated
 ripencc|PL|ipv4|83.68.64.0|8192|20040510|allocated
 ripencc|FR|ipv4|83.68.96.0|8192|20040514|allocated
-ripencc|AT|ipv4|83.68.128.0|8192|20040514|allocated
+ripencc|AT|ipv4|83.68.128.0|1024|20040514|allocated
+ripencc|AT|ipv4|83.68.132.0|512|20040514|allocated
+ripencc|AT|ipv4|83.68.134.0|512|20040514|allocated
+ripencc|AT|ipv4|83.68.136.0|2048|20040514|allocated
+ripencc|AT|ipv4|83.68.144.0|4096|20040514|allocated
 ripencc|KW|ipv4|83.68.160.0|8192|20040518|allocated
 ripencc|CH|ipv4|83.68.192.0|8192|20040519|allocated
 ripencc|SE|ipv4|83.68.224.0|8192|20040519|allocated
@@ -26904,6 +26911,7 @@ ripencc|HK|ipv4|91.236.154.0|256|20220816|allocated
 ripencc|HK|ipv4|91.236.155.0|256|20220816|allocated
 ripencc|IR|ipv4|91.236.168.0|512|20120312|allocated
 ripencc|RU|ipv4|91.236.171.0|256|20250929|allocated
+ripencc|EE|ipv4|91.236.186.0|256|20120313|allocated
 ripencc|BE|ipv4|91.236.192.0|256|20120314|allocated
 ripencc|CY|ipv4|91.236.195.0|256|20201019|allocated
 ripencc|RU|ipv4|91.236.196.0|1024|20120314|allocated
@@ -34770,6 +34778,7 @@ ripencc|CH|ipv4|146.109.0.0|65536|19910205|allocated
 ripencc|CZ|ipv4|146.120.0.0|65536|20110712|allocated
 ripencc|CZ|ipv4|146.158.0.0|32768|20110712|allocated
 ripencc|ES|ipv4|146.158.128.0|32768|20110712|allocated
+ripencc|CH|ipv4|146.159.0.0|65536|19910215|allocated
 ripencc|FR|ipv4|146.183.0.0|65536|19910226|allocated
 ripencc|CH|ipv4|146.185.0.0|2048|20110712|allocated
 ripencc|SE|ipv4|146.185.8.0|2048|20110712|allocated
@@ -35172,6 +35181,7 @@ ripencc|DE|ipv4|151.106.64.0|8192|19910530|allocated
 ripencc|DE|ipv4|151.123.176.0|2048|19910617|allocated
 ripencc|AL|ipv4|151.123.186.0|512|19910617|allocated
 ripencc|GB|ipv4|151.123.188.0|1024|19910617|allocated
+ripencc|US|ipv4|151.123.192.0|8192|19910617|allocated
 ripencc|GB|ipv4|151.129.0.0|65536|19910617|allocated
 ripencc|TR|ipv4|151.135.0.0|65536|20120106|allocated
 ripencc|SA|ipv4|151.173.0.0|32768|19910905|allocated
@@ -35391,6 +35401,7 @@ ripencc|PA|ipv4|153.53.0.0|65536|19910923|allocated
 ripencc|PA|ipv4|153.54.0.0|65536|19910923|allocated
 ripencc|US|ipv4|153.55.160.0|4096|19910923|allocated
 ripencc|RU|ipv4|153.80.228.0|1024|19910923|allocated
+ripencc|RU|ipv4|153.80.250.0|512|19910923|allocated
 ripencc|RU|ipv4|153.80.253.0|256|19910923|allocated
 ripencc|RU|ipv4|153.80.254.0|512|19910923|allocated
 ripencc|DE|ipv4|153.92.72.0|2048|19910923|allocated
@@ -38131,6 +38142,7 @@ ripencc|US|ipv4|178.255.244.0|1024|20100715|allocated
 ripencc|RU|ipv4|178.255.248.0|2048|20100715|allocated
 ripencc|AE|ipv4|179.61.128.0|32768|20140106|allocated
 ripencc|ES|ipv4|179.189.212.0|1024|20130408|allocated
+ripencc|CH|ipv4|179.237.64.0|16384|20250220|allocated
 ripencc|US|ipv4|180.92.128.0|8192|20090723|allocated
 ripencc|US|ipv4|180.94.216.0|1024|20090805|allocated
 ripencc|US|ipv4|180.149.0.0|8192|20090831|allocated
@@ -52592,7 +52604,7 @@ ripencc|DE|ipv4|185.204.128.0|1024|20170519|allocated
 ripencc|IT|ipv4|185.204.132.0|1024|20170519|allocated
 ripencc|IE|ipv4|185.204.136.0|1024|20170519|allocated
 ripencc|FR|ipv4|185.204.140.0|1024|20170522|allocated
-ripencc|SE|ipv4|185.204.144.0|1024|20170522|allocated
+ripencc|FI|ipv4|185.204.144.0|1024|20170522|allocated
 ripencc|DE|ipv4|185.204.148.0|1024|20170522|allocated
 ripencc|HU|ipv4|185.204.152.0|256|20250604|allocated
 ripencc|EE|ipv4|185.204.153.0|256|20250604|allocated
@@ -57459,6 +57471,7 @@ ripencc|IL|ipv4|188.190.120.0|1024|20181017|allocated
 ripencc|ES|ipv4|188.190.124.0|1024|20181017|allocated
 ripencc|NL|ipv4|188.191.48.0|1024|20110218|allocated
 ripencc|GB|ipv4|188.191.60.0|1024|20110218|allocated
+ripencc|RU|ipv4|188.191.80.0|4096|20110228|allocated
 ripencc|UA|ipv4|188.191.96.0|4096|20110223|allocated
 ripencc|MC|ipv4|188.191.136.0|2048|20110221|allocated
 ripencc|IL|ipv4|188.191.147.0|256|20110221|allocated
@@ -64132,6 +64145,11 @@ ripencc|NL|ipv4|194.62.107.0|256|20210719|allocated
 ripencc|UZ|ipv4|194.62.108.0|1024|20180731|allocated
 ripencc|IT|ipv4|194.62.112.0|256|20260316|allocated
 ripencc|AT|ipv4|194.62.113.0|256|20260319|allocated
+ripencc|NL|ipv4|194.62.114.0|256|20260325|allocated
+ripencc|ES|ipv4|194.62.115.0|256|20260325|allocated
+ripencc|CZ|ipv4|194.62.116.0|256|20260325|allocated
+ripencc|CY|ipv4|194.62.117.0|256|20260325|allocated
+ripencc|TR|ipv4|194.62.118.0|256|20260325|allocated
 ripencc|RO|ipv4|194.62.122.0|512|20191025|allocated
 ripencc|RO|ipv4|194.62.126.0|512|20191025|allocated
 ripencc|NL|ipv4|194.62.128.0|1024|20180924|allocated
@@ -68831,6 +68849,7 @@ ripencc|US|ipv4|207.45.0.0|2048|19960205|allocated
 ripencc|HK|ipv4|207.45.8.0|2048|19960205|allocated
 ripencc|US|ipv4|207.45.24.0|2048|19960205|allocated
 ripencc|ES|ipv4|207.66.0.0|16384|20191226|allocated
+ripencc|GB|ipv4|207.89.16.0|2048|20160121|allocated
 ripencc|DE|ipv4|207.89.64.0|16384|19960327|allocated
 ripencc|GB|ipv4|207.103.0.0|65536|19960416|allocated
 ripencc|SA|ipv4|207.143.0.0|65536|19960604|allocated
@@ -71699,7 +71718,7 @@ ripencc|NL|ipv4|213.154.224.0|8192|20030129|allocated
 ripencc|GB|ipv4|213.155.0.0|2048|20080402|allocated
 ripencc|UA|ipv4|213.155.8.0|1024|20080402|allocated
 ripencc|KG|ipv4|213.155.12.0|1024|20080402|allocated
-ripencc|UA|ipv4|213.155.16.0|1024|20080402|allocated
+ripencc|ES|ipv4|213.155.16.0|1024|20080402|allocated
 ripencc|KZ|ipv4|213.155.20.0|1024|20080402|allocated
 ripencc|BA|ipv4|213.155.24.0|1024|20080402|allocated
 ripencc|KG|ipv4|213.155.28.0|512|20080402|allocated
@@ -74595,7 +74614,12 @@ ripencc|RU|ipv4|217.175.128.0|4096|20010418|allocated
 ripencc|RU|ipv4|217.175.144.0|4096|20011127|allocated
 ripencc|MQ|ipv4|217.175.160.0|4096|20010419|allocated
 ripencc|MQ|ipv4|217.175.176.0|4096|20031219|allocated
-ripencc|AT|ipv4|217.175.192.0|4096|20010419|allocated
+ripencc|AT|ipv4|217.175.192.0|256|20010419|allocated
+ripencc|AT|ipv4|217.175.193.0|256|20010419|allocated
+ripencc|AT|ipv4|217.175.194.0|256|20010419|allocated
+ripencc|AT|ipv4|217.175.195.0|256|20010419|allocated
+ripencc|AT|ipv4|217.175.196.0|1024|20010419|allocated
+ripencc|AT|ipv4|217.175.200.0|2048|20010419|allocated
 ripencc|CY|ipv4|217.175.208.0|4096|20040908|allocated
 ripencc|DE|ipv4|217.175.224.0|4096|20010419|allocated
 ripencc|DE|ipv4|217.175.240.0|4096|20011001|allocated
@@ -78444,7 +78468,6 @@ ripencc|FR|ipv4|91.216.58.0|256|20100429|assigned
 ripencc|HU|ipv4|91.216.60.0|256|20100503|assigned
 ripencc|UA|ipv4|91.216.61.0|256|20100503|assigned
 ripencc|SE|ipv4|91.216.62.0|256|20100503|assigned
-ripencc|ES|ipv4|91.216.63.0|256|20100503|assigned
 ripencc|PL|ipv4|91.216.64.0|256|20100503|assigned
 ripencc|SE|ipv4|91.216.65.0|256|20101005|assigned
 ripencc|RU|ipv4|91.216.66.0|256|20100504|assigned
@@ -80790,7 +80813,6 @@ ripencc|RU|ipv4|91.236.180.0|512|20120313|assigned
 ripencc|HU|ipv4|91.236.182.0|256|20120313|assigned
 ripencc|RU|ipv4|91.236.183.0|256|20120313|assigned
 ripencc|UA|ipv4|91.236.184.0|512|20120313|assigned
-ripencc|EE|ipv4|91.236.186.0|256|20120313|assigned
 ripencc|PL|ipv4|91.236.187.0|256|20120313|assigned
 ripencc|LV|ipv4|91.236.188.0|256|20120313|assigned
 ripencc|NL|ipv4|91.236.189.0|256|20120313|assigned
@@ -82960,7 +82982,6 @@ ripencc|GR|ipv4|146.124.0.0|65536|19910205|assigned
 ripencc|IT|ipv4|146.133.0.0|65536|19910208|assigned
 ripencc|CH|ipv4|146.136.0.0|65536|19910116|assigned
 ripencc|DE|ipv4|146.140.0.0|65536|19910213|assigned
-ripencc|CH|ipv4|146.159.0.0|65536|19910215|assigned
 ripencc|FI|ipv4|146.161.0.0|65536|19910215|assigned
 ripencc|GB|ipv4|146.162.0.0|65536|19910215|assigned
 ripencc|GB|ipv4|146.169.0.0|65536|19910222|assigned
@@ -83438,7 +83459,6 @@ ripencc|SC|ipv4|153.80.192.0|8192|19910923|assigned
 ripencc|RU|ipv4|153.80.224.0|1024|19910923|assigned
 ripencc|SC|ipv4|153.80.232.0|3072|19910923|assigned
 ripencc|RU|ipv4|153.80.244.0|1536|19910923|assigned
-ripencc|RU|ipv4|153.80.250.0|512|19910923|assigned
 ripencc|RU|ipv4|153.80.252.0|256|19910923|assigned
 ripencc|SE|ipv4|153.88.0.0|65536|19930901|assigned
 ripencc|CY|ipv4|153.92.0.0|4096|19910923|assigned
@@ -84141,7 +84161,8 @@ ripencc|SE|ipv4|164.4.0.0|65536|19920923|assigned
 ripencc|FI|ipv4|164.5.0.0|40960|19920925|assigned
 ripencc|FI|ipv4|164.5.160.0|14336|19920925|assigned
 ripencc|FI|ipv4|164.5.216.0|2048|19920925|assigned
-ripencc|FI|ipv4|164.5.224.0|2560|19920925|assigned
+ripencc|FI|ipv4|164.5.224.0|2048|19920925|assigned
+ripencc|FI|ipv4|164.5.232.0|512|19920925|assigned
 ripencc|FI|ipv4|164.5.234.0|1536|19920925|assigned
 ripencc|DE|ipv4|164.5.240.0|4096|19920925|assigned
 ripencc|GB|ipv4|164.6.0.0|65536|19920925|assigned
@@ -85312,7 +85333,6 @@ ripencc|UA|ipv4|188.191.32.0|4096|20110218|assigned
 ripencc|DE|ipv4|188.191.52.0|1024|20110218|assigned
 ripencc|IT|ipv4|188.191.56.0|1024|20110218|assigned
 ripencc|UA|ipv4|188.191.64.0|4096|20110221|assigned
-ripencc|RU|ipv4|188.191.80.0|4096|20110228|assigned
 ripencc|RU|ipv4|188.191.112.0|4096|20110301|assigned
 ripencc|DE|ipv4|188.191.128.0|512|20120912|assigned
 ripencc|CZ|ipv4|188.191.130.0|512|20120912|assigned
@@ -114355,7 +114375,6 @@ ripencc|RO|asn|50970|1|20100504|allocated
 ripencc|CZ|asn|50971|1|20100504|allocated
 ripencc|GB|asn|50972|1|20100505|allocated
 ripencc|AL|asn|50973|1|20100506|allocated
-ripencc|ES|asn|50974|1|20100506|allocated
 ripencc|CZ|asn|50975|1|20100506|allocated
 ripencc|MD|asn|50976|1|20100506|allocated
 ripencc|ES|asn|50977|1|20100506|allocated
@@ -118832,7 +118851,7 @@ ripencc|AT|asn|61051|1|20210519|allocated
 ripencc|RU|asn|61052|1|20130305|allocated
 ripencc|LT|asn|61053|1|20130305|allocated
 ripencc|IR|asn|61055|1|20130304|allocated
-ripencc|MK|asn|61057|1|20200527|allocated
+ripencc|DE|asn|61057|1|20200527|allocated
 ripencc|UA|asn|61058|1|20130304|allocated
 ripencc|NL|asn|61060|1|20160518|allocated
 ripencc|IR|asn|61061|1|20160517|allocated
@@ -122192,12 +122211,18 @@ ripencc|AE|asn|199739|1|20230223|allocated
 ripencc|NL|asn|199740|1|20230223|allocated
 ripencc|NL|asn|199743|1|20140218|allocated
 ripencc|IT|asn|199744|1|20140218|allocated
+ripencc|US|asn|199745|1|20260325|allocated
+ripencc|DE|asn|199746|1|20260325|allocated
+ripencc|US|asn|199747|1|20260325|allocated
 ripencc|GB|asn|199748|1|20140220|allocated
 ripencc|FR|asn|199749|1|20140213|allocated
+ripencc|MY|asn|199750|1|20260325|allocated
 ripencc|NL|asn|199752|1|20140211|allocated
 ripencc|DE|asn|199753|1|20140210|allocated
+ripencc|AT|asn|199754|1|20260325|allocated
 ripencc|UZ|asn|199755|1|20230222|allocated
 ripencc|BE|asn|199756|1|20140207|allocated
+ripencc|GR|asn|199757|1|20260325|allocated
 ripencc|FR|asn|199758|1|20140207|allocated
 ripencc|BG|asn|199759|1|20140206|allocated
 ripencc|ES|asn|199760|1|20230222|allocated
@@ -122205,17 +122230,24 @@ ripencc|PL|asn|199761|1|20140205|allocated
 ripencc|ID|asn|199762|1|20230222|allocated
 ripencc|PL|asn|199763|1|20230222|allocated
 ripencc|GB|asn|199764|1|20140204|allocated
+ripencc|US|asn|199765|1|20260325|allocated
+ripencc|GB|asn|199766|1|20260325|allocated
+ripencc|CN|asn|199767|1|20260325|allocated
 ripencc|SE|asn|199768|1|20140203|allocated
 ripencc|DK|asn|199769|1|20140131|allocated
+ripencc|IQ|asn|199770|1|20260325|allocated
+ripencc|DE|asn|199771|1|20260325|allocated
 ripencc|ES|asn|199772|1|20230309|allocated
 ripencc|DK|asn|199773|1|20140130|allocated
 ripencc|PL|asn|199774|1|20140130|allocated
 ripencc|GB|asn|199775|1|20140129|allocated
+ripencc|DE|asn|199776|1|20260325|allocated
 ripencc|FR|asn|199777|1|20140129|allocated
 ripencc|RU|asn|199778|1|20140129|allocated
 ripencc|SE|asn|199780|1|20140128|allocated
 ripencc|SE|asn|199781|1|20140127|allocated
 ripencc|RU|asn|199782|1|20140127|allocated
+ripencc|US|asn|199783|1|20260325|allocated
 ripencc|SK|asn|199784|1|20230221|allocated
 ripencc|GB|asn|199785|1|20230221|allocated
 ripencc|DE|asn|199786|1|20140124|allocated
@@ -127255,6 +127287,7 @@ ripencc|MH|asn|204938|1|20251010|allocated
 ripencc|GB|asn|204939|1|20171204|allocated
 ripencc|IT|asn|204940|1|20171204|allocated
 ripencc|RU|asn|204941|1|20171204|allocated
+ripencc|GB|asn|204942|1|20260325|allocated
 ripencc|CZ|asn|204943|1|20171204|allocated
 ripencc|AT|asn|204944|1|20251009|allocated
 ripencc|GB|asn|204945|1|20171201|allocated
@@ -131682,6 +131715,7 @@ ripencc|DE|asn|209530|1|20220121|allocated
 ripencc|SK|asn|209531|1|20190122|allocated
 ripencc|FR|asn|209532|1|20190122|allocated
 ripencc|CH|asn|209533|1|20191001|allocated
+ripencc|NO|asn|209534|1|20260325|allocated
 ripencc|ES|asn|209535|1|20190122|allocated
 ripencc|GB|asn|209536|1|20190122|allocated
 ripencc|EE|asn|209537|1|20190122|allocated
@@ -134504,7 +134538,6 @@ ripencc|GB|asn|212474|1|20201021|allocated
 ripencc|GB|asn|212475|1|20201020|allocated
 ripencc|IR|asn|212476|1|20201020|allocated
 ripencc|NL|asn|212477|1|20201020|allocated
-ripencc|IT|asn|212478|1|20201020|allocated
 ripencc|GB|asn|212479|1|20251014|allocated
 ripencc|RU|asn|212480|1|20201019|allocated
 ripencc|FR|asn|212481|1|20201019|allocated
@@ -137692,7 +137725,6 @@ ripencc|AE|asn|215935|1|20260102|allocated
 ripencc|FR|asn|215936|1|20231127|allocated
 ripencc|LB|asn|215937|1|20231127|allocated
 ripencc|IR|asn|215938|1|20241104|allocated
-ripencc|IL|asn|215939|1|20231127|allocated
 ripencc|UZ|asn|215940|1|20240527|allocated
 ripencc|BG|asn|215941|1|20231124|allocated
 ripencc|NL|asn|215942|1|20231124|allocated
@@ -159573,6 +159605,8 @@ ripencc|US|ipv6|2a13:7e40::|29|20230609|allocated
 ripencc|DE|ipv6|2a13:7e80::|29|20220908|allocated
 ripencc|GB|ipv6|2a13:7ec0::|29|20230609|allocated
 ripencc|NO|ipv6|2a13:7f00::|29|20220727|allocated
+ripencc|GB|ipv6|2a13:7f40::|32|20260325|allocated
+ripencc|NO|ipv6|2a13:7f80::|29|20260325|allocated
 ripencc|LU|ipv6|2a13:7fc0::|32|20230612|allocated
 ripencc|LT|ipv6|2a13:8000::|29|20230113|allocated
 ripencc|ES|ipv6|2a13:8080::|32|20230221|allocated
@@ -161910,6 +161944,7 @@ ripencc|GB|ipv6|2001:678:120c::|48|20260318|assigned
 ripencc|DE|ipv6|2001:678:1210::|48|20260320|assigned
 ripencc|GB|ipv6|2001:678:1214::|48|20260320|assigned
 ripencc|GB|ipv6|2001:678:1218::|48|20260324|assigned
+ripencc|AT|ipv6|2001:678:121c::|48|20260325|assigned
 ripencc|IE|ipv6|2001:67c::|48|20090507|assigned
 ripencc|DE|ipv6|2001:67c:4::|48|20090703|assigned
 ripencc|CH|ipv6|2001:67c:8::|48|20090522|assigned
@@ -163241,7 +163276,6 @@ ripencc|SE|ipv6|2001:67c:169c::|48|20121030|assigned
 ripencc|DK|ipv6|2001:67c:16a0::|48|20121031|assigned
 ripencc|DK|ipv6|2001:67c:16a4::|48|20121031|assigned
 ripencc|AT|ipv6|2001:67c:16a8::|48|20121031|assigned
-ripencc|ES|ipv6|2001:67c:16ac::|48|20121031|assigned
 ripencc|SE|ipv6|2001:67c:16b0::|48|20121101|assigned
 ripencc|NL|ipv6|2001:67c:16b4::|48|20121102|assigned
 ripencc|BG|ipv6|2001:67c:16b8::|48|20121102|assigned
@@ -164841,6 +164875,7 @@ ripencc|PL|ipv6|2001:7f8:16d::|48|20251219|assigned
 ripencc|PL|ipv6|2001:7f8:16e::|48|20251219|assigned
 ripencc|NL|ipv6|2001:7f8:16f::|48|20260318|assigned
 ripencc|AT|ipv6|2001:7f8:170::|48|20260320|assigned
+ripencc|TR|ipv6|2001:7f8:171::|48|20260325|assigned
 ripencc|PL|ipv6|2001:7f9::|48|20210412|assigned
 ripencc|AL|ipv6|2001:7f9:4::|48|20160526|assigned
 ripencc|AM|ipv6|2001:7f9:8::|48|20160630|assigned
