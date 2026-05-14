@@ -1,4 +1,4 @@
-2|ripencc|1778709599|165689|19700101|20260513|+0200
+2|ripencc|1778795999|165689|19700101|20260514|+0200
 ripencc|*|ipv4|*|99540|summary
 ripencc|*|asn|*|39430|summary
 ripencc|*|ipv6|*|26719|summary
