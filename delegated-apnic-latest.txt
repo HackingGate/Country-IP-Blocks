@@ -25,10 +25,10 @@
 #
 ######################################################################
 #
-2|apnic|20260702|88515|19830613|20260701|+1000
+2|apnic|20260703|88519|19830613|20260702|+1000
 apnic|*|asn|*|13720|summary
-apnic|*|ipv4|*|57843|summary
-apnic|*|ipv6|*|16952|summary
+apnic|*|ipv4|*|57844|summary
+apnic|*|ipv6|*|16955|summary
 apnic|JP|asn|173|1|20020801|allocated
 apnic|NZ|asn|681|1|20020801|allocated
 apnic|SG|asn|963|1|20220622|allocated
@@ -1583,7 +1583,6 @@ apnic|AU|asn|18381|1|20170530|allocated
 apnic|JP|asn|18383|1|20021017|allocated
 apnic|AU|asn|18384|1|20021021|allocated
 apnic|LA|asn|18385|1|20021021|allocated
-apnic|TH|asn|18386|1|20021022|allocated
 apnic|CN|asn|18387|1|20170613|allocated
 apnic|AU|asn|18388|1|20021022|allocated
 apnic|PH|asn|18389|1|20021023|allocated
@@ -2375,7 +2374,6 @@ apnic|NP|asn|38217|1|20060912|allocated
 apnic|MN|asn|38218|1|20060913|allocated
 apnic|AU|asn|38220|1|20060913|allocated
 apnic|JP|asn|38222|1|20210406|allocated
-apnic|TH|asn|38223|1|20060914|allocated
 apnic|IN|asn|38224|1|20060915|allocated
 apnic|AU|asn|38225|1|20060922|allocated
 apnic|HK|asn|38226|1|20070924|allocated
@@ -2724,7 +2722,6 @@ apnic|PK|asn|45127|1|20080228|allocated
 apnic|AU|asn|45128|1|20090527|allocated
 apnic|NZ|asn|45131|1|20080304|allocated
 apnic|SG|asn|45133|1|20080305|allocated
-apnic|TH|asn|45134|1|20080305|allocated
 apnic|NZ|asn|45135|1|20080305|allocated
 apnic|HK|asn|45136|1|20080306|allocated
 apnic|NZ|asn|45138|1|20080307|allocated
@@ -3293,7 +3290,6 @@ apnic|PH|asn|55402|1|20100201|allocated
 apnic|TH|asn|55403|1|20100201|allocated
 apnic|MY|asn|55405|1|20100205|allocated
 apnic|BD|asn|55406|1|20100205|allocated
-apnic|TH|asn|55407|1|20100208|allocated
 apnic|MN|asn|55408|1|20100208|allocated
 apnic|AU|asn|55409|1|20100208|allocated
 apnic|IN|asn|55410|1|20100209|allocated
@@ -5608,7 +5604,6 @@ apnic|HK|asn|133182|1|20241214|allocated
 apnic|US|asn|133183|1|20131209|allocated
 apnic|AU|asn|133184|1|20131209|allocated
 apnic|NP|asn|133185|1|20131209|allocated
-apnic|NZ|asn|133186|1|20131211|allocated
 apnic|NZ|asn|133187|1|20131211|allocated
 apnic|NZ|asn|133188|1|20131213|allocated
 apnic|AU|asn|133189|1|20131213|allocated
@@ -11121,7 +11116,6 @@ apnic|BD|asn|149281|1|20211209|allocated
 apnic|HK|asn|149282|1|20211209|allocated
 apnic|PK|asn|149283|1|20211209|allocated
 apnic|BD|asn|149284|1|20211210|allocated
-apnic|HK|asn|149285|1|20211210|allocated
 apnic|US|asn|149286|1|20211210|allocated
 apnic|BD|asn|149287|1|20211213|allocated
 apnic|AU|asn|149288|1|20211213|allocated
@@ -12126,6 +12120,7 @@ apnic|VN|asn|151851|100|20231009|allocated
 apnic|CN|asn|151951|1|20231009|allocated
 apnic|AU|asn|151952|1|20231010|allocated
 apnic|LA|asn|151953|1|20231010|allocated
+apnic|BD|asn|151954|1|20260702|allocated
 apnic|BT|asn|151955|1|20231011|allocated
 apnic|NZ|asn|151956|1|20231011|allocated
 apnic|BD|asn|151957|1|20231011|allocated
@@ -12228,6 +12223,7 @@ apnic|IN|asn|152157|1|20260427|allocated
 apnic|US|asn|152158|1|20231211|allocated
 apnic|HK|asn|152159|1|20231211|allocated
 apnic|BD|asn|152160|1|20231212|allocated
+apnic|HK|asn|152161|1|20260701|allocated
 apnic|IN|asn|152162|1|20231212|allocated
 apnic|BD|asn|152163|1|20231212|allocated
 apnic|AU|asn|152164|1|20231130|allocated
@@ -13747,6 +13743,10 @@ apnic|ID|asn|154736|1|20260626|allocated
 apnic|ID|asn|154737|1|20260629|allocated
 apnic|ID|asn|154738|1|20260630|allocated
 apnic|IN|asn|154739|1|20260630|allocated
+apnic|AU|asn|154740|1|20260701|allocated
+apnic|SG|asn|154742|1|20260702|allocated
+apnic|SG|asn|154743|1|20260702|allocated
+apnic|IN|asn|154744|1|20260702|allocated
 apnic|HK|asn|199073|1|20230329|allocated
 apnic|KR|asn|202348|1|20221012|allocated
 apnic|AU|ipv4|1.0.0.0|256|20110811|assigned
@@ -44892,7 +44892,6 @@ apnic|TH|ipv4|103.254.215.0|256|20230822|assigned
 apnic|VN|ipv4|103.254.216.0|1024|20131212|allocated
 apnic|CN|ipv4|103.254.220.0|1024|20131212|allocated
 apnic|PF|ipv4|103.254.224.0|1024|20131212|allocated
-apnic|NZ|ipv4|103.254.228.0|512|20131212|assigned
 apnic|IN|ipv4|103.254.230.0|256|20131212|assigned
 apnic|AU|ipv4|103.254.231.0|256|20230515|assigned
 apnic|PF|ipv4|103.254.232.0|1024|20131212|allocated
@@ -53592,6 +53591,8 @@ apnic|AU|ipv4|160.236.50.0|512|20260701|allocated
 apnic|SG|ipv4|160.236.52.0|512|20260701|assigned
 apnic|IN|ipv4|160.236.54.0|256|20260701|assigned
 apnic|ID|ipv4|160.236.55.0|256|20260701|assigned
+apnic|AU|ipv4|160.236.56.0|512|20260701|allocated
+apnic|BD|ipv4|160.236.58.0|512|20260702|allocated
 apnic|JP|ipv4|160.237.0.0|16384|19930416|allocated
 apnic|JP|ipv4|160.237.64.0|16384|19930416|allocated
 apnic|JP|ipv4|160.237.128.0|16384|19930416|allocated
@@ -73488,7 +73489,6 @@ apnic|IN|ipv6|2001:df1:3700::|48|20170516|assigned
 apnic|IN|ipv6|2001:df1:3740::|48|20220901|assigned
 apnic|HK|ipv6|2001:df1:3780::|48|20190821|assigned
 apnic|IN|ipv6|2001:df1:37c0::|48|20220901|assigned
-apnic|NZ|ipv6|2001:df1:3800::|48|20131212|assigned
 apnic|IN|ipv6|2001:df1:3840::|48|20220901|assigned
 apnic|HK|ipv6|2001:df1:3880::|48|20190821|assigned
 apnic|IN|ipv6|2001:df1:38c0::|48|20220901|assigned
@@ -79124,7 +79124,9 @@ apnic|ID|ipv6|2001:df7:2a40::|48|20260630|assigned
 apnic|BD|ipv6|2001:df7:2a80::|48|20210802|assigned
 apnic|ID|ipv6|2001:df7:2ac0::|48|20260701|assigned
 apnic|IN|ipv6|2001:df7:2b00::|48|20181119|assigned
+apnic|SG|ipv6|2001:df7:2b40::|48|20260702|assigned
 apnic|CN|ipv6|2001:df7:2b80::|48|20210802|assigned
+apnic|BD|ipv6|2001:df7:2bc0::|48|20260702|assigned
 apnic|IN|ipv6|2001:df7:2c80::|48|20210802|assigned
 apnic|ID|ipv6|2001:df7:2d00::|48|20181121|assigned
 apnic|BD|ipv6|2001:df7:2d80::|48|20210803|assigned
@@ -83572,6 +83574,8 @@ apnic|BD|ipv6|2402:6520::|32|20260629|allocated
 apnic|MM|ipv6|2402:6540::|32|20180125|allocated
 apnic|AU|ipv6|2402:6560::|32|20260701|allocated
 apnic|AU|ipv6|2402:6580::|32|20150525|allocated
+apnic|AU|ipv6|2402:65a0::|32|20260701|allocated
+apnic|IN|ipv6|2402:65e0::|32|20260702|allocated
 apnic|AU|ipv6|2402:6600::|32|20100517|allocated
 apnic|NP|ipv6|2402:6640::|32|20180127|allocated
 apnic|CN|ipv6|2402:66c0::|32|20180129|allocated
