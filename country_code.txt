@@ -192,6 +192,7 @@ SC
 SD
 SE
 SG
+SH
 SI
 SK
 SL
